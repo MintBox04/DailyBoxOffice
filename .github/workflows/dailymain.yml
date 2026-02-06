@@ -1,4 +1,4 @@
-name: BMS DailyBO 1–9 + Combine (Matrix)
+name: BMS DailyBO 1–9 + Combine (Code → Data Repo)
 
 on:
   workflow_dispatch:
@@ -6,11 +6,11 @@ on:
     - cron: "5 * * * *"
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
 # =====================================================
-# 1️⃣ SHARDS (UNCHANGED)
+# 1️⃣ SHARDS (SCRAPE ONLY — NO LOCAL SAVE)
 # =====================================================
   shards:
     name: Shard ${{ matrix.shard }}
@@ -23,11 +23,8 @@ jobs:
         shard: [1,2,3,4,5,6,7,8,9]
 
     steps:
-      - name: 🧾 Checkout repo
+      - name: 🧾 Checkout DailyBoxOffice (code only)
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
@@ -38,110 +35,67 @@ jobs:
         run: |
           pip install cloudscraper aiohttp pytz
 
-      - name: 🚀 Run shard scraper
-        run: python bmsdaily${{ matrix.shard }}.py
-
-      - name: 💾 Commit & push shard data
+      - name: 🚀 Run shard scraper (local temp data)
         run: |
+          python bmsdaily${{ matrix.shard }}.py
+
+      - name: 📤 Push shard data to BoxOfficeData
+        env:
+          DATA_REPO_TOKEN: ${{ secrets.BOXOFFICE_DATA_TOKEN }}
+        run: |
+          git clone https://x-access-token:${DATA_REPO_TOKEN}@github.com/MintBox04/BoxOfficeData.git data-repo
+
+          rsync -av daily/ data-repo/daily/
+          rsync -av advance/ data-repo/advance/ || true
+
+          cd data-repo
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add daily/
-          git commit -m "Daily BMS shard ${{ matrix.shard }} ($(date +'%Y-%m-%d %H:%M'))" || exit 0
-
-          for i in 1 2 3; do
-            git pull --rebase origin main || true
-            git push origin main && exit 0
-            sleep 3
-          done
-
-          git push --force-with-lease origin main || true
+          git add daily advance
+          git commit -m "Shard ${{ matrix.shard }} update ($(date -u +'%Y-%m-%d %H:%M UTC'))" || exit 0
+          git pull --rebase origin main || true
+          git push origin main
 
 # =====================================================
-# 2️⃣ COMBINER (HARDENED + AUTO-RETRY)
+# 2️⃣ COMBINE (FINAL AUTHORITY)
 # =====================================================
   combine:
-    name: Combine all shards (Safe)
+    name: Combine all shards (Final → Data Repo)
     needs: shards
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
-    # 🔒 Only ONE combiner ever
     concurrency:
       group: bms-combiner
       cancel-in-progress: false
 
     steps:
-      - name: 🧾 Checkout repo
+      - name: 🧾 Checkout DailyBoxOffice (code only)
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12.1"
 
-      - name: 🔁 Safe combine + push (retry loop)
+      - name: 🔁 Combine & push final data
+        env:
+          DATA_REPO_TOKEN: ${{ secrets.BOXOFFICE_DATA_TOKEN }}
         run: |
-          set -e
+          pip install pytz
+          python combine_dailyshards.py
 
+          git clone https://x-access-token:${DATA_REPO_TOKEN}@github.com/MintBox04/BoxOfficeData.git data-repo
+
+          rsync -av daily/ data-repo/daily/
+          rsync -av advance/ data-repo/advance/ || true
+
+          cd data-repo
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          MAX_TRIES=6
-          TRY=1
-
-          while [ $TRY -le $MAX_TRIES ]; do
-            echo "🔁 Combine attempt $TRY / $MAX_TRIES"
-
-            # Always rebuild on latest main
-            git fetch origin main
-            git reset --hard origin/main
-
-            pip install pytz
-            python combine_dailyshards.py
-
-            git add daily/
-
-            if git diff --cached --quiet; then
-              echo "✅ No changes after combine"
-              exit 0
-            fi
-
-            git commit -m "Final combined BMS data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-
-            if git push origin main; then
-              echo "✅ Combine push successful"
-              exit 0
-            fi
-
-            echo "⚠ Push failed — main moved. Retrying..."
-            TRY=$((TRY+1))
-            sleep 5
-          done
-
-          echo "❌ Combine failed after $MAX_TRIES attempts"
-          exit 1
-
-# =====================================================
-# 3️⃣ AUTO RE-RUN COMBINER ON FAILURE
-# =====================================================
-  retry-combine:
-    name: Auto retry combiner
-    needs: combine
-    if: failure()
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: 🔁 Trigger workflow again
-        uses: actions/github-script@v7
-        with:
-          script: |
-            await github.rest.actions.createWorkflowDispatch({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              workflow_id: context.workflow,
-              ref: context.ref
-            });
+          git add daily advance
+          git commit -m "Final combined BO data ($(date -u +'%Y-%m-%d %H:%M UTC'))" || exit 0
+          git pull --rebase origin main || true
+          git push origin main
