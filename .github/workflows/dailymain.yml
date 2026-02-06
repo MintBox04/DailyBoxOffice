@@ -43,12 +43,17 @@ jobs:
         env:
           DATA_REPO_TOKEN: ${{ secrets.BOXOFFICE_DATA_TOKEN }}
         run: |
+          set -e
+
           git clone https://x-access-token:${DATA_REPO_TOKEN}@github.com/MintBox04/BoxOfficeData.git data-repo
 
-          # ✅ Copy daily data (CORRECT PATH)
+          # 🔑 ENSURE SOURCE DIR EXISTS (CRITICAL FIX)
+          mkdir -p daily/data
+
+          # Sync daily shard data
           rsync -av daily/data/ data-repo/daily/data/
 
-          # Copy advance data ONLY if exists
+          # Sync advance data only if exists
           if [ -d advance ]; then
             rsync -av advance/ data-repo/advance/
           fi
@@ -74,7 +79,6 @@ jobs:
               exit 0
             fi
 
-            echo "⚠ Push failed, retrying..."
             TRY=$((TRY+1))
             sleep 3
           done
@@ -108,14 +112,20 @@ jobs:
         env:
           DATA_REPO_TOKEN: ${{ secrets.BOXOFFICE_DATA_TOKEN }}
         run: |
+          set -e
+
           pip install pytz
           python combine_dailyshards.py
 
           git clone https://x-access-token:${DATA_REPO_TOKEN}@github.com/MintBox04/BoxOfficeData.git data-repo
 
-          # ✅ Copy daily data (CORRECT PATH)
+          # 🔑 ENSURE SOURCE DIR EXISTS (CRITICAL FIX)
+          mkdir -p daily/data
+
+          # Sync combined daily data
           rsync -av daily/data/ data-repo/daily/data/
 
+          # Sync advance data only if exists
           if [ -d advance ]; then
             rsync -av advance/ data-repo/advance/
           fi
@@ -141,7 +151,6 @@ jobs:
               exit 0
             fi
 
-            echo "⚠ Push failed, retrying..."
             TRY=$((TRY+1))
             sleep 5
           done
