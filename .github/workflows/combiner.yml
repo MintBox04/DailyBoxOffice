@@ -41,7 +41,7 @@ jobs:
       # ---------------- RUN COMBINE ----------------
       - name: 🔗 Combine shards
         run: |
-          python combine_shards.py
+          python combine_dailyshards.py
 
       # ---------------- GIT CONFIG ----------------
       - name: 🧑‍💻 Configure git
