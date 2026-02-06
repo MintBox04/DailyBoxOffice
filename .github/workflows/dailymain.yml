@@ -10,7 +10,7 @@ permissions:
 
 jobs:
 # =====================================================
-# 1️⃣ SHARDS (PARALLEL SCRAPERS → DATA REPO)
+# 1️⃣ SHARDS (PARALLEL → DATA REPO)
 # =====================================================
   shards:
     name: Shard ${{ matrix.shard }}
@@ -23,7 +23,7 @@ jobs:
         shard: [1,2,3,4,5,6,7,8,9]
 
     steps:
-      - name: 🧾 Checkout DailyBoxOffice (code only)
+      - name: 🧾 Checkout DailyBoxOffice (code repo)
         uses: actions/checkout@v4
 
       - name: 🐍 Setup Python
@@ -39,12 +39,13 @@ jobs:
         run: |
           python bmsdaily${{ matrix.shard }}.py
 
-      - name: 📤 Push shard data to BoxOfficeData (FIXED)
+      - name: 📤 Push shard data (Daily + Advance)
         env:
           DATA_REPO_TOKEN: ${{ secrets.BOXOFFICE_DATA_TOKEN }}
         run: |
           set -e
 
+          # ---------- clone data repo ----------
           git clone https://x-access-token:${DATA_REPO_TOKEN}@github.com/MintBox04/BoxOfficeData.git data-repo
           cd data-repo
 
@@ -57,17 +58,23 @@ jobs:
           while [ $TRY -le $MAX_TRIES ]; do
             echo "🔁 Shard push attempt $TRY / $MAX_TRIES"
 
-            # 🔑 RESET FIRST (IMPORTANT)
+            # ---------- ALWAYS RESET FIRST ----------
             git fetch origin main
             git reset --hard origin/main
 
-            # 🔑 ENSURE DIR EXISTS
-            mkdir -p daily/data
+            # ---------- ENSURE SOURCE EXISTS (CODE REPO) ----------
+            mkdir -p ../daily/data
+            mkdir -p ../advance
 
-            # 🔑 COPY FILES AFTER RESET
+            # ---------- ENSURE DEST EXISTS (DATA REPO) ----------
+            mkdir -p daily/data
+            mkdir -p advance
+
+            # ---------- COPY DAILY ----------
             rsync -av ../daily/data/ daily/data/
 
-            if [ -d ../advance ]; then
+            # ---------- COPY ADVANCE (ONLY IF EXISTS) ----------
+            if [ "$(ls -A ../advance 2>/dev/null)" ]; then
               rsync -av ../advance/ advance/
             fi
 
@@ -87,7 +94,7 @@ jobs:
           exit 1
 
 # =====================================================
-# 2️⃣ COMBINE (FINAL AUTHORITY → DATA REPO)
+# 2️⃣ COMBINE (FINAL AUTHORITY)
 # =====================================================
   combine:
     name: Combine all shards (FINAL)
@@ -100,7 +107,7 @@ jobs:
       cancel-in-progress: false
 
     steps:
-      - name: 🧾 Checkout DailyBoxOffice (code only)
+      - name: 🧾 Checkout DailyBoxOffice (code repo)
         uses: actions/checkout@v4
 
       - name: 🐍 Setup Python
@@ -108,7 +115,7 @@ jobs:
         with:
           python-version: "3.12.1"
 
-      - name: 🔁 Combine & push final data (FIXED)
+      - name: 🔁 Combine & push final data
         env:
           DATA_REPO_TOKEN: ${{ secrets.BOXOFFICE_DATA_TOKEN }}
         run: |
@@ -117,6 +124,7 @@ jobs:
           pip install pytz
           python combine_dailyshards.py
 
+          # ---------- clone data repo ----------
           git clone https://x-access-token:${DATA_REPO_TOKEN}@github.com/MintBox04/BoxOfficeData.git data-repo
           cd data-repo
 
@@ -129,16 +137,23 @@ jobs:
           while [ $TRY -le $MAX_TRIES ]; do
             echo "🔁 Combine push attempt $TRY / $MAX_TRIES"
 
-            # 🔑 RESET FIRST
+            # ---------- RESET FIRST ----------
             git fetch origin main
             git reset --hard origin/main
 
-            mkdir -p daily/data
+            # ---------- ENSURE SOURCE EXISTS ----------
+            mkdir -p ../daily/data
+            mkdir -p ../advance
 
-            # 🔑 COPY FILES AFTER RESET
+            # ---------- ENSURE DEST EXISTS ----------
+            mkdir -p daily/data
+            mkdir -p advance
+
+            # ---------- COPY DAILY ----------
             rsync -av ../daily/data/ daily/data/
 
-            if [ -d ../advance ]; then
+            # ---------- COPY ADVANCE ----------
+            if [ "$(ls -A ../advance 2>/dev/null)" ]; then
               rsync -av ../advance/ advance/
             fi
 
