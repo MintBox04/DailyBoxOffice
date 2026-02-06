@@ -39,26 +39,15 @@ jobs:
         run: |
           python bmsdaily${{ matrix.shard }}.py
 
-      - name: 📤 Push shard data to BoxOfficeData (SAFE)
+      - name: 📤 Push shard data to BoxOfficeData (FIXED)
         env:
           DATA_REPO_TOKEN: ${{ secrets.BOXOFFICE_DATA_TOKEN }}
         run: |
           set -e
 
           git clone https://x-access-token:${DATA_REPO_TOKEN}@github.com/MintBox04/BoxOfficeData.git data-repo
-
-          # 🔑 ENSURE SOURCE DIR EXISTS (CRITICAL FIX)
-          mkdir -p daily/data
-
-          # Sync daily shard data
-          rsync -av daily/data/ data-repo/daily/data/
-
-          # Sync advance data only if exists
-          if [ -d advance ]; then
-            rsync -av advance/ data-repo/advance/
-          fi
-
           cd data-repo
+
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
@@ -68,8 +57,19 @@ jobs:
           while [ $TRY -le $MAX_TRIES ]; do
             echo "🔁 Shard push attempt $TRY / $MAX_TRIES"
 
+            # 🔑 RESET FIRST (IMPORTANT)
             git fetch origin main
             git reset --hard origin/main
+
+            # 🔑 ENSURE DIR EXISTS
+            mkdir -p daily/data
+
+            # 🔑 COPY FILES AFTER RESET
+            rsync -av ../daily/data/ daily/data/
+
+            if [ -d ../advance ]; then
+              rsync -av ../advance/ advance/
+            fi
 
             git add daily/data advance
             git commit -m "Shard ${{ matrix.shard }} update ($(date -u +'%Y-%m-%d %H:%M UTC'))" || true
@@ -108,7 +108,7 @@ jobs:
         with:
           python-version: "3.12.1"
 
-      - name: 🔁 Combine & push final data
+      - name: 🔁 Combine & push final data (FIXED)
         env:
           DATA_REPO_TOKEN: ${{ secrets.BOXOFFICE_DATA_TOKEN }}
         run: |
@@ -118,19 +118,8 @@ jobs:
           python combine_dailyshards.py
 
           git clone https://x-access-token:${DATA_REPO_TOKEN}@github.com/MintBox04/BoxOfficeData.git data-repo
-
-          # 🔑 ENSURE SOURCE DIR EXISTS (CRITICAL FIX)
-          mkdir -p daily/data
-
-          # Sync combined daily data
-          rsync -av daily/data/ data-repo/daily/data/
-
-          # Sync advance data only if exists
-          if [ -d advance ]; then
-            rsync -av advance/ data-repo/advance/
-          fi
-
           cd data-repo
+
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
@@ -140,8 +129,18 @@ jobs:
           while [ $TRY -le $MAX_TRIES ]; do
             echo "🔁 Combine push attempt $TRY / $MAX_TRIES"
 
+            # 🔑 RESET FIRST
             git fetch origin main
             git reset --hard origin/main
+
+            mkdir -p daily/data
+
+            # 🔑 COPY FILES AFTER RESET
+            rsync -av ../daily/data/ daily/data/
+
+            if [ -d ../advance ]; then
+              rsync -av ../advance/ advance/
+            fi
 
             git add daily/data advance
             git commit -m "Final combined BO data ($(date -u +'%Y-%m-%d %H:%M UTC'))" || true
