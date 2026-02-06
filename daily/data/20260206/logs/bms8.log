@@ -1042,3 +1042,971 @@
 [12:47:54] 🧠 New identity created
 [12:47:54] ⚠️ PERMANENT FAILURES: 6
 [12:47:54] ✅ DONE | Shows=819 | Movies=91
+[14:22:14] 🚀 SCRIPT STARTED
+[14:22:14] [1/426] KMPV
+[14:22:14] 🧠 New identity created
+[14:22:15] [2/426] SKTV
+[14:22:15] 🧠 New identity created
+[14:22:16] [3/426] STCV
+[14:22:16] 🧠 New identity created
+[14:22:17] [4/426] SRDA
+[14:22:17] 🧠 New identity created
+[14:22:18] [5/426] JTSX
+[14:22:18] 🧠 New identity created
+[14:22:18] 🔄 Identity reset
+[14:22:18] ❌ FAILED | JTSX | Blocked / HTML
+[14:22:19] [6/426] STBV
+[14:22:19] 🧠 New identity created
+[14:22:20] [7/426] APVZ
+[14:22:20] 🧠 New identity created
+[14:22:20] [8/426] GSTV
+[14:22:20] 🧠 New identity created
+[14:22:21] 🔄 Identity reset
+[14:22:21] ❌ FAILED | GSTV | Blocked / HTML
+[14:22:21] [9/426] NMVS
+[14:22:21] 🧠 New identity created
+[14:22:22] [10/426] SKRT
+[14:22:22] 🧠 New identity created
+[14:22:23] [11/426] RMDV
+[14:22:23] 🧠 New identity created
+[14:22:23] 🔄 Identity reset
+[14:22:23] ❌ FAILED | RMDV | Blocked / HTML
+[14:22:24] [12/426] RATG
+[14:22:24] 🧠 New identity created
+[14:22:25] [13/426] SJYV
+[14:22:25] 🧠 New identity created
+[14:22:26] [14/426] NDGP
+[14:22:26] 🧠 New identity created
+[14:22:27] [15/426] SNDG
+[14:22:27] 🧠 New identity created
+[14:22:27] [16/426] INSR
+[14:22:28] 🧠 New identity created
+[14:22:28] [17/426] INSO
+[14:22:28] 🧠 New identity created
+[14:22:29] [18/426] CCSI
+[14:22:29] 🧠 New identity created
+[14:22:30] [19/426] RASM
+[14:22:30] 🧠 New identity created
+[14:22:31] [20/426] NEWC
+[14:22:31] 🧠 New identity created
+[14:22:32] [21/426] VSHL
+[14:22:32] 🧠 New identity created
+[14:22:33] [22/426] BISW
+[14:22:33] 🧠 New identity created
+[14:22:33] [23/426] GCNG
+[14:22:33] 🧠 New identity created
+[14:22:34] [24/426] CWSC
+[14:22:34] 🧠 New identity created
+[14:22:35] [25/426] SKAN
+[14:22:35] 🧠 New identity created
+[14:22:35] [26/426] SEHP
+[14:22:35] 🧠 New identity created
+[14:22:36] [27/426] CCOA
+[14:22:36] 🧠 New identity created
+[14:22:37] [28/426] MCAJ
+[14:22:37] 🧠 New identity created
+[14:22:38] [29/426] ACDE
+[14:22:38] 🧠 New identity created
+[14:22:38] 🔄 Identity reset
+[14:22:38] ❌ FAILED | ACDE | Blocked / HTML
+[14:22:39] [30/426] AACM
+[14:22:39] 🧠 New identity created
+[14:22:40] [31/426] JJCK
+[14:22:40] 🧠 New identity created
+[14:22:41] [32/426] RCMO
+[14:22:41] 🧠 New identity created
+[14:22:42] [33/426] GDAW
+[14:22:42] 🧠 New identity created
+[14:22:43] [34/426] GCTA
+[14:22:43] 🧠 New identity created
+[14:22:43] [35/426] TOPN
+[14:22:43] 🧠 New identity created
+[14:22:44] [36/426] MCUS
+[14:22:44] 🧠 New identity created
+[14:22:45] [37/426] SHRL
+[14:22:45] 🧠 New identity created
+[14:22:46] [38/426] UPTP
+[14:22:46] 🧠 New identity created
+[14:22:46] [39/426] TMMP
+[14:22:47] 🧠 New identity created
+[14:22:47] [40/426] DNRP
+[14:22:47] 🧠 New identity created
+[14:22:48] [41/426] SRLT
+[14:22:48] 🧠 New identity created
+[14:22:49] [42/426] RCNS
+[14:22:49] 🧠 New identity created
+[14:22:50] [43/426] DCBH
+[14:22:50] 🧠 New identity created
+[14:22:51] [44/426] NAGJ
+[14:22:51] 🧠 New identity created
+[14:22:52] [45/426] JVRC
+[14:22:52] 🧠 New identity created
+[14:22:52] [46/426] KRJG
+[14:22:52] 🧠 New identity created
+[14:22:53] [47/426] SRTJ
+[14:22:53] 🧠 New identity created
+[14:22:54] [48/426] CMXM
+[14:22:54] 🧠 New identity created
+[14:22:55] [49/426] STMI
+[14:22:55] 🧠 New identity created
+[14:22:56] [50/426] SLST
+[14:22:56] 🧠 New identity created
+[14:22:57] [51/426] DTCN
+[14:22:57] 🧠 New identity created
+[14:22:58] [52/426] STYN
+[14:22:58] 🧠 New identity created
+[14:22:59] [53/426] SZVR
+[14:22:59] 🧠 New identity created
+[14:23:00] [54/426] SRKO
+[14:23:00] 🧠 New identity created
+[14:23:00] [55/426] JTGT
+[14:23:00] 🧠 New identity created
+[14:23:01] [56/426] SVFD
+[14:23:01] 🧠 New identity created
+[14:23:02] [57/426] SISD
+[14:23:02] 🧠 New identity created
+[14:23:03] [58/426] ABDD
+[14:23:03] 🧠 New identity created
+[14:23:04] [59/426] DRCA
+[14:23:04] 🧠 New identity created
+[14:23:05] [60/426] AVCS
+[14:23:05] 🧠 New identity created
+[14:23:05] [61/426] MVKH
+[14:23:05] 🧠 New identity created
+[14:23:06] [62/426] ACPR
+[14:23:06] 🧠 New identity created
+[14:23:07] [63/426] STIP
+[14:23:07] 🧠 New identity created
+[14:23:08] [64/426] MTRA
+[14:23:08] 🧠 New identity created
+[14:23:09] [65/426] RMKH
+[14:23:09] 🧠 New identity created
+[14:23:09] [66/426] NKRL
+[14:23:09] 🧠 New identity created
+[14:23:10] [67/426] PCWN
+[14:23:10] 🧠 New identity created
+[14:23:11] [68/426] BLMT
+[14:23:11] 🧠 New identity created
+[14:23:12] [69/426] GDPG
+[14:23:12] 🧠 New identity created
+[14:23:13] [70/426] SRMX
+[14:23:13] 🧠 New identity created
+[14:23:14] [71/426] JACP
+[14:23:14] 🧠 New identity created
+[14:23:15] [72/426] CPSH
+[14:23:15] 🧠 New identity created
+[14:23:15] [73/426] MCCD
+[14:23:15] 🧠 New identity created
+[14:23:16] [74/426] ECGH
+[14:23:16] 🧠 New identity created
+[14:23:17] [75/426] MKCK
+[14:23:17] 🧠 New identity created
+[14:23:18] [76/426] SRMM
+[14:23:18] 🧠 New identity created
+[14:23:19] [77/426] SKYR
+[14:23:19] 🧠 New identity created
+[14:23:20] [78/426] PCKC
+[14:23:20] 🧠 New identity created
+[14:23:21] [79/426] JCMA
+[14:23:21] 🧠 New identity created
+[14:23:21] [80/426] BSMP
+[14:23:21] 🧠 New identity created
+[14:23:22] [81/426] VSPA
+[14:23:22] 🧠 New identity created
+[14:23:23] [82/426] DJYA
+[14:23:23] 🧠 New identity created
+[14:23:24] [83/426] DIMP
+[14:23:24] 🧠 New identity created
+[14:23:25] [84/426] FXDR
+[14:23:25] 🧠 New identity created
+[14:23:26] [85/426] SSRC
+[14:23:26] 🧠 New identity created
+[14:23:26] [86/426] STHP
+[14:23:26] 🧠 New identity created
+[14:23:27] [87/426] CPPD
+[14:23:27] 🧠 New identity created
+[14:23:28] [88/426] FCLK
+[14:23:28] 🧠 New identity created
+[14:23:29] [89/426] SCPP
+[14:23:29] 🧠 New identity created
+[14:23:30] [90/426] DCMJ
+[14:23:30] 🧠 New identity created
+[14:23:30] [91/426] RCCR
+[14:23:30] 🧠 New identity created
+[14:23:32] [92/426] INMT
+[14:23:32] 🧠 New identity created
+[14:23:32] 🔄 Identity reset
+[14:23:32] ❌ FAILED | INMT | Blocked / HTML
+[14:23:33] [93/426] LXTK
+[14:23:33] 🧠 New identity created
+[14:23:33] [94/426] SRYK
+[14:23:33] 🧠 New identity created
+[14:23:34] [95/426] SGDK
+[14:23:34] 🧠 New identity created
+[14:23:35] [96/426] PPKA
+[14:23:35] 🧠 New identity created
+[14:23:36] [97/426] SPKA
+[14:23:36] 🧠 New identity created
+[14:23:37] [98/426] CGHH
+[14:23:37] 🧠 New identity created
+[14:23:37] [99/426] DCJN
+[14:23:37] 🧠 New identity created
+[14:23:38] [100/426] SRKV
+[14:23:38] 🧠 New identity created
+[14:23:39] [101/426] SAJC
+[14:23:39] 🧠 New identity created
+[14:23:40] [102/426] SUSR
+[14:23:40] 🧠 New identity created
+[14:23:40] 🔄 Identity reset
+[14:23:40] ❌ FAILED | SUSR | Blocked / HTML
+[14:23:41] [103/426] STYG
+[14:23:41] 🧠 New identity created
+[14:23:41] [104/426] NTKP
+[14:23:41] 🧠 New identity created
+[14:23:43] [105/426] AKTG
+[14:23:43] 🧠 New identity created
+[14:23:44] [106/426] CGCM
+[14:23:44] 🧠 New identity created
+[14:23:44] [107/426] TULC
+[14:23:44] 🧠 New identity created
+[14:23:45] [108/426] NYYZ
+[14:23:45] 🧠 New identity created
+[14:23:46] [109/426] NYBW
+[14:23:46] 🧠 New identity created
+[14:23:46] [110/426] MACB
+[14:23:47] 🧠 New identity created
+[14:23:47] [111/426] SLVT
+[14:23:47] 🧠 New identity created
+[14:23:48] [112/426] SANA
+[14:23:48] 🧠 New identity created
+[14:23:49] [113/426] ACMR
+[14:23:49] 🧠 New identity created
+[14:23:49] [114/426] CPKN
+[14:23:49] 🧠 New identity created
+[14:23:51] [115/426] DLGK
+[14:23:51] 🧠 New identity created
+[14:23:52] [116/426] CWCK
+[14:23:52] 🧠 New identity created
+[14:23:53] [117/426] FDDH
+[14:23:53] 🧠 New identity created
+[14:23:54] [118/426] MMMD
+[14:23:54] 🧠 New identity created
+[14:23:54] [119/426] CMEH
+[14:23:55] 🧠 New identity created
+[14:23:55] [120/426] GGGV
+[14:23:55] 🧠 New identity created
+[14:23:56] [121/426] SPJL
+[14:23:56] 🧠 New identity created
+[14:23:57] [122/426] RCCD
+[14:23:57] 🧠 New identity created
+[14:23:58] [123/426] STTZ
+[14:23:58] 🧠 New identity created
+[14:23:58] 🔄 Identity reset
+[14:23:58] ❌ FAILED | STTZ | Blocked / HTML
+[14:23:59] [124/426] BTCF
+[14:23:59] 🧠 New identity created
+[14:24:00] [125/426] TSTZ
+[14:24:00] 🧠 New identity created
+[14:24:01] [126/426] IPMM
+[14:24:01] 🧠 New identity created
+[14:24:01] [127/426] PMPW
+[14:24:01] 🧠 New identity created
+[14:24:02] [128/426] PCMZ
+[14:24:02] 🧠 New identity created
+[14:24:03] [129/426] ESEM
+[14:24:03] 🧠 New identity created
+[14:24:04] [130/426] PIPO
+[14:24:04] 🧠 New identity created
+[14:24:05] [131/426] MATK
+[14:24:05] 🧠 New identity created
+[14:24:05] 🔄 Identity reset
+[14:24:05] ❌ FAILED | MATK | Blocked / HTML
+[14:24:06] [132/426] PGHM
+[14:24:06] 🧠 New identity created
+[14:24:07] [133/426] CTSR
+[14:24:07] 🧠 New identity created
+[14:24:08] [134/426] CYKR
+[14:24:08] 🧠 New identity created
+[14:24:08] [135/426] MSCM
+[14:24:08] 🧠 New identity created
+[14:24:09] [136/426] RFNP
+[14:24:09] 🧠 New identity created
+[14:24:09] 🔄 Identity reset
+[14:24:09] ❌ FAILED | RFNP | Blocked / HTML
+[14:24:10] [137/426] PDCP
+[14:24:10] 🧠 New identity created
+[14:24:11] [138/426] NPSE
+[14:24:11] 🧠 New identity created
+[14:24:12] [139/426] MKML
+[14:24:12] 🧠 New identity created
+[14:24:12] [140/426] FTDP
+[14:24:12] 🧠 New identity created
+[14:24:13] [141/426] MMXA
+[14:24:13] 🧠 New identity created
+[14:24:14] [142/426] CEPO
+[14:24:14] 🧠 New identity created
+[14:24:15] [143/426] CMVP
+[14:24:15] 🧠 New identity created
+[14:24:15] [144/426] SGTH
+[14:24:15] 🧠 New identity created
+[14:24:15] 🔄 Identity reset
+[14:24:15] ❌ FAILED | SGTH | Blocked / HTML
+[14:24:16] [145/426] SAYN
+[14:24:16] 🧠 New identity created
+[14:24:17] [146/426] URVS
+[14:24:17] 🧠 New identity created
+[14:24:18] [147/426] VJTN
+[14:24:18] 🧠 New identity created
+[14:24:19] [148/426] BBYK
+[14:24:19] 🧠 New identity created
+[14:24:19] [149/426] SHBO
+[14:24:19] 🧠 New identity created
+[14:24:20] [150/426] VCMR
+[14:24:20] 🧠 New identity created
+[14:24:21] [151/426] MACT
+[14:24:21] 🧠 New identity created
+[14:24:22] [152/426] JMNP
+[14:24:22] 🧠 New identity created
+[14:24:23] [153/426] VICS
+[14:24:23] 🧠 New identity created
+[14:24:24] [154/426] VCDA
+[14:24:24] 🧠 New identity created
+[14:24:25] [155/426] GCMM
+[14:24:25] 🧠 New identity created
+[14:24:26] [156/426] INVS
+[14:24:26] 🧠 New identity created
+[14:24:27] [157/426] SCGM
+[14:24:27] 🧠 New identity created
+[14:24:27] [158/426] PCDA
+[14:24:27] 🧠 New identity created
+[14:24:28] [159/426] KDCT
+[14:24:28] 🧠 New identity created
+[14:24:29] [160/426] JACS
+[14:24:29] 🧠 New identity created
+[14:24:30] [161/426] GMMC
+[14:24:30] 🧠 New identity created
+[14:24:30] [162/426] AICM
+[14:24:30] 🧠 New identity created
+[14:24:31] [163/426] TJCM
+[14:24:32] 🧠 New identity created
+[14:24:32] [164/426] RMTI
+[14:24:32] 🧠 New identity created
+[14:24:33] [165/426] SHAC
+[14:24:33] 🧠 New identity created
+[14:24:33] [166/426] APJC
+[14:24:33] 🧠 New identity created
+[14:24:34] [167/426] GCTG
+[14:24:34] 🧠 New identity created
+[14:24:35] [168/426] SSMC
+[14:24:35] 🧠 New identity created
+[14:24:36] [169/426] THRM
+[14:24:36] 🧠 New identity created
+[14:24:36] [170/426] RBCT
+[14:24:36] 🧠 New identity created
+[14:24:37] [171/426] DIKT
+[14:24:37] 🧠 New identity created
+[14:24:38] [172/426] MIDL
+[14:24:38] 🧠 New identity created
+[14:24:39] [173/426] VCSN
+[14:24:39] 🧠 New identity created
+[14:24:40] [174/426] SKTG
+[14:24:40] 🧠 New identity created
+[14:24:41] [175/426] SMWC
+[14:24:41] 🧠 New identity created
+[14:24:42] [176/426] MNKH
+[14:24:42] 🧠 New identity created
+[14:24:42] [177/426] PIAT
+[14:24:43] 🧠 New identity created
+[14:24:43] [178/426] LTTP
+[14:24:43] 🧠 New identity created
+[14:24:44] [179/426] PTPU
+[14:24:44] 🧠 New identity created
+[14:24:45] [180/426] ACMG
+[14:24:45] 🧠 New identity created
+[14:24:46] [181/426] SHMM
+[14:24:46] 🧠 New identity created
+[14:24:47] [182/426] MCMN
+[14:24:47] 🧠 New identity created
+[14:24:48] [183/426] GLDC
+[14:24:48] 🧠 New identity created
+[14:24:49] [184/426] HOUT
+[14:24:49] 🧠 New identity created
+[14:24:50] [185/426] SVRP
+[14:24:50] 🧠 New identity created
+[14:24:51] [186/426] PVDN
+[14:24:51] 🧠 New identity created
+[14:24:51] [187/426] SCPY
+[14:24:51] 🧠 New identity created
+[14:24:52] [188/426] DTPY
+[14:24:52] 🧠 New identity created
+[14:24:53] [189/426] GKCS
+[14:24:53] 🧠 New identity created
+[14:24:53] [190/426] NCAM
+[14:24:53] 🧠 New identity created
+[14:24:54] [191/426] BSRM
+[14:24:54] 🧠 New identity created
+[14:24:55] [192/426] RCLC
+[14:24:55] 🧠 New identity created
+[14:24:55] [193/426] SKKD
+[14:24:55] 🧠 New identity created
+[14:24:56] [194/426] ACHU
+[14:24:56] 🧠 New identity created
+[14:24:57] [195/426] RSCF
+[14:24:57] 🧠 New identity created
+[14:24:58] [196/426] IMSH
+[14:24:58] 🧠 New identity created
+[14:24:59] [197/426] MACX
+[14:24:59] 🧠 New identity created
+[14:25:00] [198/426] HMMW
+[14:25:00] 🧠 New identity created
+[14:25:01] [199/426] JTCP
+[14:25:01] 🧠 New identity created
+[14:25:02] [200/426] SREN
+[14:25:02] 🧠 New identity created
+[14:25:02] [201/426] PJRR
+[14:25:02] 🧠 New identity created
+[14:25:03] [202/426] INAC
+[14:25:03] 🧠 New identity created
+[14:25:04] [203/426] BMCA
+[14:25:04] 🧠 New identity created
+[14:25:05] [204/426] SHCB
+[14:25:05] 🧠 New identity created
+[14:25:06] [205/426] GABA
+[14:25:06] 🧠 New identity created
+[14:25:07] [206/426] SBCT
+[14:25:07] 🧠 New identity created
+[14:25:08] [207/426] GCMA
+[14:25:08] 🧠 New identity created
+[14:25:09] [208/426] MYTK
+[14:25:09] 🧠 New identity created
+[14:25:10] [209/426] INZS
+[14:25:10] 🧠 New identity created
+[14:25:10] [210/426] RMIK
+[14:25:10] 🧠 New identity created
+[14:25:11] [211/426] NYCH
+[14:25:11] 🧠 New identity created
+[14:25:12] [212/426] RAVE
+[14:25:12] 🧠 New identity created
+[14:25:13] [213/426] PSXM
+[14:25:13] 🧠 New identity created
+[14:25:13] [214/426] MCGP
+[14:25:13] 🧠 New identity created
+[14:25:14] [215/426] PDDK
+[14:25:14] 🧠 New identity created
+[14:25:15] [216/426] SPCK
+[14:25:15] 🧠 New identity created
+[14:25:16] [217/426] MCRL
+[14:25:16] 🧠 New identity created
+[14:25:16] [218/426] MHKT
+[14:25:17] 🧠 New identity created
+[14:25:17] [219/426] ANRR
+[14:25:17] 🧠 New identity created
+[14:25:18] [220/426] SAPK
+[14:25:18] 🧠 New identity created
+[14:25:19] [221/426] NCUK
+[14:25:19] 🧠 New identity created
+[14:25:20] [222/426] JUGA
+[14:25:20] 🧠 New identity created
+[14:25:21] [223/426] DBSC
+[14:25:21] 🧠 New identity created
+[14:25:22] [224/426] LALK
+[14:25:22] 🧠 New identity created
+[14:25:22] [225/426] GUCK
+[14:25:22] 🧠 New identity created
+[14:25:23] [226/426] STSG
+[14:25:23] 🧠 New identity created
+[14:25:24] [227/426] PPPZ
+[14:25:24] 🧠 New identity created
+[14:25:25] [228/426] CNCY
+[14:25:25] 🧠 New identity created
+[14:25:26] [229/426] MTAR
+[14:25:26] 🧠 New identity created
+[14:25:27] [230/426] VNKD
+[14:25:27] 🧠 New identity created
+[14:25:27] 🔄 Identity reset
+[14:25:27] ❌ FAILED | VNKD | Blocked / HTML
+[14:25:27] [231/426] KMAJ
+[14:25:27] 🧠 New identity created
+[14:25:28] [232/426] ACXK
+[14:25:28] 🧠 New identity created
+[14:25:29] [233/426] UTKC
+[14:25:29] 🧠 New identity created
+[14:25:30] [234/426] PBLK
+[14:25:30] 🧠 New identity created
+[14:25:31] [235/426] ACBX
+[14:25:31] 🧠 New identity created
+[14:25:31] [236/426] PTGM
+[14:25:31] 🧠 New identity created
+[14:25:32] [237/426] BTDA
+[14:25:32] 🧠 New identity created
+[14:25:33] [238/426] PJMB
+[14:25:33] 🧠 New identity created
+[14:25:34] [239/426] TPDA
+[14:25:34] 🧠 New identity created
+[14:25:35] [240/426] AMOE
+[14:25:35] 🧠 New identity created
+[14:25:35] [241/426] PRHT
+[14:25:35] 🧠 New identity created
+[14:25:36] [242/426] PRTA
+[14:25:36] 🧠 New identity created
+[14:25:37] [243/426] STAM
+[14:25:37] 🧠 New identity created
+[14:25:38] [244/426] MSAA
+[14:25:38] 🧠 New identity created
+[14:25:39] [245/426] SDLU
+[14:25:39] 🧠 New identity created
+[14:25:40] [246/426] RCHH
+[14:25:40] 🧠 New identity created
+[14:25:41] [247/426] KANT
+[14:25:41] 🧠 New identity created
+[14:25:42] [248/426] FCRT
+[14:25:42] 🧠 New identity created
+[14:25:42] [249/426] DNKM
+[14:25:42] 🧠 New identity created
+[14:25:42] 🔄 Identity reset
+[14:25:42] ❌ FAILED | DNKM | Blocked / HTML
+[14:25:43] [250/426] RYCP
+[14:25:43] 🧠 New identity created
+[14:25:43] 🔄 Identity reset
+[14:25:43] ❌ FAILED | RYCP | Blocked / HTML
+[14:25:44] [251/426] MYRP
+[14:25:44] 🧠 New identity created
+[14:25:45] [252/426] PPAK
+[14:25:45] 🧠 New identity created
+[14:25:46] [253/426] NVPK
+[14:25:46] 🧠 New identity created
+[14:25:47] [254/426] PRMC
+[14:25:47] 🧠 New identity created
+[14:25:47] [255/426] JBCS
+[14:25:47] 🧠 New identity created
+[14:25:48] [256/426] GXCK
+[14:25:48] 🧠 New identity created
+[14:25:49] [257/426] USKO
+[14:25:49] 🧠 New identity created
+[14:25:50] [258/426] GTEM
+[14:25:50] 🧠 New identity created
+[14:25:51] [259/426] SMBU
+[14:25:51] 🧠 New identity created
+[14:25:52] [260/426] VETC
+[14:25:52] 🧠 New identity created
+[14:25:52] [261/426] LCDA
+[14:25:52] 🧠 New identity created
+[14:25:53] [262/426] MTVT
+[14:25:53] 🧠 New identity created
+[14:25:54] [263/426] PYCP
+[14:25:54] 🧠 New identity created
+[14:25:55] [264/426] PNSC
+[14:25:55] 🧠 New identity created
+[14:25:56] [265/426] PPCC
+[14:25:56] 🧠 New identity created
+[14:25:57] [266/426] TGRT
+[14:25:57] 🧠 New identity created
+[14:25:58] [267/426] JYOT
+[14:25:58] 🧠 New identity created
+[14:25:59] [268/426] SRCZ
+[14:25:59] 🧠 New identity created
+[14:25:59] [269/426] SJTE
+[14:25:59] 🧠 New identity created
+[14:26:00] [270/426] DESC
+[14:26:00] 🧠 New identity created
+[14:26:01] [271/426] JHVN
+[14:26:01] 🧠 New identity created
+[14:26:02] [272/426] IPSG
+[14:26:02] 🧠 New identity created
+[14:26:02] 🔄 Identity reset
+[14:26:02] ❌ FAILED | IPSG | Blocked / HTML
+[14:26:03] [273/426] IPCM
+[14:26:03] 🧠 New identity created
+[14:26:04] [274/426] PDRS
+[14:26:04] 🧠 New identity created
+[14:26:05] [275/426] ANCV
+[14:26:05] 🧠 New identity created
+[14:26:06] [276/426] CMVV
+[14:26:06] 🧠 New identity created
+[14:26:07] [277/426] SHYP
+[14:26:07] 🧠 New identity created
+[14:26:08] [278/426] DNCS
+[14:26:08] 🧠 New identity created
+[14:26:08] [279/426] GAJK
+[14:26:08] 🧠 New identity created
+[14:26:09] [280/426] AKTN
+[14:26:09] 🧠 New identity created
+[14:26:09] 🔄 Identity reset
+[14:26:09] ❌ FAILED | AKTN | Blocked / HTML
+[14:26:10] [281/426] KAYA
+[14:26:10] 🧠 New identity created
+[14:26:10] [282/426] SBRC
+[14:26:10] 🧠 New identity created
+[14:26:11] [283/426] CHTP
+[14:26:11] 🧠 New identity created
+[14:26:12] [284/426] SHRT
+[14:26:12] 🧠 New identity created
+[14:26:12] 🔄 Identity reset
+[14:26:12] ❌ FAILED | SHRT | Blocked / HTML
+[14:26:13] [285/426] BCKU
+[14:26:13] 🧠 New identity created
+[14:26:14] [286/426] FCPS
+[14:26:14] 🧠 New identity created
+[14:26:15] [287/426] ARDD
+[14:26:15] 🧠 New identity created
+[14:26:15] [288/426] CPCM
+[14:26:15] 🧠 New identity created
+[14:26:16] [289/426] CGSM
+[14:26:16] 🧠 New identity created
+[14:26:17] [290/426] PSMP
+[14:26:17] 🧠 New identity created
+[14:26:18] [291/426] SDAL
+[14:26:18] 🧠 New identity created
+[14:26:19] [292/426] RTNB
+[14:26:19] 🧠 New identity created
+[14:26:20] [293/426] LMCR
+[14:26:20] 🧠 New identity created
+[14:26:21] [294/426] CIMA
+[14:26:21] 🧠 New identity created
+[14:26:22] [295/426] RNAS
+[14:26:22] 🧠 New identity created
+[14:26:22] 🔄 Identity reset
+[14:26:22] ❌ FAILED | RNAS | Blocked / HTML
+[14:26:23] [296/426] LITH
+[14:26:23] 🧠 New identity created
+[14:26:24] [297/426] PBOX
+[14:26:24] 🧠 New identity created
+[14:26:25] [298/426] FRTS
+[14:26:25] 🧠 New identity created
+[14:26:26] [299/426] RKIC
+[14:26:26] 🧠 New identity created
+[14:26:26] [300/426] PTAI
+[14:26:26] 🧠 New identity created
+[14:26:27] [301/426] GCIC
+[14:26:28] 🧠 New identity created
+[14:26:28] [302/426] FNAS
+[14:26:28] 🧠 New identity created
+[14:26:29] [303/426] SCAR
+[14:26:29] 🧠 New identity created
+[14:26:30] [304/426] MTCA
+[14:26:30] 🧠 New identity created
+[14:26:31] [305/426] SCTS
+[14:26:31] 🧠 New identity created
+[14:26:32] [306/426] SYCS
+[14:26:32] 🧠 New identity created
+[14:26:33] [307/426] RDMS
+[14:26:33] 🧠 New identity created
+[14:26:34] [308/426] KAMP
+[14:26:34] 🧠 New identity created
+[14:26:35] [309/426] ERSD
+[14:26:35] 🧠 New identity created
+[14:26:36] [310/426] MJMJ
+[14:26:36] 🧠 New identity created
+[14:26:36] [311/426] SRCJ
+[14:26:36] 🧠 New identity created
+[14:26:37] [312/426] SCXE
+[14:26:37] 🧠 New identity created
+[14:26:38] [313/426] SVFR
+[14:26:38] 🧠 New identity created
+[14:26:39] [314/426] BHCS
+[14:26:39] 🧠 New identity created
+[14:26:41] [315/426] IMCC
+[14:26:41] 🧠 New identity created
+[14:26:42] [316/426] PCBO
+[14:26:42] 🧠 New identity created
+[14:26:42] [317/426] PRVN
+[14:26:42] 🧠 New identity created
+[14:26:42] 🔄 Identity reset
+[14:26:42] ❌ FAILED | PRVN | Blocked / HTML
+[14:26:43] [318/426] AUPM
+[14:26:43] 🧠 New identity created
+[14:26:44] [319/426] INBW
+[14:26:44] 🧠 New identity created
+[14:26:45] [320/426] SVCW
+[14:26:45] 🧠 New identity created
+[14:26:45] 🔄 Identity reset
+[14:26:45] ❌ FAILED | SVCW | Blocked / HTML
+[14:26:45] [321/426] RKCF
+[14:26:45] 🧠 New identity created
+[14:26:46] [322/426] UVBH
+[14:26:46] 🧠 New identity created
+[14:26:47] [323/426] DNCY
+[14:26:47] 🧠 New identity created
+[14:26:48] [324/426] ABCN
+[14:26:48] 🧠 New identity created
+[14:26:49] [325/426] PRUR
+[14:26:49] 🧠 New identity created
+[14:26:50] [326/426] PFMR
+[14:26:50] 🧠 New identity created
+[14:26:50] [327/426] RKCN
+[14:26:50] 🧠 New identity created
+[14:26:51] [328/426] CFEA
+[14:26:51] 🧠 New identity created
+[14:26:53] [329/426] SDBG
+[14:26:53] 🧠 New identity created
+[14:26:53] [330/426] SNAR
+[14:26:53] 🧠 New identity created
+[14:26:54] [331/426] YISI
+[14:26:54] 🧠 New identity created
+[14:26:54] 🔄 Identity reset
+[14:26:54] ❌ FAILED | YISI | Blocked / HTML
+[14:26:55] [332/426] JCFF
+[14:26:55] 🧠 New identity created
+[14:26:56] [333/426] VTRK
+[14:26:56] 🧠 New identity created
+[14:26:57] [334/426] PCLZ
+[14:26:57] 🧠 New identity created
+[14:26:57] [335/426] DIMY
+[14:26:57] 🧠 New identity created
+[14:26:58] [336/426] BBTS
+[14:26:58] 🧠 New identity created
+[14:26:59] [337/426] GATH
+[14:26:59] 🧠 New identity created
+[14:26:59] [338/426] GTMN
+[14:26:59] 🧠 New identity created
+[14:26:59] 🔄 Identity reset
+[14:26:59] ❌ FAILED | GTMN | Blocked / HTML
+[14:27:00] [339/426] VTMH
+[14:27:00] 🧠 New identity created
+[14:27:01] [340/426] CCKP
+[14:27:01] 🧠 New identity created
+[14:27:02] [341/426] GPKA
+[14:27:02] 🧠 New identity created
+[14:27:03] [342/426] MHCL
+[14:27:03] 🧠 New identity created
+[14:27:03] [343/426] ATCL
+[14:27:03] 🧠 New identity created
+[14:27:04] [344/426] SBCK
+[14:27:04] 🧠 New identity created
+[14:27:04] 🔄 Identity reset
+[14:27:04] ❌ FAILED | SBCK | Blocked / HTML
+[14:27:05] [345/426] AMMR
+[14:27:05] 🧠 New identity created
+[14:27:05] [346/426] MADC
+[14:27:05] 🧠 New identity created
+[14:27:06] [347/426] TMMA
+[14:27:06] 🧠 New identity created
+[14:27:07] [348/426] CACC
+[14:27:07] 🧠 New identity created
+[14:27:08] [349/426] CHAL
+[14:27:08] 🧠 New identity created
+[14:27:08] [350/426] DURG
+[14:27:08] 🧠 New identity created
+[14:27:09] [351/426] GMKU
+[14:27:09] 🧠 New identity created
+[14:27:10] [352/426] GECA
+[14:27:10] 🧠 New identity created
+[14:27:11] [353/426] KYRR
+[14:27:11] 🧠 New identity created
+[14:27:12] [354/426] KSDE
+[14:27:12] 🧠 New identity created
+[14:27:12] 🔄 Identity reset
+[14:27:12] ❌ FAILED | KSDE | Blocked / HTML
+[14:27:13] [355/426] LMCI
+[14:27:13] 🧠 New identity created
+[14:27:14] [356/426] NKCP
+[14:27:14] 🧠 New identity created
+[14:27:14] 🔄 Identity reset
+[14:27:14] ❌ FAILED | NKCP | Blocked / HTML
+[14:27:15] [357/426] BGTC
+[14:27:15] 🧠 New identity created
+[14:27:15] 🔄 Identity reset
+[14:27:15] ❌ FAILED | BGTC | Blocked / HTML
+[14:27:16] [358/426] SRUK
+[14:27:16] 🧠 New identity created
+[14:27:17] [359/426] VVGT
+[14:27:17] 🧠 New identity created
+[14:27:17] [360/426] MMLB
+[14:27:17] 🧠 New identity created
+[14:27:18] [361/426] CCRN
+[14:27:18] 🧠 New identity created
+[14:27:20] [362/426] SSMB
+[14:27:20] 🧠 New identity created
+[14:27:20] [363/426] YMCY
+[14:27:20] 🧠 New identity created
+[14:27:22] [364/426] MAAM
+[14:27:22] 🧠 New identity created
+[14:27:23] [365/426] SMAZ
+[14:27:23] 🧠 New identity created
+[14:27:24] [366/426] RPDJ
+[14:27:24] 🧠 New identity created
+[14:27:25] [367/426] RLCR
+[14:27:25] 🧠 New identity created
+[14:27:27] [368/426] RMIW
+[14:27:27] 🧠 New identity created
+[14:27:28] [369/426] RPCA
+[14:27:28] 🧠 New identity created
+[14:27:29] [370/426] RPNA
+[14:27:29] 🧠 New identity created
+[14:27:31] [371/426] CRPR
+[14:27:31] 🧠 New identity created
+[14:27:32] [372/426] SLKA
+[14:27:32] 🧠 New identity created
+[14:27:32] 🔄 Identity reset
+[14:27:32] ❌ FAILED | SLKA | Blocked / HTML
+[14:27:33] [373/426] PCEL
+[14:27:33] 🧠 New identity created
+[14:27:34] [374/426] CPMF
+[14:27:34] 🧠 New identity created
+[14:27:36] [375/426] NYDU
+[14:27:36] 🧠 New identity created
+[14:27:37] [376/426] MDCD
+[14:27:37] 🧠 New identity created
+[14:27:38] [377/426] MDCA
+[14:27:38] 🧠 New identity created
+[14:27:39] [378/426] PAYT
+[14:27:39] 🧠 New identity created
+[14:27:41] [379/426] SYKA
+[14:27:41] 🧠 New identity created
+[14:27:42] [380/426] CLKP
+[14:27:42] 🧠 New identity created
+[14:27:43] [381/426] VEAN
+[14:27:43] 🧠 New identity created
+[14:27:44] [382/426] CHSX
+[14:27:44] 🧠 New identity created
+[14:27:45] [383/426] ABCR
+[14:27:45] 🧠 New identity created
+[14:27:45] [384/426] CCPF
+[14:27:45] 🧠 New identity created
+[14:27:46] [385/426] CMSN
+[14:27:46] 🧠 New identity created
+[14:27:47] [386/426] VATB
+[14:27:47] 🧠 New identity created
+[14:27:48] [387/426] GSEE
+[14:27:48] 🧠 New identity created
+[14:27:50] [388/426] AACS
+[14:27:50] 🧠 New identity created
+[14:27:52] [389/426] ATAM
+[14:27:52] 🧠 New identity created
+[14:27:53] [390/426] SDRJ
+[14:27:53] 🧠 New identity created
+[14:27:54] [391/426] MAOP
+[14:27:54] 🧠 New identity created
+[14:27:55] [392/426] PICS
+[14:27:55] 🧠 New identity created
+[14:27:57] [393/426] SKLZ
+[14:27:57] 🧠 New identity created
+[14:27:58] [394/426] PCBB
+[14:27:58] 🧠 New identity created
+[14:27:58] [395/426] JVCM
+[14:27:58] 🧠 New identity created
+[14:28:00] [396/426] KRVN
+[14:28:00] 🧠 New identity created
+[14:28:01] [397/426] MCDN
+[14:28:01] 🧠 New identity created
+[14:28:02] [398/426] MGMF
+[14:28:02] 🧠 New identity created
+[14:28:04] [399/426] ASJA
+[14:28:04] 🧠 New identity created
+[14:28:05] [400/426] PCAT
+[14:28:05] 🧠 New identity created
+[14:28:06] [401/426] RCNH
+[14:28:06] 🧠 New identity created
+[14:28:07] [402/426] ILKS
+[14:28:07] 🧠 New identity created
+[14:28:08] [403/426] SVSA
+[14:28:08] 🧠 New identity created
+[14:28:10] [404/426] AMSN
+[14:28:10] 🧠 New identity created
+[14:28:11] [405/426] SAMI
+[14:28:11] 🧠 New identity created
+[14:28:12] [406/426] RTSR
+[14:28:12] 🧠 New identity created
+[14:28:12] 🔄 Identity reset
+[14:28:12] ❌ FAILED | RTSR | Blocked / HTML
+[14:28:13] [407/426] SIPA
+[14:28:13] 🧠 New identity created
+[14:28:14] [408/426] PCBV
+[14:28:14] 🧠 New identity created
+[14:28:15] [409/426] ACBD
+[14:28:15] 🧠 New identity created
+[14:28:16] [410/426] RVCH
+[14:28:16] 🧠 New identity created
+[14:28:17] [411/426] KRPM
+[14:28:17] 🧠 New identity created
+[14:28:18] [412/426] ASMA
+[14:28:18] 🧠 New identity created
+[14:28:19] [413/426] CMAS
+[14:28:19] 🧠 New identity created
+[14:28:20] [414/426] CCBZ
+[14:28:20] 🧠 New identity created
+[14:28:21] [415/426] HRBT
+[14:28:21] 🧠 New identity created
+[14:28:22] [416/426] HFLM
+[14:28:22] 🧠 New identity created
+[14:28:23] [417/426] KDCG
+[14:28:23] 🧠 New identity created
+[14:28:24] [418/426] PLAT
+[14:28:24] 🧠 New identity created
+[14:28:25] [419/426] NSTR
+[14:28:25] 🧠 New identity created
+[14:28:26] [420/426] CMUA
+[14:28:26] 🧠 New identity created
+[14:28:27] [421/426] RSSM
+[14:28:28] 🧠 New identity created
+[14:28:28] [422/426] BPKC
+[14:28:28] 🧠 New identity created
+[14:28:30] [423/426] ACKB
+[14:28:30] 🧠 New identity created
+[14:28:30] 🔄 Identity reset
+[14:28:30] ❌ FAILED | ACKB | Blocked / HTML
+[14:28:31] [424/426] CLBC
+[14:28:31] 🧠 New identity created
+[14:28:32] [425/426] SLSM
+[14:28:33] 🧠 New identity created
+[14:28:34] [426/426] BSAT
+[14:28:34] 🧠 New identity created
+[14:28:36] 🔁 RETRYING FAILED VENUES: 28
+[14:28:36] 🔁 Retry | JTSX
+[14:28:36] 🧠 New identity created
+[14:28:36] 🔁 Retry | GSTV
+[14:28:36] 🧠 New identity created
+[14:28:36] 🔁 Retry | RMDV
+[14:28:36] 🧠 New identity created
+[14:28:37] 🔁 Retry | ACDE
+[14:28:37] 🧠 New identity created
+[14:28:37] 🔁 Retry | INMT
+[14:28:37] 🧠 New identity created
+[14:28:37] 🔁 Retry | SUSR
+[14:28:37] 🧠 New identity created
+[14:28:38] 🔁 Retry | STTZ
+[14:28:38] 🧠 New identity created
+[14:28:38] 🔁 Retry | MATK
+[14:28:38] 🧠 New identity created
+[14:28:38] 🔁 Retry | RFNP
+[14:28:38] 🧠 New identity created
+[14:28:39] 🔁 Retry | SGTH
+[14:28:39] 🧠 New identity created
+[14:28:39] 🔁 Retry | VNKD
+[14:28:39] 🧠 New identity created
+[14:28:40] 🔁 Retry | DNKM
+[14:28:40] 🧠 New identity created
+[14:28:40] 🔁 Retry | RYCP
+[14:28:40] 🧠 New identity created
+[14:28:41] 🔁 Retry | IPSG
+[14:28:41] 🧠 New identity created
+[14:28:41] 🔁 Retry | AKTN
+[14:28:41] 🧠 New identity created
+[14:28:41] 🔁 Retry | SHRT
+[14:28:41] 🧠 New identity created
+[14:28:42] 🔁 Retry | RNAS
+[14:28:42] 🧠 New identity created
+[14:28:42] 🔁 Retry | PRVN
+[14:28:42] 🧠 New identity created
+[14:28:43] 🔁 Retry | SVCW
+[14:28:43] 🧠 New identity created
+[14:28:43] 🔁 Retry | YISI
+[14:28:43] 🧠 New identity created
+[14:28:43] 🔁 Retry | GTMN
+[14:28:43] 🧠 New identity created
+[14:28:44] 🔁 Retry | SBCK
+[14:28:44] 🧠 New identity created
+[14:28:45] 🔁 Retry | KSDE
+[14:28:45] 🧠 New identity created
+[14:28:45] 🔁 Retry | NKCP
+[14:28:45] 🧠 New identity created
+[14:28:45] 🔁 Retry | BGTC
+[14:28:45] 🧠 New identity created
+[14:28:46] 🔁 Retry | SLKA
+[14:28:46] 🧠 New identity created
+[14:28:46] 🔁 Retry | RTSR
+[14:28:46] 🧠 New identity created
+[14:28:46] 🔁 Retry | ACKB
+[14:28:46] 🧠 New identity created
+[14:28:47] ⚠️ PERMANENT FAILURES: 0
+[14:28:47] ✅ DONE | Shows=1115 | Movies=98
