@@ -1,9 +1,9 @@
-name: BMS DailyBO 1–9
+name: BMS DailyBO 1–9 + Combine (Matrix)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
@@ -37,7 +37,7 @@ jobs:
 
       - name: 📦 Install dependencies
         run: |
-          pip install cloudscraper aiohttp pytz
+          pip install selenium webdriver-manager cloudscraper aiohttp pytz
 
       - name: 🚀 Run shard scraper
         run: python bmsdaily${{ matrix.shard }}.py
@@ -82,7 +82,7 @@ jobs:
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12.1"
 
       - name: 🔁 Safe combine + push (retry loop)
         run: |
