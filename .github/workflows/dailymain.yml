@@ -3,7 +3,7 @@ name: BMS DailyBO 1–9
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "5 * * * *"
 
 permissions:
   contents: write
@@ -34,18 +34,10 @@ jobs:
         with:
           python-version: "3.12.1"
 
-      - name: 🌐 Install Chrome
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y wget unzip
-          wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo dpkg -i google-chrome-stable_current_amd64.deb || sudo apt-get -f install -y
-          rm -f google-chrome-stable_current_amd64.deb
-          google-chrome --version
 
       - name: 📦 Install dependencies
         run: |
-          pip install selenium webdriver-manager cloudscraper aiohttp pytz
+          pip install cloudscraper aiohttp pytz
 
       - name: 🚀 Run shard scraper
         run: python bmsdaily${{ matrix.shard }}.py
