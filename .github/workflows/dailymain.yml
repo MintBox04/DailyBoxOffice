@@ -45,8 +45,8 @@ jobs:
         run: |
           git clone https://x-access-token:${DATA_REPO_TOKEN}@github.com/MintBox04/BoxOfficeData.git data-repo
 
-          # Copy daily data (always expected)
-          rsync -av data/ data-repo/data/
+          # ✅ Copy daily data (CORRECT PATH)
+          rsync -av daily/data/ data-repo/daily/data/
 
           # Copy advance data ONLY if exists
           if [ -d advance ]; then
@@ -66,7 +66,7 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
 
-            git add data advance
+            git add daily/data advance
             git commit -m "Shard ${{ matrix.shard }} update ($(date -u +'%Y-%m-%d %H:%M UTC'))" || true
 
             if git push origin main; then
@@ -113,7 +113,9 @@ jobs:
 
           git clone https://x-access-token:${DATA_REPO_TOKEN}@github.com/MintBox04/BoxOfficeData.git data-repo
 
-          rsync -av data/ data-repo/data/
+          # ✅ Copy daily data (CORRECT PATH)
+          rsync -av daily/data/ data-repo/daily/data/
+
           if [ -d advance ]; then
             rsync -av advance/ data-repo/advance/
           fi
@@ -131,7 +133,7 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
 
-            git add data advance
+            git add daily/data advance
             git commit -m "Final combined BO data ($(date -u +'%Y-%m-%d %H:%M UTC'))" || true
 
             if git push origin main; then
