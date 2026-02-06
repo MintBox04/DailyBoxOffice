@@ -6,3 +6,8 @@
 [19:33:48] 🚀 DISTRICT SCRAPER STARTED
 [19:34:17] ✅ Fetched 922 venues with shows
 [19:34:17] ✅ DONE | Shows=2664 | Movies=100
+[21:13:11] 📍 Loaded 1056 district venues
+[21:13:11] 🚀 DISTRICT SCRAPER STARTED
+[21:13:37] ❌ 10940 TimeoutError
+[21:13:45] ✅ Fetched 697 venues with shows
+[21:13:45] ✅ DONE | Shows=1715 | Movies=77
