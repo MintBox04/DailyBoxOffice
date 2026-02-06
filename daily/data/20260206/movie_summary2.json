@@ -1,80 +1,69 @@
 {
   "Border 2": {
-    "shows": 402,
-    "gross": 1167839.0,
-    "sold": 5145,
-    "totalSeats": 86461,
-    "venues": 209,
+    "shows": 419,
+    "gross": 1191327.0,
+    "sold": 5268,
+    "totalSeats": 89838,
+    "venues": 210,
     "cities": 68,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 5.95
+    "occupancy": 5.86
   },
   "Mardaani 3": {
-    "shows": 206,
-    "gross": 720332.0,
-    "sold": 2927,
-    "totalSeats": 38311,
-    "venues": 132,
+    "shows": 209,
+    "gross": 723539.0,
+    "sold": 2990,
+    "totalSeats": 39310,
+    "venues": 133,
     "cities": 36,
     "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 7.64
+    "occupancy": 7.61
   },
   "Vadh 2": {
-    "shows": 96,
-    "gross": 218825.0,
-    "sold": 901,
-    "totalSeats": 15846,
+    "shows": 97,
+    "gross": 224905.0,
+    "sold": 913,
+    "totalSeats": 16065,
     "venues": 69,
     "cities": 23,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 5.69
+    "occupancy": 5.68
   },
   "Bhabiji Ghar Par Hain!": {
-    "shows": 79,
-    "gross": 161160.0,
-    "sold": 726,
-    "totalSeats": 13050,
-    "venues": 69,
-    "cities": 25,
+    "shows": 81,
+    "gross": 166502.0,
+    "sold": 756,
+    "totalSeats": 13275,
+    "venues": 70,
+    "cities": 26,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 5.56
-  },
-  "Dhurandhar": {
-    "shows": 9,
-    "gross": 19510.0,
-    "sold": 80,
-    "totalSeats": 1417,
-    "venues": 9,
-    "cities": 7,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.65
+    "occupancy": 5.69
   },
   "Vijaynagar'er Hirey (Kakababu)": {
     "shows": 14,
-    "gross": 29644.0,
-    "sold": 295,
+    "gross": 29372.0,
+    "sold": 300,
     "totalSeats": 2713,
     "venues": 11,
     "cities": 6,
     "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 10.87
+    "occupancy": 11.06
   },
   "Projapati 2": {
     "shows": 6,
-    "gross": 30335.0,
-    "sold": 296,
+    "gross": 31612.0,
+    "sold": 306,
     "totalSeats": 1861,
     "venues": 6,
     "cities": 3,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 15.91
+    "occupancy": 16.44
   },
   "Bhanupriya Bhooter Hotel": {
     "shows": 1,
@@ -89,14 +78,25 @@
   },
   "Khancha": {
     "shows": 5,
-    "gross": 13670.0,
-    "sold": 119,
+    "gross": 14230.0,
+    "sold": 124,
     "totalSeats": 1473,
     "venues": 5,
     "cities": 3,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 8.08
+    "occupancy": 8.42
+  },
+  "The Real Indian": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 206,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
   },
   "OCD": {
     "shows": 1,
@@ -109,13 +109,13 @@
     "housefull": 0,
     "occupancy": 26.25
   },
-  "Nari Choritro Bejay Jotil": {
-    "shows": 1,
+  "Aarshi Kathan": {
+    "shows": 2,
     "gross": 0.0,
     "sold": 0,
-    "totalSeats": 60,
-    "venues": 1,
-    "cities": 1,
+    "totalSeats": 373,
+    "venues": 2,
+    "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
@@ -143,92 +143,70 @@
     "occupancy": 0.0
   },
   "With Love": {
-    "shows": 62,
-    "gross": 205362.2,
-    "sold": 1324,
-    "totalSeats": 21593,
-    "venues": 51,
+    "shows": 63,
+    "gross": 216899.2,
+    "sold": 1391,
+    "totalSeats": 22428,
+    "venues": 52,
     "cities": 15,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 6.13
+    "occupancy": 6.2
   },
   "Mana Shankara Vara Prasad Garu": {
-    "shows": 19,
-    "gross": 130173.5,
-    "sold": 819,
-    "totalSeats": 5526,
+    "shows": 20,
+    "gross": 143656.0,
+    "sold": 923,
+    "totalSeats": 5616,
     "venues": 19,
     "cities": 10,
     "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 14.82
-  },
-  "Anomie: The Equation of Death": {
-    "shows": 30,
-    "gross": 85790.4,
-    "sold": 481,
-    "totalSeats": 5865,
-    "venues": 27,
-    "cities": 11,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 8.2
+    "occupancy": 16.44
   },
   "Sukran": {
     "shows": 8,
-    "gross": 5520.0,
-    "sold": 36,
+    "gross": 5650.0,
+    "sold": 37,
     "totalSeats": 1583,
     "venues": 7,
     "cities": 5,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 2.27
+    "occupancy": 2.34
   },
   "Prakambanam": {
     "shows": 44,
-    "gross": 110992.6,
-    "sold": 581,
+    "gross": 125025.9,
+    "sold": 664,
     "totalSeats": 11178,
     "venues": 33,
     "cities": 13,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 5.2
+    "occupancy": 5.94
   },
   "Lagan Laagii Re": {
-    "shows": 44,
-    "gross": 63155.0,
-    "sold": 356,
-    "totalSeats": 7394,
+    "shows": 47,
+    "gross": 67735.0,
+    "sold": 377,
+    "totalSeats": 7594,
     "venues": 35,
     "cities": 7,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 4.81
+    "occupancy": 4.96
   },
-  "Khabar Naahe": {
-    "shows": 2,
-    "gross": 6230.0,
-    "sold": 40,
-    "totalSeats": 263,
-    "venues": 2,
-    "cities": 2,
+  "Pass Na Pass": {
+    "shows": 3,
+    "gross": 900.0,
+    "sold": 5,
+    "totalSeats": 280,
+    "venues": 3,
+    "cities": 3,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 15.21
-  },
-  "Euphoria": {
-    "shows": 17,
-    "gross": 82678.0,
-    "sold": 662,
-    "totalSeats": 3915,
-    "venues": 17,
-    "cities": 9,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 16.91
+    "occupancy": 1.79
   },
   "MA Previous": {
     "shows": 2,
@@ -242,81 +220,59 @@
     "occupancy": 0.0
   },
   "Ranapati Shivray - Swari Agra": {
-    "shows": 10,
-    "gross": 19205.0,
-    "sold": 182,
-    "totalSeats": 1958,
-    "venues": 10,
-    "cities": 7,
+    "shows": 11,
+    "gross": 19655.0,
+    "sold": 185,
+    "totalSeats": 2070,
+    "venues": 11,
+    "cities": 8,
     "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 9.3
-  },
-  "Ashakal Aayiram": {
-    "shows": 43,
-    "gross": 132041.4,
-    "sold": 643,
-    "totalSeats": 11280,
-    "venues": 40,
-    "cities": 16,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.7
+    "occupancy": 8.94
   },
   "Karuthal": {
     "shows": 5,
-    "gross": 10050.0,
-    "sold": 67,
+    "gross": 10500.0,
+    "sold": 70,
     "totalSeats": 978,
     "venues": 4,
     "cities": 4,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 6.85
-  },
-  "Stray Kids: The dominATE Experience": {
-    "shows": 25,
-    "gross": 119900.0,
-    "sold": 344,
-    "totalSeats": 4132,
-    "venues": 18,
-    "cities": 7,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 8.33
+    "occupancy": 7.16
   },
   "Devdas ": {
     "shows": 8,
-    "gross": 13878.0,
-    "sold": 84,
+    "gross": 15075.0,
+    "sold": 91,
     "totalSeats": 1359,
     "venues": 8,
     "cities": 5,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 6.18
+    "occupancy": 6.7
   },
   "Scarlet": {
-    "shows": 31,
-    "gross": 75540.0,
-    "sold": 214,
-    "totalSeats": 5327,
+    "shows": 32,
+    "gross": 73440.0,
+    "sold": 209,
+    "totalSeats": 5510,
     "venues": 28,
     "cities": 11,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 4.02
+    "occupancy": 3.79
   },
   "Kadhal Kadhai Sollava": {
     "shows": 4,
-    "gross": 7338.0,
-    "sold": 67,
+    "gross": 7678.0,
+    "sold": 70,
     "totalSeats": 1286,
     "venues": 4,
     "cities": 3,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 5.21
+    "occupancy": 5.44
   },
   "Harpalde Shakti Na Amar Ajavada": {
     "shows": 1,
@@ -330,59 +286,37 @@
     "occupancy": 0.0
   },
   "Bebe Main Badmash Banuga?": {
-    "shows": 44,
-    "gross": 102705.0,
-    "sold": 407,
-    "totalSeats": 10560,
+    "shows": 46,
+    "gross": 109995.0,
+    "sold": 434,
+    "totalSeats": 10261,
     "venues": 27,
     "cities": 9,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 3.85
-  },
-  "Valathu Vasathe Kallan": {
-    "shows": 21,
-    "gross": 45776.6,
-    "sold": 285,
-    "totalSeats": 4038,
-    "venues": 19,
-    "cities": 11,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.06
+    "occupancy": 4.23
   },
   "Anaganaga Oka Raju": {
     "shows": 7,
-    "gross": 42566.0,
-    "sold": 300,
+    "gross": 43526.0,
+    "sold": 308,
     "totalSeats": 2143,
     "venues": 7,
     "cities": 6,
     "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 14.0
+    "occupancy": 14.37
   },
   "Yogida": {
     "shows": 1,
-    "gross": 4900.0,
-    "sold": 37,
+    "gross": 5950.0,
+    "sold": 46,
     "totalSeats": 246,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 15.04
-  },
-  "Bhartha Mahasayulaku Wignyapthi": {
-    "shows": 4,
-    "gross": 4920.0,
-    "sold": 41,
-    "totalSeats": 880,
-    "venues": 4,
-    "cities": 4,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.66
+    "occupancy": 18.7
   },
   "Nari Nari Naduma Murari": {
     "shows": 4,
@@ -397,14 +331,36 @@
   },
   "Aashaan": {
     "shows": 17,
-    "gross": 33108.4,
-    "sold": 173,
-    "totalSeats": 3729,
+    "gross": 41398.4,
+    "sold": 204,
+    "totalSeats": 3751,
     "venues": 16,
     "cities": 7,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 4.64
+    "occupancy": 5.44
+  },
+  "Anomie: The Equation of Death": {
+    "shows": 30,
+    "gross": 86929.8,
+    "sold": 498,
+    "totalSeats": 5854,
+    "venues": 27,
+    "cities": 11,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.51
+  },
+  "Ashakal Aayiram": {
+    "shows": 44,
+    "gross": 133801.4,
+    "sold": 647,
+    "totalSeats": 11709,
+    "venues": 41,
+    "cities": 16,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.53
   },
   "Ithaanu Friendship": {
     "shows": 2,
@@ -417,6 +373,17 @@
     "housefull": 0,
     "occupancy": 17.42
   },
+  "Valathu Vasathe Kallan": {
+    "shows": 21,
+    "gross": 46476.6,
+    "sold": 290,
+    "totalSeats": 4038,
+    "venues": 19,
+    "cities": 11,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.18
+  },
   "Agnibaan": {
     "shows": 6,
     "gross": 16500.0,
@@ -428,82 +395,71 @@
     "housefull": 0,
     "occupancy": 8.99
   },
+  "Bhartha Mahasayulaku Wignyapthi": {
+    "shows": 4,
+    "gross": 4920.0,
+    "sold": 41,
+    "totalSeats": 880,
+    "venues": 4,
+    "cities": 4,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.66
+  },
   "Karikaada": {
     "shows": 25,
-    "gross": 332040.0,
-    "sold": 1387,
+    "gross": 333840.0,
+    "sold": 1392,
     "totalSeats": 6052,
     "venues": 25,
     "cities": 9,
     "fastfilling": 9,
     "housefull": 0,
-    "occupancy": 22.92
-  },
-  "Lagnacha Shot": {
-    "shows": 3,
-    "gross": 200.0,
-    "sold": 1,
-    "totalSeats": 405,
-    "venues": 3,
-    "cities": 3,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.25
-  },
-  "Rubaab": {
-    "shows": 6,
-    "gross": 3130.0,
-    "sold": 15,
-    "totalSeats": 1346,
-    "venues": 6,
-    "cities": 6,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 1.11
+    "occupancy": 23.0
   },
   "Aga Aga Sunbai! Kay Mhantay Sasubai?": {
     "shows": 8,
-    "gross": 9295.0,
-    "sold": 59,
-    "totalSeats": 1619,
+    "gross": 6875.0,
+    "sold": 44,
+    "totalSeats": 1602,
     "venues": 8,
     "cities": 7,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 3.64
+    "occupancy": 2.75
   },
   "Case No. 73": {
     "shows": 2,
-    "gross": 18900.0,
-    "sold": 180,
+    "gross": 19005.0,
+    "sold": 181,
     "totalSeats": 579,
     "venues": 2,
     "cities": 2,
     "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 31.09
-  },
-  "Chatha Pacha: The Ring of Rowdies": {
-    "shows": 6,
-    "gross": 9197.1,
-    "sold": 69,
-    "totalSeats": 1218,
-    "venues": 5,
-    "cities": 5,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.67
+    "occupancy": 31.26
   },
   "Thalaivar Thambi Thalaimaiyil": {
     "shows": 6,
-    "gross": 12854.3,
-    "sold": 86,
+    "gross": 13434.3,
+    "sold": 88,
     "totalSeats": 1002,
     "venues": 6,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 8.58
+    "occupancy": 8.78
+  },
+  "Euphoria": {
+    "shows": 17,
+    "gross": 82518.0,
+    "sold": 661,
+    "totalSeats": 3915,
+    "venues": 17,
+    "cities": 9,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 16.88
   },
   "Silambattam": {
     "shows": 2,
@@ -515,6 +471,17 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 18.28
+  },
+  "Chatha Pacha: The Ring of Rowdies": {
+    "shows": 6,
+    "gross": 9707.1,
+    "sold": 69,
+    "totalSeats": 1218,
+    "venues": 5,
+    "cities": 5,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.67
   },
   "Sirai": {
     "shows": 2,
@@ -538,17 +505,6 @@
     "housefull": 0,
     "occupancy": 58.69
   },
-  "Gilli Mappilai": {
-    "shows": 1,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 438,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
-  },
   "Jai Kanhaiyalall Ki": {
     "shows": 1,
     "gross": 1300.0,
@@ -560,16 +516,60 @@
     "housefull": 0,
     "occupancy": 8.0
   },
+  "Khabar Naahe": {
+    "shows": 2,
+    "gross": 6230.0,
+    "sold": 40,
+    "totalSeats": 263,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 15.21
+  },
+  "Stray Kids: The dominATE Experience": {
+    "shows": 25,
+    "gross": 120680.0,
+    "sold": 337,
+    "totalSeats": 4170,
+    "venues": 18,
+    "cities": 7,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.08
+  },
   "Godaan": {
-    "shows": 12,
-    "gross": 17030.0,
-    "sold": 126,
-    "totalSeats": 2516,
+    "shows": 13,
+    "gross": 17560.0,
+    "sold": 129,
+    "totalSeats": 2894,
     "venues": 12,
     "cities": 11,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 5.01
+    "occupancy": 4.46
+  },
+  "Mohan Vallabh Jodi No. Ek": {
+    "shows": 2,
+    "gross": 11200.0,
+    "sold": 70,
+    "totalSeats": 320,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 21.88
+  },
+  "Rubaab": {
+    "shows": 6,
+    "gross": 2830.0,
+    "sold": 13,
+    "totalSeats": 1410,
+    "venues": 6,
+    "cities": 6,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.92
   },
   "Honey": {
     "shows": 3,
@@ -582,27 +582,16 @@
     "housefull": 0,
     "occupancy": 15.44
   },
-  "3 ": {
-    "shows": 12,
-    "gross": 101469.0,
-    "sold": 718,
-    "totalSeats": 2550,
-    "venues": 12,
-    "cities": 5,
+  "Gharga": {
+    "shows": 17,
+    "gross": 157220.0,
+    "sold": 846,
+    "totalSeats": 4000,
+    "venues": 17,
+    "cities": 2,
     "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 28.16
-  },
-  "Paro Pinaki Ki Kahani": {
-    "shows": 9,
-    "gross": 27390.0,
-    "sold": 109,
-    "totalSeats": 1429,
-    "venues": 9,
-    "cities": 6,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.63
+    "housefull": 1,
+    "occupancy": 21.15
   },
   "Cult (2026)": {
     "shows": 6,
@@ -615,71 +604,60 @@
     "housefull": 0,
     "occupancy": 12.19
   },
-  "Gharga": {
-    "shows": 17,
-    "gross": 156800.0,
-    "sold": 844,
-    "totalSeats": 4008,
-    "venues": 17,
-    "cities": 2,
-    "fastfilling": 2,
-    "housefull": 1,
-    "occupancy": 21.06
-  },
   "Amruthaanjan": {
     "shows": 14,
-    "gross": 53270.0,
-    "sold": 278,
+    "gross": 62130.0,
+    "sold": 320,
     "totalSeats": 3586,
     "venues": 13,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 7.75
+    "occupancy": 8.92
   },
   "Rakkasapuradol": {
-    "shows": 47,
-    "gross": 265550.0,
-    "sold": 1486,
-    "totalSeats": 21686,
+    "shows": 48,
+    "gross": 272290.0,
+    "sold": 1536,
+    "totalSeats": 22531,
     "venues": 40,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 6.85
+    "occupancy": 6.82
+  },
+  "JC: The University": {
+    "shows": 18,
+    "gross": 67410.0,
+    "sold": 396,
+    "totalSeats": 6876,
+    "venues": 17,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.76
   },
   "Landlord": {
-    "shows": 18,
-    "gross": 85120.0,
-    "sold": 427,
-    "totalSeats": 7496,
+    "shows": 19,
+    "gross": 86820.0,
+    "sold": 434,
+    "totalSeats": 7616,
     "venues": 16,
     "cities": 4,
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 5.7
   },
-  "JC: The University": {
-    "shows": 17,
-    "gross": 65310.0,
-    "sold": 386,
-    "totalSeats": 6642,
-    "venues": 16,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.81
-  },
   "Katle": {
     "shows": 7,
-    "gross": 24390.0,
-    "sold": 149,
+    "gross": 24880.0,
+    "sold": 150,
     "totalSeats": 1607,
     "venues": 7,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 9.27
+    "occupancy": 9.33
   },
   "Shivaleela": {
     "shows": 6,
@@ -694,25 +672,14 @@
   },
   "Non Veg": {
     "shows": 11,
-    "gross": 11760.0,
-    "sold": 55,
-    "totalSeats": 1677,
+    "gross": 14940.0,
+    "sold": 71,
+    "totalSeats": 1687,
     "venues": 11,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 3.28
-  },
-  "Mavuta": {
-    "shows": 1,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 759,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
+    "occupancy": 4.21
   },
   "Ragu Ram": {
     "shows": 4,
@@ -725,49 +692,38 @@
     "housefull": 0,
     "occupancy": 6.1
   },
-  "Erracheera": {
-    "shows": 3,
-    "gross": 7424.0,
-    "sold": 57,
-    "totalSeats": 642,
-    "venues": 3,
-    "cities": 3,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 8.88
-  },
   "The Raja Saab": {
     "shows": 1,
-    "gross": 2435.0,
-    "sold": 25,
+    "gross": 4505.0,
+    "sold": 47,
     "totalSeats": 598,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 4.18
+    "occupancy": 7.86
   },
-  "Sri Chidambaram Garu": {
-    "shows": 3,
-    "gross": 9094.0,
-    "sold": 157,
-    "totalSeats": 1154,
-    "venues": 3,
-    "cities": 3,
-    "fastfilling": 0,
+  "3 ": {
+    "shows": 12,
+    "gross": 102843.0,
+    "sold": 728,
+    "totalSeats": 2550,
+    "venues": 12,
+    "cities": 5,
+    "fastfilling": 2,
     "housefull": 0,
-    "occupancy": 13.6
+    "occupancy": 28.55
   },
   "The Strangers: Chapter 3": {
     "shows": 7,
-    "gross": 16280.0,
-    "sold": 51,
-    "totalSeats": 811,
+    "gross": 19970.0,
+    "sold": 64,
+    "totalSeats": 826,
     "venues": 7,
     "cities": 4,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 6.29
+    "occupancy": 7.75
   },
   "Midnight (Odia)": {
     "shows": 2,
@@ -802,6 +758,17 @@
     "housefull": 0,
     "occupancy": 5.86
   },
+  "Lagnacha Shot": {
+    "shows": 3,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 404,
+    "venues": 3,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
   "Ramaai": {
     "shows": 3,
     "gross": 200.0,
@@ -824,6 +791,17 @@
     "housefull": 0,
     "occupancy": 10.16
   },
+  "Paro Pinaki Ki Kahani": {
+    "shows": 9,
+    "gross": 22830.0,
+    "sold": 90,
+    "totalSeats": 1410,
+    "venues": 9,
+    "cities": 6,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.38
+  },
   "Sarkari Damad": {
     "shows": 2,
     "gross": 0.0,
@@ -837,14 +815,14 @@
   },
   "The Return of the Army Man": {
     "shows": 4,
-    "gross": 750.0,
-    "sold": 5,
+    "gross": 990.0,
+    "sold": 9,
     "totalSeats": 785,
     "venues": 4,
     "cities": 4,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 0.64
+    "occupancy": 1.15
   },
   "Vaama: Ladai Sanmanachi": {
     "shows": 1,
@@ -868,93 +846,82 @@
     "housefull": 0,
     "occupancy": 13.3
   },
+  "Dhurandhar": {
+    "shows": 9,
+    "gross": 23310.0,
+    "sold": 96,
+    "totalSeats": 1429,
+    "venues": 9,
+    "cities": 7,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.72
+  },
   "Tere Ishk Mein": {
     "shows": 1,
-    "gross": 2000.0,
-    "sold": 10,
+    "gross": 2600.0,
+    "sold": 13,
     "totalSeats": 53,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 18.87
+    "occupancy": 24.53
   },
   "Avatar: Fire and Ash": {
-    "shows": 5,
-    "gross": 31460.0,
-    "sold": 84,
-    "totalSeats": 599,
-    "venues": 5,
+    "shows": 6,
+    "gross": 36650.0,
+    "sold": 98,
+    "totalSeats": 702,
+    "venues": 6,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 14.02
+    "occupancy": 13.96
   },
   "Marty Supreme": {
-    "shows": 11,
-    "gross": 54540.0,
-    "sold": 135,
-    "totalSeats": 1247,
+    "shows": 12,
+    "gross": 59940.0,
+    "sold": 149,
+    "totalSeats": 1276,
     "venues": 10,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 10.83
+    "occupancy": 11.68
   },
-  "Aarshi Kathan": {
-    "shows": 2,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 373,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 0,
+  "Erracheera": {
+    "shows": 3,
+    "gross": 8604.0,
+    "sold": 69,
+    "totalSeats": 642,
+    "venues": 3,
+    "cities": 3,
+    "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 0.0
-  },
-  "Barabar Premistha": {
-    "shows": 2,
-    "gross": 998.0,
-    "sold": 10,
-    "totalSeats": 698,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 1.43
+    "occupancy": 10.75
   },
   "Maayabimbum": {
     "shows": 4,
-    "gross": 2140.0,
-    "sold": 10,
+    "gross": 6860.0,
+    "sold": 69,
     "totalSeats": 1336,
     "venues": 4,
     "cities": 2,
     "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.75
+    "housefull": 1,
+    "occupancy": 5.16
   },
   "Zootopia 2": {
     "shows": 4,
-    "gross": 19815.0,
-    "sold": 62,
-    "totalSeats": 416,
+    "gross": 18445.0,
+    "sold": 58,
+    "totalSeats": 410,
     "venues": 4,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 14.9
-  },
-  "Seat Edge": {
-    "shows": 2,
-    "gross": 9090.0,
-    "sold": 38,
-    "totalSeats": 510,
-    "venues": 2,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.45
+    "occupancy": 14.15
   },
   "Sri Jagannatha Dasaru: Part 2": {
     "shows": 2,
@@ -969,14 +936,14 @@
   },
   "Valavaara": {
     "shows": 2,
-    "gross": 9990.0,
-    "sold": 42,
+    "gross": 8410.0,
+    "sold": 32,
     "totalSeats": 440,
     "venues": 2,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 9.55
+    "occupancy": 7.27
   },
   "Sumathi Sathakam": {
     "shows": 2,
@@ -991,14 +958,14 @@
   },
   "Nenapugala Maatu Madhura": {
     "shows": 2,
-    "gross": 3040.0,
-    "sold": 16,
+    "gross": 3740.0,
+    "sold": 18,
     "totalSeats": 312,
     "venues": 2,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 5.13
+    "occupancy": 5.77
   },
   "Operation Padma": {
     "shows": 2,
@@ -1012,15 +979,15 @@
     "occupancy": 3.46
   },
   "Bayakegalu Berooridaga": {
-    "shows": 4,
-    "gross": 7830.0,
-    "sold": 28,
-    "totalSeats": 703,
-    "venues": 4,
+    "shows": 5,
+    "gross": 13720.0,
+    "sold": 59,
+    "totalSeats": 849,
+    "venues": 5,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 3.98
+    "occupancy": 6.95
   },
   "The Second Wind": {
     "shows": 1,
@@ -1055,38 +1022,71 @@
     "housefull": 0,
     "occupancy": 0.0
   },
-  "The Real Indian": {
+  "Nari Choritro Bejay Jotil": {
+    "shows": 2,
+    "gross": 720.0,
+    "sold": 24,
+    "totalSeats": 206,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 11.65
+  },
+  "Gilli Mappilai": {
     "shows": 1,
     "gross": 0.0,
     "sold": 0,
-    "totalSeats": 206,
+    "totalSeats": 438,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
   },
-  "Pass Na Pass": {
-    "shows": 3,
-    "gross": 900.0,
-    "sold": 5,
-    "totalSeats": 280,
-    "venues": 3,
-    "cities": 3,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 1.79
-  },
-  "Mohan Vallabh Jodi No. Ek": {
-    "shows": 2,
-    "gross": 11200.0,
-    "sold": 70,
-    "totalSeats": 320,
+  "Mavuta": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 759,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 21.88
+    "occupancy": 0.0
+  },
+  "Sri Chidambaram Garu": {
+    "shows": 3,
+    "gross": 9094.0,
+    "sold": 157,
+    "totalSeats": 1154,
+    "venues": 3,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 13.6
+  },
+  "Barabar Premistha": {
+    "shows": 2,
+    "gross": 998.0,
+    "sold": 10,
+    "totalSeats": 698,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.43
+  },
+  "Seat Edge": {
+    "shows": 2,
+    "gross": 9090.0,
+    "sold": 38,
+    "totalSeats": 510,
+    "venues": 2,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.45
   },
   "Hok Kolorob": {
     "shows": 1,
