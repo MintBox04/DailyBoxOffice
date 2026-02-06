@@ -1,4 +1,4 @@
-name: BMS DailyBO 1–9 + Combine (Code → Data Repo)
+name: BMS DailyBO
 
 on:
   workflow_dispatch:
@@ -10,7 +10,7 @@ permissions:
 
 jobs:
 # =====================================================
-# 1️⃣ SHARDS (SCRAPE ONLY — NO LOCAL SAVE)
+# 1️⃣ SHARDS (PARALLEL SCRAPERS → DATA REPO)
 # =====================================================
   shards:
     name: Shard ${{ matrix.shard }}
@@ -35,33 +35,58 @@ jobs:
         run: |
           pip install cloudscraper aiohttp pytz
 
-      - name: 🚀 Run shard scraper (local temp data)
+      - name: 🚀 Run shard scraper
         run: |
           python bmsdaily${{ matrix.shard }}.py
 
-      - name: 📤 Push shard data to BoxOfficeData
+      - name: 📤 Push shard data to BoxOfficeData (SAFE)
         env:
           DATA_REPO_TOKEN: ${{ secrets.BOXOFFICE_DATA_TOKEN }}
         run: |
           git clone https://x-access-token:${DATA_REPO_TOKEN}@github.com/MintBox04/BoxOfficeData.git data-repo
 
-          rsync -av daily/ data-repo/daily/
-          rsync -av advance/ data-repo/advance/ || true
+          # Copy daily data (always expected)
+          rsync -av data/ data-repo/data/
+
+          # Copy advance data ONLY if exists
+          if [ -d advance ]; then
+            rsync -av advance/ data-repo/advance/
+          fi
 
           cd data-repo
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add daily advance
-          git commit -m "Shard ${{ matrix.shard }} update ($(date -u +'%Y-%m-%d %H:%M UTC'))" || exit 0
-          git pull --rebase origin main || true
-          git push origin main
+          MAX_TRIES=5
+          TRY=1
+
+          while [ $TRY -le $MAX_TRIES ]; do
+            echo "🔁 Shard push attempt $TRY / $MAX_TRIES"
+
+            git fetch origin main
+            git reset --hard origin/main
+
+            git add data advance
+            git commit -m "Shard ${{ matrix.shard }} update ($(date -u +'%Y-%m-%d %H:%M UTC'))" || true
+
+            if git push origin main; then
+              echo "✅ Shard push successful"
+              exit 0
+            fi
+
+            echo "⚠ Push failed, retrying..."
+            TRY=$((TRY+1))
+            sleep 3
+          done
+
+          echo "❌ Shard push failed after retries"
+          exit 1
 
 # =====================================================
-# 2️⃣ COMBINE (FINAL AUTHORITY)
+# 2️⃣ COMBINE (FINAL AUTHORITY → DATA REPO)
 # =====================================================
   combine:
-    name: Combine all shards (Final → Data Repo)
+    name: Combine all shards (FINAL)
     needs: shards
     runs-on: ubuntu-latest
     timeout-minutes: 30
@@ -88,14 +113,36 @@ jobs:
 
           git clone https://x-access-token:${DATA_REPO_TOKEN}@github.com/MintBox04/BoxOfficeData.git data-repo
 
-          rsync -av daily/ data-repo/daily/
-          rsync -av advance/ data-repo/advance/ || true
+          rsync -av data/ data-repo/data/
+          if [ -d advance ]; then
+            rsync -av advance/ data-repo/advance/
+          fi
 
           cd data-repo
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add daily advance
-          git commit -m "Final combined BO data ($(date -u +'%Y-%m-%d %H:%M UTC'))" || exit 0
-          git pull --rebase origin main || true
-          git push origin main
+          MAX_TRIES=6
+          TRY=1
+
+          while [ $TRY -le $MAX_TRIES ]; do
+            echo "🔁 Combine push attempt $TRY / $MAX_TRIES"
+
+            git fetch origin main
+            git reset --hard origin/main
+
+            git add data advance
+            git commit -m "Final combined BO data ($(date -u +'%Y-%m-%d %H:%M UTC'))" || true
+
+            if git push origin main; then
+              echo "✅ Final push successful"
+              exit 0
+            fi
+
+            echo "⚠ Push failed, retrying..."
+            TRY=$((TRY+1))
+            sleep 5
+          done
+
+          echo "❌ Combine failed after retries"
+          exit 1
