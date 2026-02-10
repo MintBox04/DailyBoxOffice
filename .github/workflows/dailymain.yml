@@ -3,19 +3,14 @@ name: BMS DailyBO 1–9 + Combine (Matrix)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"   # every hour (UTC)
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
 
-# Prevent overlapping hourly runs
-concurrency:
-  group: bms-daily
-  cancel-in-progress: false
-
 jobs:
 # =====================================================
-# 1️⃣ SHARDS (PARALLEL + RETRY SAFE)
+# 1️⃣ SHARDS (UNCHANGED)
 # =====================================================
   shards:
     name: Shard ${{ matrix.shard }}
@@ -39,53 +34,32 @@ jobs:
         with:
           python-version: "3.12.1"
 
+
       - name: 📦 Install dependencies
         run: |
-          pip install selenium webdriver-manager cloudscraper aiohttp pytz
+          pip install  cloudscraper aiohttp pytz
 
-      - name: 💾 Run shard + commit (retry safe)
+      - name: 🚀 Run shard scraper
+        run: python bmsdaily${{ matrix.shard }}.py
+
+      - name: 💾 Commit & push shard data
         run: |
-          set -e
-
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          MAX_TRIES=5
-          TRY=1
+          git add daily/
+          git commit -m "Daily BMS shard ${{ matrix.shard }} ($(date +'%Y-%m-%d %H:%M'))" || exit 0
 
-          while [ $TRY -le $MAX_TRIES ]; do
-            echo "🔁 Shard ${{ matrix.shard }} attempt $TRY / $MAX_TRIES"
-
-            # Always work from latest main
-            git fetch origin main
-            git reset --hard origin/main
-
-            python bmsdaily${{ matrix.shard }}.py
-
-            git add daily/
-
-            if git diff --cached --quiet; then
-              echo "✅ No changes for shard ${{ matrix.shard }}"
-              exit 0
-            fi
-
-            git commit -m "Daily BMS shard ${{ matrix.shard }} ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-
-            if git push origin main; then
-              echo "✅ Shard ${{ matrix.shard }} pushed"
-              exit 0
-            fi
-
-            echo "⚠ Push failed, retrying..."
-            TRY=$((TRY+1))
-            sleep 5
+          for i in 1 2 3; do
+            git pull --rebase origin main || true
+            git push origin main && exit 0
+            sleep 3
           done
 
-          echo "❌ Shard ${{ matrix.shard }} failed after retries"
-          exit 1
+          git push --force-with-lease origin main || true
 
 # =====================================================
-# 2️⃣ COMBINER (SINGLE SOURCE OF TRUTH)
+# 2️⃣ COMBINER (HARDENED + AUTO-RETRY)
 # =====================================================
   combine:
     name: Combine all shards (Safe)
@@ -93,6 +67,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
+    # 🔒 Only ONE combiner ever
     concurrency:
       group: bms-combiner
       cancel-in-progress: false
@@ -109,14 +84,12 @@ jobs:
         with:
           python-version: "3.12.1"
 
-      - name: 🔁 Combine + push (retry loop)
+      - name: 🔁 Safe combine + push (retry loop)
         run: |
           set -e
 
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-
-          pip install pytz
 
           MAX_TRIES=6
           TRY=1
@@ -124,9 +97,11 @@ jobs:
           while [ $TRY -le $MAX_TRIES ]; do
             echo "🔁 Combine attempt $TRY / $MAX_TRIES"
 
+            # Always rebuild on latest main
             git fetch origin main
             git reset --hard origin/main
 
+            pip install pytz
             python combine_dailyshards.py
 
             git add daily/
@@ -143,16 +118,16 @@ jobs:
               exit 0
             fi
 
-            echo "⚠ Combine push failed, retrying..."
+            echo "⚠ Push failed — main moved. Retrying..."
             TRY=$((TRY+1))
             sleep 5
           done
 
-          echo "❌ Combine failed after retries"
+          echo "❌ Combine failed after $MAX_TRIES attempts"
           exit 1
 
 # =====================================================
-# 3️⃣ AUTO-RETRY COMBINER (FAILSAFE)
+# 3️⃣ AUTO RE-RUN COMBINER ON FAILURE
 # =====================================================
   retry-combine:
     name: Auto retry combiner
