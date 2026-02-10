@@ -8,9 +8,14 @@ on:
 permissions:
   contents: write
 
+# Prevent overlapping hourly runs
+concurrency:
+  group: bms-daily
+  cancel-in-progress: false
+
 jobs:
 # =====================================================
-# 1️⃣ SHARDS (SAFE + CLEAN)
+# 1️⃣ SHARDS (PARALLEL + RETRY SAFE)
 # =====================================================
   shards:
     name: Shard ${{ matrix.shard }}
@@ -38,34 +43,46 @@ jobs:
         run: |
           pip install selenium webdriver-manager cloudscraper aiohttp pytz
 
-      # 🔒 IMPORTANT: sync FIRST
-      - name: 🔄 Sync with main (clean state)
+      - name: 💾 Run shard + commit (retry safe)
         run: |
-          git fetch origin main
-          git reset --hard origin/main
+          set -e
 
-      - name: 🚀 Run shard scraper
-        run: |
-          python bmsdaily${{ matrix.shard }}.py
-
-      - name: 💾 Commit & push shard data (SAFE)
-        run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git status
+          MAX_TRIES=5
+          TRY=1
 
-          git add daily/
+          while [ $TRY -le $MAX_TRIES ]; do
+            echo "🔁 Shard ${{ matrix.shard }} attempt $TRY / $MAX_TRIES"
 
-          # Exit if no changes
-          if git diff --cached --quiet; then
-            echo "✅ No changes to push for shard ${{ matrix.shard }}"
-            exit 0
-          fi
+            # Always work from latest main
+            git fetch origin main
+            git reset --hard origin/main
 
-          git commit -m "Daily BMS shard ${{ matrix.shard }} ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            python bmsdaily${{ matrix.shard }}.py
 
-          git push origin main
+            git add daily/
+
+            if git diff --cached --quiet; then
+              echo "✅ No changes for shard ${{ matrix.shard }}"
+              exit 0
+            fi
+
+            git commit -m "Daily BMS shard ${{ matrix.shard }} ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+
+            if git push origin main; then
+              echo "✅ Shard ${{ matrix.shard }} pushed"
+              exit 0
+            fi
+
+            echo "⚠ Push failed, retrying..."
+            TRY=$((TRY+1))
+            sleep 5
+          done
+
+          echo "❌ Shard ${{ matrix.shard }} failed after retries"
+          exit 1
 
 # =====================================================
 # 2️⃣ COMBINER (SINGLE SOURCE OF TRUTH)
@@ -92,7 +109,7 @@ jobs:
         with:
           python-version: "3.12.1"
 
-      - name: 🔁 Safe combine + push (retry loop)
+      - name: 🔁 Combine + push (retry loop)
         run: |
           set -e
 
@@ -107,7 +124,6 @@ jobs:
           while [ $TRY -le $MAX_TRIES ]; do
             echo "🔁 Combine attempt $TRY / $MAX_TRIES"
 
-            # Always rebuild on latest main
             git fetch origin main
             git reset --hard origin/main
 
@@ -127,16 +143,16 @@ jobs:
               exit 0
             fi
 
-            echo "⚠ Push failed — main moved. Retrying..."
+            echo "⚠ Combine push failed, retrying..."
             TRY=$((TRY+1))
             sleep 5
           done
 
-          echo "❌ Combine failed after $MAX_TRIES attempts"
+          echo "❌ Combine failed after retries"
           exit 1
 
 # =====================================================
-# 3️⃣ AUTO RETRY COMBINER
+# 3️⃣ AUTO-RETRY COMBINER (FAILSAFE)
 # =====================================================
   retry-combine:
     name: Auto retry combiner
