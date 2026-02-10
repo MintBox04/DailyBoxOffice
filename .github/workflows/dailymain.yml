@@ -3,14 +3,14 @@ name: BMS DailyBO 1–9 + Combine (Matrix)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"   # every hour (UTC)
 
 permissions:
   contents: write
 
 jobs:
 # =====================================================
-# 1️⃣ SHARDS (UNCHANGED)
+# 1️⃣ SHARDS (SAFE + CLEAN)
 # =====================================================
   shards:
     name: Shard ${{ matrix.shard }}
@@ -34,32 +34,41 @@ jobs:
         with:
           python-version: "3.12.1"
 
-
       - name: 📦 Install dependencies
         run: |
           pip install selenium webdriver-manager cloudscraper aiohttp pytz
 
-      - name: 🚀 Run shard scraper
-        run: python bmsdaily${{ matrix.shard }}.py
+      # 🔒 IMPORTANT: sync FIRST
+      - name: 🔄 Sync with main (clean state)
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
 
-      - name: 💾 Commit & push shard data
+      - name: 🚀 Run shard scraper
+        run: |
+          python bmsdaily${{ matrix.shard }}.py
+
+      - name: 💾 Commit & push shard data (SAFE)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
+          git status
+
           git add daily/
-          git commit -m "Daily BMS shard ${{ matrix.shard }} ($(date +'%Y-%m-%d %H:%M'))" || exit 0
 
-          for i in 1 2 3; do
-            git pull --rebase origin main || true
-            git push origin main && exit 0
-            sleep 3
-          done
+          # Exit if no changes
+          if git diff --cached --quiet; then
+            echo "✅ No changes to push for shard ${{ matrix.shard }}"
+            exit 0
+          fi
 
-          git push --force-with-lease origin main || true
+          git commit -m "Daily BMS shard ${{ matrix.shard }} ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+
+          git push origin main
 
 # =====================================================
-# 2️⃣ COMBINER (HARDENED + AUTO-RETRY)
+# 2️⃣ COMBINER (SINGLE SOURCE OF TRUTH)
 # =====================================================
   combine:
     name: Combine all shards (Safe)
@@ -67,7 +76,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
-    # 🔒 Only ONE combiner ever
     concurrency:
       group: bms-combiner
       cancel-in-progress: false
@@ -91,6 +99,8 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
+          pip install pytz
+
           MAX_TRIES=6
           TRY=1
 
@@ -101,7 +111,6 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
 
-            pip install pytz
             python combine_dailyshards.py
 
             git add daily/
@@ -127,7 +136,7 @@ jobs:
           exit 1
 
 # =====================================================
-# 3️⃣ AUTO RE-RUN COMBINER ON FAILURE
+# 3️⃣ AUTO RETRY COMBINER
 # =====================================================
   retry-combine:
     name: Auto retry combiner
