@@ -1,4 +1,37 @@
 {
+  "Border 2": {
+    "shows": 741,
+    "gross": 1771726.0,
+    "sold": 8926,
+    "totalSeats": 158935,
+    "venues": 225,
+    "cities": 68,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 5.62
+  },
+  "Aashaan": {
+    "shows": 46,
+    "gross": 90246.6,
+    "sold": 476,
+    "totalSeats": 9622,
+    "venues": 34,
+    "cities": 8,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.95
+  },
+  "Anomie: The Equation of Death": {
+    "shows": 59,
+    "gross": 294249.4,
+    "sold": 1414,
+    "totalSeats": 13572,
+    "venues": 37,
+    "cities": 12,
+    "fastfilling": 4,
+    "housefull": 0,
+    "occupancy": 10.42
+  },
   "Prakambanam": {
     "shows": 97,
     "gross": 418346.3,
@@ -9,17 +42,6 @@
     "fastfilling": 2,
     "housefull": 0,
     "occupancy": 9.13
-  },
-  "Border 2": {
-    "shows": 741,
-    "gross": 1775966.0,
-    "sold": 8948,
-    "totalSeats": 158935,
-    "venues": 225,
-    "cities": 68,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 5.63
   },
   "Lagan Laagii Re": {
     "shows": 109,
@@ -109,17 +131,6 @@
     "housefull": 0,
     "occupancy": 4.34
   },
-  "Aashaan": {
-    "shows": 46,
-    "gross": 90246.6,
-    "sold": 476,
-    "totalSeats": 9622,
-    "venues": 34,
-    "cities": 8,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.95
-  },
   "Rakkasapuradol": {
     "shows": 108,
     "gross": 638923.0,
@@ -163,17 +174,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 7.27
-  },
-  "Anomie: The Equation of Death": {
-    "shows": 59,
-    "gross": 294249.4,
-    "sold": 1414,
-    "totalSeats": 13572,
-    "venues": 37,
-    "cities": 12,
-    "fastfilling": 4,
-    "housefull": 0,
-    "occupancy": 10.42
   },
   "Avatar: Fire and Ash": {
     "shows": 18,
