@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "movie": "Border 2",
+    "venue": "BMX Cinemas: Ambernath (New)",
+    "address": "GNP Galaxy, Vadol Gaon, Waldhuni, Ambernath, Ulhasnagar, Ulhasnagar, Maharashtra 421501, India",
+    "language": "Hindi",
+    "dimension": "2D",
+    "chain": "Purple Parrots Entertainment And Hospitality",
+    "time": "10:30 AM",
+    "audi": "",
+    "session_id": "9247",
+    "totalSeats": 138,
+    "available": 138,
+    "sold": 0,
+    "gross": 0.0,
+    "minutes_left": 143.7,
+    "city": "Ulhasnagar",
+    "state": "Maharashtra",
+    "date": "20260211",
+    "source": "BMS"
+  },
+  {
+    "movie": "Mardaani 3",
+    "venue": "BMX Cinemas: Ambernath (New)",
+    "address": "GNP Galaxy, Vadol Gaon, Waldhuni, Ambernath, Ulhasnagar, Ulhasnagar, Maharashtra 421501, India",
+    "language": "Hindi",
+    "dimension": "2D",
+    "chain": "Purple Parrots Entertainment And Hospitality",
+    "time": "10:30 AM",
+    "audi": "",
+    "session_id": "9242",
+    "totalSeats": 227,
+    "available": 225,
+    "sold": 2,
+    "gross": 240.0,
+    "minutes_left": 143.7,
+    "city": "Ulhasnagar",
+    "state": "Maharashtra",
+    "date": "20260211",
+    "source": "BMS"
+  }
+]
