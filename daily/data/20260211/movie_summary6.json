@@ -1,20 +1,42 @@
 {
-  "Anaganaga Oka Raju": {
+  "With Love": {
+    "shows": 3,
+    "gross": 13140.0,
+    "sold": 107,
+    "totalSeats": 1198,
+    "venues": 3,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.93
+  },
+  "3 ": {
     "shows": 1,
     "gross": 0.0,
     "sold": 0,
-    "totalSeats": 177,
+    "totalSeats": 436,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
   },
-  "Border 2": {
+  "Agnibaan": {
     "shows": 1,
     "gross": 0.0,
     "sold": 0,
-    "totalSeats": 142,
+    "totalSeats": 158,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Kadhal Kadhai Sollava": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 179,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
@@ -22,10 +44,76 @@
     "occupancy": 0.0
   },
   "Silambattam": {
+    "shows": 2,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 582,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Honey": {
     "shows": 1,
     "gross": 0.0,
     "sold": 0,
-    "totalSeats": 428,
+    "totalSeats": 352,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Border 2": {
+    "shows": 5,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 759,
+    "venues": 4,
+    "cities": 4,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Lagan Laagii Re": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 98,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Mardaani 3": {
+    "shows": 2,
+    "gross": 298.0,
+    "sold": 2,
+    "totalSeats": 290,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.69
+  },
+  "Godaan": {
+    "shows": 1,
+    "gross": 99.0,
+    "sold": 1,
+    "totalSeats": 192,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.52
+  },
+  "Anaganaga Oka Raju": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 177,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
