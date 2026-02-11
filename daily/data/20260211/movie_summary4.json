@@ -1,24 +1,134 @@
 {
-  "Border 2": {
+  "Vadh 2": {
     "shows": 1,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 138,
+    "gross": 1900.0,
+    "sold": 8,
+    "totalSeats": 203,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 0.0
+    "occupancy": 3.94
+  },
+  "3 ": {
+    "shows": 1,
+    "gross": 2800.0,
+    "sold": 11,
+    "totalSeats": 220,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.0
   },
   "Mardaani 3": {
+    "shows": 3,
+    "gross": 4125.0,
+    "sold": 39,
+    "totalSeats": 569,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.85
+  },
+  "Mana Shankara Vara Prasad Garu": {
     "shows": 1,
-    "gross": 240.0,
-    "sold": 2,
-    "totalSeats": 227,
+    "gross": 200.0,
+    "sold": 1,
+    "totalSeats": 170,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 0.88
+    "occupancy": 0.59
+  },
+  "Anaganaga Oka Raju": {
+    "shows": 1,
+    "gross": 1800.0,
+    "sold": 9,
+    "totalSeats": 144,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.25
+  },
+  "With Love": {
+    "shows": 3,
+    "gross": 17500.0,
+    "sold": 125,
+    "totalSeats": 868,
+    "venues": 2,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 14.4
+  },
+  "Zootopia 2": {
+    "shows": 2,
+    "gross": 945.0,
+    "sold": 9,
+    "totalSeats": 101,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.91
+  },
+  "Border 2": {
+    "shows": 2,
+    "gross": 2950.0,
+    "sold": 19,
+    "totalSeats": 328,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.79
+  },
+  "Euphoria": {
+    "shows": 1,
+    "gross": 3800.0,
+    "sold": 19,
+    "totalSeats": 220,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.64
+  },
+  "Dhurandhar": {
+    "shows": 1,
+    "gross": 1365.0,
+    "sold": 13,
+    "totalSeats": 152,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.55
+  },
+  "Barabar Premistha": {
+    "shows": 1,
+    "gross": 2400.0,
+    "sold": 12,
+    "totalSeats": 144,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.33
+  },
+  "Zamana": {
+    "shows": 1,
+    "gross": 1470.0,
+    "sold": 14,
+    "totalSeats": 170,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.24
   }
 }
