@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "movie": "Bhartha Mahasayulaku Wignyapthi",
+    "venue": "Sri Venkateswara A/C Dolby DTS: S.Kota",
+    "address": "Srungavarapu Kota, Aruku-Vishakapatnam Road, Vizianagaram, Andhra Pradesh 535145, India",
+    "language": "Telugu",
+    "dimension": "2D",
+    "chain": "Sri Venkateswara AC DTS (S.kota): Vizianagaram",
+    "time": "11:00 AM",
+    "audi": "",
+    "session_id": "7993",
+    "totalSeats": 380,
+    "available": 380,
+    "sold": 0,
+    "gross": 0.0,
+    "minutes_left": 178.4,
+    "city": "Vizianagaram",
+    "state": "Andhra Pradesh",
+    "date": "20260211",
+    "source": "BMS"
+  }
+]
