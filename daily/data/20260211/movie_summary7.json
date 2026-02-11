@@ -1,36 +1,102 @@
 {
-  "Border 2": {
-    "shows": 4,
-    "gross": 2280.0,
-    "sold": 18,
-    "totalSeats": 574,
-    "venues": 4,
-    "cities": 4,
+  "Yogida": {
+    "shows": 1,
+    "gross": 130.0,
+    "sold": 1,
+    "totalSeats": 390,
+    "venues": 1,
+    "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 3.14
+    "occupancy": 0.26
   },
-  "Mardaani 3": {
+  "Stray Kids: The dominATE Experience": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 185,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Bhabiji Ghar Par Hain!": {
     "shows": 2,
-    "gross": 300.0,
-    "sold": 2,
-    "totalSeats": 361,
+    "gross": 2570.0,
+    "sold": 12,
+    "totalSeats": 395,
     "venues": 2,
     "cities": 2,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 0.55
+    "occupancy": 3.04
+  },
+  "Border 2": {
+    "shows": 9,
+    "gross": 12254.0,
+    "sold": 68,
+    "totalSeats": 1600,
+    "venues": 6,
+    "cities": 5,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.25
   },
   "Vadh 2": {
+    "shows": 2,
+    "gross": 3370.0,
+    "sold": 21,
+    "totalSeats": 406,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.17
+  },
+  "Mardaani 3": {
+    "shows": 5,
+    "gross": 7250.0,
+    "sold": 41,
+    "totalSeats": 853,
+    "venues": 4,
+    "cities": 4,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.81
+  },
+  "Aga Aga Sunbai! Kay Mhantay Sasubai?": {
     "shows": 1,
-    "gross": 300.0,
-    "sold": 2,
+    "gross": 11360.0,
+    "sold": 57,
+    "totalSeats": 202,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 28.22
+  },
+  "Ranapati Shivray - Swari Agra": {
+    "shows": 1,
+    "gross": 10240.0,
+    "sold": 61,
+    "totalSeats": 191,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 31.94
+  },
+  "Godaan": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
     "totalSeats": 204,
     "venues": 1,
     "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 0.98
+    "occupancy": 0.0
   },
   "Bhartha Mahasayulaku Wignyapthi": {
     "shows": 1,
