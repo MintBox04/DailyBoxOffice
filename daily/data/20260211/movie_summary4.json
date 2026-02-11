@@ -1,14 +1,36 @@
 {
+  "Mardaani 3": {
+    "shows": 329,
+    "gross": 1381615.0,
+    "sold": 6254,
+    "totalSeats": 75366,
+    "venues": 147,
+    "cities": 27,
+    "fastfilling": 4,
+    "housefull": 0,
+    "occupancy": 8.3
+  },
   "Border 2": {
-    "shows": 395,
-    "gross": 1205457.0,
-    "sold": 5911,
-    "totalSeats": 88372,
+    "shows": 396,
+    "gross": 1201857.0,
+    "sold": 5893,
+    "totalSeats": 88576,
     "venues": 192,
     "cities": 49,
     "fastfilling": 5,
     "housefull": 0,
-    "occupancy": 6.69
+    "occupancy": 6.65
+  },
+  "Bebe Main Badmash Banuga?": {
+    "shows": 21,
+    "gross": 7990.0,
+    "sold": 45,
+    "totalSeats": 3371,
+    "venues": 9,
+    "cities": 7,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.33
   },
   "Bhabiji Ghar Par Hain!": {
     "shows": 52,
@@ -42,17 +64,6 @@
     "fastfilling": 0,
     "housefull": 1,
     "occupancy": 13.71
-  },
-  "Mardaani 3": {
-    "shows": 329,
-    "gross": 1384675.0,
-    "sold": 6271,
-    "totalSeats": 75366,
-    "venues": 147,
-    "cities": 27,
-    "fastfilling": 4,
-    "housefull": 0,
-    "occupancy": 8.32
   },
   "With Love": {
     "shows": 117,
@@ -537,17 +548,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 10.33
-  },
-  "Bebe Main Badmash Banuga?": {
-    "shows": 20,
-    "gross": 7990.0,
-    "sold": 45,
-    "totalSeats": 3219,
-    "venues": 9,
-    "cities": 7,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 1.4
   },
   "Sarkari Damad": {
     "shows": 6,
