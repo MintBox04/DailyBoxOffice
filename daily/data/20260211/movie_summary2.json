@@ -1,1 +1,145 @@
-{}
+{
+  "Vadh 2": {
+    "shows": 4,
+    "gross": 150.0,
+    "sold": 1,
+    "totalSeats": 894,
+    "venues": 3,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.11
+  },
+  "Mardaani 3": {
+    "shows": 8,
+    "gross": 8108.0,
+    "sold": 49,
+    "totalSeats": 1471,
+    "venues": 6,
+    "cities": 5,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 3.33
+  },
+  "Lagan Laagii Re": {
+    "shows": 4,
+    "gross": 840.0,
+    "sold": 7,
+    "totalSeats": 561,
+    "venues": 3,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.25
+  },
+  "Border 2": {
+    "shows": 11,
+    "gross": 8205.0,
+    "sold": 46,
+    "totalSeats": 2439,
+    "venues": 6,
+    "cities": 5,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.89
+  },
+  "Bhabiji Ghar Par Hain!": {
+    "shows": 2,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 416,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Kadhal Kadhai Sollava": {
+    "shows": 1,
+    "gross": 4000.0,
+    "sold": 40,
+    "totalSeats": 394,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 10.15
+  },
+  "The Return of the Army Man": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 41,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Anaganaga Oka Raju": {
+    "shows": 1,
+    "gross": 4200.0,
+    "sold": 42,
+    "totalSeats": 264,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 15.91
+  },
+  "Sukhibavaa": {
+    "shows": 1,
+    "gross": 980.0,
+    "sold": 7,
+    "totalSeats": 90,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.78
+  },
+  "Gharga": {
+    "shows": 1,
+    "gross": 1560.0,
+    "sold": 12,
+    "totalSeats": 126,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.52
+  },
+  "Bebe Main Badmash Banuga?": {
+    "shows": 2,
+    "gross": 260.0,
+    "sold": 2,
+    "totalSeats": 293,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.68
+  },
+  "Bhartha Mahasayulaku Wignyapthi": {
+    "shows": 2,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 428,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Karuthal": {
+    "shows": 1,
+    "gross": 1650.0,
+    "sold": 11,
+    "totalSeats": 213,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.16
+  }
+}
