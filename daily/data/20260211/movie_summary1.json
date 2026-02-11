@@ -1,4 +1,59 @@
 {
+  "Aga Aga Sunbai! Kay Mhantay Sasubai?": {
+    "shows": 26,
+    "gross": 82678.0,
+    "sold": 502,
+    "totalSeats": 5642,
+    "venues": 23,
+    "cities": 8,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.9
+  },
+  "Border 2": {
+    "shows": 248,
+    "gross": 505795.0,
+    "sold": 2956,
+    "totalSeats": 53060,
+    "venues": 174,
+    "cities": 82,
+    "fastfilling": 3,
+    "housefull": 0,
+    "occupancy": 5.57
+  },
+  "Lagnacha Shot": {
+    "shows": 3,
+    "gross": 9470.0,
+    "sold": 59,
+    "totalSeats": 475,
+    "venues": 3,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 12.42
+  },
+  "Ranapati Shivray - Swari Agra": {
+    "shows": 32,
+    "gross": 90770.0,
+    "sold": 554,
+    "totalSeats": 8061,
+    "venues": 30,
+    "cities": 11,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.87
+  },
+  "Mardaani 3": {
+    "shows": 130,
+    "gross": 321388.0,
+    "sold": 1740,
+    "totalSeats": 27925,
+    "venues": 94,
+    "cities": 35,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.23
+  },
   "Pre Historic Adventure": {
     "shows": 3,
     "gross": 0.0,
@@ -32,17 +87,6 @@
     "housefull": 0,
     "occupancy": 0.0
   },
-  "Border 2": {
-    "shows": 248,
-    "gross": 505535.0,
-    "sold": 2954,
-    "totalSeats": 53060,
-    "venues": 174,
-    "cities": 82,
-    "fastfilling": 3,
-    "housefull": 0,
-    "occupancy": 5.57
-  },
   "Mana Shankara Vara Prasad Garu": {
     "shows": 21,
     "gross": 43050.0,
@@ -75,17 +119,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 1.02
-  },
-  "Ranapati Shivray - Swari Agra": {
-    "shows": 32,
-    "gross": 89550.0,
-    "sold": 545,
-    "totalSeats": 8061,
-    "venues": 30,
-    "cities": 11,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.76
   },
   "3 ": {
     "shows": 2,
@@ -208,17 +241,6 @@
     "housefull": 0,
     "occupancy": 2.06
   },
-  "Aga Aga Sunbai! Kay Mhantay Sasubai?": {
-    "shows": 26,
-    "gross": 82158.0,
-    "sold": 498,
-    "totalSeats": 5642,
-    "venues": 23,
-    "cities": 8,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 8.83
-  },
   "Vadh 2": {
     "shows": 47,
     "gross": 85989.0,
@@ -229,17 +251,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 5.31
-  },
-  "Mardaani 3": {
-    "shows": 129,
-    "gross": 317168.0,
-    "sold": 1711,
-    "totalSeats": 27723,
-    "venues": 94,
-    "cities": 35,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.17
   },
   "Agnibaan": {
     "shows": 15,
@@ -713,17 +724,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 23.08
-  },
-  "Lagnacha Shot": {
-    "shows": 3,
-    "gross": 9470.0,
-    "sold": 59,
-    "totalSeats": 475,
-    "venues": 3,
-    "cities": 3,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 12.42
   },
   "Bebe Main Badmash Banuga?": {
     "shows": 2,
