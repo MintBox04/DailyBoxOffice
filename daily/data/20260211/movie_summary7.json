@@ -1,36 +1,80 @@
 {
-  "Border 2": {
-    "shows": 628,
-    "gross": 1647482.0,
-    "sold": 8840,
-    "totalSeats": 119932,
-    "venues": 215,
-    "cities": 93,
-    "fastfilling": 3,
-    "housefull": 1,
-    "occupancy": 7.37
-  },
-  "Vadh 2": {
-    "shows": 115,
-    "gross": 219102.0,
-    "sold": 1108,
-    "totalSeats": 17576,
-    "venues": 61,
-    "cities": 25,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.3
-  },
   "Mardaani 3": {
     "shows": 376,
-    "gross": 1072826.0,
-    "sold": 5522,
+    "gross": 1070256.0,
+    "sold": 5505,
     "totalSeats": 66270,
     "venues": 133,
     "cities": 55,
     "fastfilling": 5,
     "housefull": 2,
-    "occupancy": 8.33
+    "occupancy": 8.31
+  },
+  "Border 2": {
+    "shows": 628,
+    "gross": 1643222.0,
+    "sold": 8827,
+    "totalSeats": 119909,
+    "venues": 215,
+    "cities": 93,
+    "fastfilling": 3,
+    "housefull": 1,
+    "occupancy": 7.36
+  },
+  "Lagan Laagii Re": {
+    "shows": 164,
+    "gross": 335154.0,
+    "sold": 1846,
+    "totalSeats": 22444,
+    "venues": 63,
+    "cities": 9,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 8.22
+  },
+  "Vadh 2": {
+    "shows": 115,
+    "gross": 216182.0,
+    "sold": 1100,
+    "totalSeats": 17576,
+    "venues": 61,
+    "cities": 25,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.26
+  },
+  "Landlord": {
+    "shows": 9,
+    "gross": 15550.0,
+    "sold": 113,
+    "totalSeats": 2374,
+    "venues": 4,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.76
+  },
+  "Rakkasapuradol": {
+    "shows": 12,
+    "gross": 76720.0,
+    "sold": 846,
+    "totalSeats": 5384,
+    "venues": 5,
+    "cities": 4,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 15.71
+  },
+  "Ashakal Aayiram": {
+    "shows": 32,
+    "gross": 188669.4,
+    "sold": 1261,
+    "totalSeats": 7135,
+    "venues": 16,
+    "cities": 13,
+    "fastfilling": 3,
+    "housefull": 0,
+    "occupancy": 17.67
   },
   "Bhartha Mahasayulaku Wignyapthi": {
     "shows": 15,
@@ -87,17 +131,6 @@
     "housefull": 0,
     "occupancy": 8.69
   },
-  "Lagan Laagii Re": {
-    "shows": 164,
-    "gross": 338334.0,
-    "sold": 1855,
-    "totalSeats": 22444,
-    "venues": 63,
-    "cities": 9,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 8.27
-  },
   "Bhabiji Ghar Par Hain!": {
     "shows": 90,
     "gross": 110721.0,
@@ -130,17 +163,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 1.51
-  },
-  "Ashakal Aayiram": {
-    "shows": 32,
-    "gross": 188669.4,
-    "sold": 1261,
-    "totalSeats": 7135,
-    "venues": 16,
-    "cities": 13,
-    "fastfilling": 3,
-    "housefull": 0,
-    "occupancy": 17.67
   },
   "Prakambanam": {
     "shows": 45,
@@ -527,17 +549,6 @@
     "housefull": 0,
     "occupancy": 24.33
   },
-  "Rakkasapuradol": {
-    "shows": 11,
-    "gross": 73470.0,
-    "sold": 814,
-    "totalSeats": 4512,
-    "venues": 5,
-    "cities": 4,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 18.04
-  },
   "Scarlet": {
     "shows": 7,
     "gross": 33357.0,
@@ -570,17 +581,6 @@
     "fastfilling": 1,
     "housefull": 0,
     "occupancy": 14.77
-  },
-  "Landlord": {
-    "shows": 8,
-    "gross": 12900.0,
-    "sold": 88,
-    "totalSeats": 1936,
-    "venues": 4,
-    "cities": 3,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.55
   },
   "Hok Kolorob": {
     "shows": 1,
