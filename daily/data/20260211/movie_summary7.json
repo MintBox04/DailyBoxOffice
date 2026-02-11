@@ -1,14 +1,69 @@
 {
+  "Bhabiji Ghar Par Hain!": {
+    "shows": 73,
+    "gross": 96958.0,
+    "sold": 530,
+    "totalSeats": 9340,
+    "venues": 50,
+    "cities": 20,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.67
+  },
+  "Paatki": {
+    "shows": 6,
+    "gross": 2200.0,
+    "sold": 19,
+    "totalSeats": 459,
+    "venues": 5,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.14
+  },
+  "Mardaani 3": {
+    "shows": 288,
+    "gross": 734878.0,
+    "sold": 4024,
+    "totalSeats": 50492,
+    "venues": 129,
+    "cities": 53,
+    "fastfilling": 3,
+    "housefull": 2,
+    "occupancy": 7.97
+  },
+  "Bicharo Bachelor": {
+    "shows": 9,
+    "gross": 1038.0,
+    "sold": 6,
+    "totalSeats": 583,
+    "venues": 5,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.03
+  },
   "Border 2": {
-    "shows": 497,
-    "gross": 1189305.0,
-    "sold": 6520,
-    "totalSeats": 94291,
+    "shows": 499,
+    "gross": 1192105.0,
+    "sold": 6539,
+    "totalSeats": 94510,
     "venues": 210,
     "cities": 92,
     "fastfilling": 1,
     "housefull": 1,
-    "occupancy": 6.91
+    "occupancy": 6.92
+  },
+  "Lagan Laagii Re": {
+    "shows": 120,
+    "gross": 196813.0,
+    "sold": 1118,
+    "totalSeats": 17060,
+    "venues": 61,
+    "cities": 8,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 6.55
   },
   "Aashaan": {
     "shows": 10,
@@ -54,17 +109,6 @@
     "housefull": 0,
     "occupancy": 3.92
   },
-  "Lagan Laagii Re": {
-    "shows": 119,
-    "gross": 195713.0,
-    "sold": 1107,
-    "totalSeats": 16953,
-    "venues": 61,
-    "cities": 8,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 6.53
-  },
   "Vadh 2": {
     "shows": 85,
     "gross": 144866.0,
@@ -75,17 +119,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 6.33
-  },
-  "Mardaani 3": {
-    "shows": 287,
-    "gross": 733398.0,
-    "sold": 4014,
-    "totalSeats": 50370,
-    "venues": 129,
-    "cities": 53,
-    "fastfilling": 3,
-    "housefull": 2,
-    "occupancy": 7.97
   },
   "Landlord": {
     "shows": 8,
@@ -185,17 +218,6 @@
     "fastfilling": 1,
     "housefull": 0,
     "occupancy": 15.42
-  },
-  "Bhabiji Ghar Par Hain!": {
-    "shows": 73,
-    "gross": 96958.0,
-    "sold": 530,
-    "totalSeats": 9340,
-    "venues": 50,
-    "cities": 20,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.67
   },
   "Devdas ": {
     "shows": 3,
@@ -439,17 +461,6 @@
     "housefull": 0,
     "occupancy": 13.36
   },
-  "Paatki": {
-    "shows": 6,
-    "gross": 1300.0,
-    "sold": 10,
-    "totalSeats": 459,
-    "venues": 5,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 2.18
-  },
   "Chaurangi": {
     "shows": 4,
     "gross": 17331.0,
@@ -548,17 +559,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 15.61
-  },
-  "Bicharo Bachelor": {
-    "shows": 8,
-    "gross": 788.0,
-    "sold": 5,
-    "totalSeats": 543,
-    "venues": 4,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.92
   },
   "Sarkari Damad": {
     "shows": 11,
