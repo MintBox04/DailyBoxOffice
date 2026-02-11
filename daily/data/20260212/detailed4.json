@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "movie": "Border 2",
+    "venue": "Maxus Cinemas: Bhayander",
+    "address": "Maxus Mall, 3rd Floor, 150 Feet Road, Near Railway Flyover, Opposite Salasar Bridge Bhoomi, Mumbai, Maharashtra 401101, India",
+    "language": "Hindi",
+    "dimension": "2D",
+    "chain": "Maxus Cinemas",
+    "time": "07:15 AM",
+    "audi": "Gold Class",
+    "session_id": "211551",
+    "totalSeats": 58,
+    "available": 47,
+    "sold": 11,
+    "gross": 2189.0,
+    "minutes_left": 126.0,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "date": "20260212",
+    "source": "BMS"
+  },
+  {
+    "movie": "Mardaani 3",
+    "venue": "Maxus Cinemas: Bhayander",
+    "address": "Maxus Mall, 3rd Floor, 150 Feet Road, Near Railway Flyover, Opposite Salasar Bridge Bhoomi, Mumbai, Maharashtra 401101, India",
+    "language": "Hindi",
+    "dimension": "2D",
+    "chain": "Maxus Cinemas",
+    "time": "07:45 AM",
+    "audi": "Atmos",
+    "session_id": "211485",
+    "totalSeats": 358,
+    "available": 333,
+    "sold": 25,
+    "gross": 3775.0,
+    "minutes_left": 156.0,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "date": "20260212",
+    "source": "BMS"
+  }
+]

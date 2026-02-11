@@ -1,1 +1,24 @@
-{}
+{
+  "Border 2": {
+    "shows": 1,
+    "gross": 2189.0,
+    "sold": 11,
+    "totalSeats": 58,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 18.97
+  },
+  "Mardaani 3": {
+    "shows": 1,
+    "gross": 3775.0,
+    "sold": 25,
+    "totalSeats": 358,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.98
+  }
+}
