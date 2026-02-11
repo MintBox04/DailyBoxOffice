@@ -10,16 +10,27 @@
     "housefull": 0,
     "occupancy": 8.91
   },
+  "Border 2": {
+    "shows": 526,
+    "gross": 1227133.0,
+    "sold": 6486,
+    "totalSeats": 109346,
+    "venues": 174,
+    "cities": 92,
+    "fastfilling": 1,
+    "housefull": 1,
+    "occupancy": 5.93
+  },
   "Mardaani 3": {
     "shows": 300,
-    "gross": 771505.0,
-    "sold": 3679,
+    "gross": 773005.0,
+    "sold": 3685,
     "totalSeats": 54512,
     "venues": 109,
     "cities": 63,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 6.75
+    "occupancy": 6.76
   },
   "Euphoria": {
     "shows": 31,
@@ -75,17 +86,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 5.35
-  },
-  "Border 2": {
-    "shows": 526,
-    "gross": 1227133.0,
-    "sold": 6486,
-    "totalSeats": 109346,
-    "venues": 174,
-    "cities": 92,
-    "fastfilling": 1,
-    "housefull": 1,
-    "occupancy": 5.93
   },
   "Vadh 2": {
     "shows": 105,
