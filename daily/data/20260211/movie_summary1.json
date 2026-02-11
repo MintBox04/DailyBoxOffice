@@ -1,1 +1,178 @@
-{}
+{
+  "Bhabiji Ghar Par Hain!": {
+    "shows": 1,
+    "gross": 340.0,
+    "sold": 2,
+    "totalSeats": 153,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.31
+  },
+  "Border 2": {
+    "shows": 9,
+    "gross": 33740.0,
+    "sold": 100,
+    "totalSeats": 1662,
+    "venues": 4,
+    "cities": 4,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.02
+  },
+  "Vadh 2": {
+    "shows": 3,
+    "gross": 7180.0,
+    "sold": 28,
+    "totalSeats": 522,
+    "venues": 3,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.36
+  },
+  "Anaganaga Oka Raju": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 62,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Mana Shankara Vara Prasad Garu": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 622,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "JC: The University": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 96,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Agnibaan": {
+    "shows": 2,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 448,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Mardaani 3": {
+    "shows": 4,
+    "gross": 19790.0,
+    "sold": 69,
+    "totalSeats": 1031,
+    "venues": 3,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.69
+  },
+  "Malumadi": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 140,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Stray Kids: The dominATE Experience": {
+    "shows": 2,
+    "gross": 3260.0,
+    "sold": 11,
+    "totalSeats": 650,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.69
+  },
+  "Lagan Laagii Re": {
+    "shows": 1,
+    "gross": 7000.0,
+    "sold": 28,
+    "totalSeats": 199,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 14.07
+  },
+  "Dhurandhar": {
+    "shows": 1,
+    "gross": 4550.0,
+    "sold": 19,
+    "totalSeats": 157,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 12.1
+  },
+  "Scarlet": {
+    "shows": 1,
+    "gross": 10660.0,
+    "sold": 26,
+    "totalSeats": 393,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.62
+  },
+  "Devdas ": {
+    "shows": 1,
+    "gross": 1788.0,
+    "sold": 12,
+    "totalSeats": 200,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.0
+  },
+  "Zorr": {
+    "shows": 1,
+    "gross": 3360.0,
+    "sold": 14,
+    "totalSeats": 213,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.57
+  },
+  "Khancha": {
+    "shows": 1,
+    "gross": 2200.0,
+    "sold": 10,
+    "totalSeats": 201,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.98
+  }
+}
