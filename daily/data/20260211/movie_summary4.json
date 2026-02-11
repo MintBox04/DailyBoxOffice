@@ -1,14 +1,135 @@
 {
+  "Mana Shankara Vara Prasad Garu": {
+    "shows": 56,
+    "gross": 322864.0,
+    "sold": 2183,
+    "totalSeats": 21414,
+    "venues": 54,
+    "cities": 11,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 10.19
+  },
+  "3 ": {
+    "shows": 16,
+    "gross": 111076.0,
+    "sold": 681,
+    "totalSeats": 5420,
+    "venues": 15,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 12.56
+  },
+  "With Love": {
+    "shows": 50,
+    "gross": 269515.0,
+    "sold": 1707,
+    "totalSeats": 18139,
+    "venues": 45,
+    "cities": 15,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 9.41
+  },
+  "Orange": {
+    "shows": 26,
+    "gross": 132480.0,
+    "sold": 901,
+    "totalSeats": 10011,
+    "venues": 25,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.0
+  },
+  "Anaganaga Oka Raju": {
+    "shows": 24,
+    "gross": 72516.0,
+    "sold": 415,
+    "totalSeats": 6178,
+    "venues": 24,
+    "cities": 8,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.72
+  },
+  "Euphoria": {
+    "shows": 31,
+    "gross": 123688.0,
+    "sold": 752,
+    "totalSeats": 10935,
+    "venues": 31,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.88
+  },
+  "Erracheera": {
+    "shows": 3,
+    "gross": 100.0,
+    "sold": 1,
+    "totalSeats": 1571,
+    "venues": 3,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.06
+  },
+  "Vadh 2": {
+    "shows": 49,
+    "gross": 167110.0,
+    "sold": 728,
+    "totalSeats": 8481,
+    "venues": 47,
+    "cities": 12,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 8.58
+  },
+  "Ranapati Shivray - Swari Agra": {
+    "shows": 41,
+    "gross": 90240.0,
+    "sold": 542,
+    "totalSeats": 10670,
+    "venues": 40,
+    "cities": 10,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.08
+  },
+  "Krantijyoti Vidyalay Marathi Madhyam": {
+    "shows": 39,
+    "gross": 165472.0,
+    "sold": 928,
+    "totalSeats": 8784,
+    "venues": 35,
+    "cities": 5,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 10.56
+  },
   "Border 2": {
-    "shows": 199,
-    "gross": 495287.0,
-    "sold": 2607,
-    "totalSeats": 44916,
+    "shows": 201,
+    "gross": 502582.0,
+    "sold": 2644,
+    "totalSeats": 45473,
     "venues": 157,
     "cities": 47,
     "fastfilling": 1,
     "housefull": 0,
-    "occupancy": 5.8
+    "occupancy": 5.81
+  },
+  "Mardaani 3": {
+    "shows": 146,
+    "gross": 433926.0,
+    "sold": 2184,
+    "totalSeats": 34341,
+    "venues": 111,
+    "cities": 23,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 6.36
   },
   "Apekhya": {
     "shows": 1,
@@ -42,28 +163,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 2.92
-  },
-  "Vadh 2": {
-    "shows": 47,
-    "gross": 165610.0,
-    "sold": 723,
-    "totalSeats": 8118,
-    "venues": 46,
-    "cities": 12,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 8.91
-  },
-  "Mardaani 3": {
-    "shows": 144,
-    "gross": 431066.0,
-    "sold": 2170,
-    "totalSeats": 33587,
-    "venues": 110,
-    "cities": 23,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 6.46
   },
   "Dhurandhar": {
     "shows": 20,
@@ -131,17 +230,6 @@
     "housefull": 0,
     "occupancy": 6.08
   },
-  "Ranapati Shivray - Swari Agra": {
-    "shows": 41,
-    "gross": 90030.0,
-    "sold": 540,
-    "totalSeats": 10670,
-    "venues": 40,
-    "cities": 10,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.06
-  },
   "Bebe Main Badmash Banuga?": {
     "shows": 12,
     "gross": 8010.0,
@@ -164,17 +252,6 @@
     "housefull": 0,
     "occupancy": 0.0
   },
-  "Mana Shankara Vara Prasad Garu": {
-    "shows": 55,
-    "gross": 322864.0,
-    "sold": 2183,
-    "totalSeats": 21058,
-    "venues": 53,
-    "cities": 11,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 10.37
-  },
   "Yogida": {
     "shows": 5,
     "gross": 9210.0,
@@ -186,17 +263,6 @@
     "housefull": 0,
     "occupancy": 17.78
   },
-  "With Love": {
-    "shows": 49,
-    "gross": 269515.0,
-    "sold": 1707,
-    "totalSeats": 17815,
-    "venues": 44,
-    "cities": 15,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 9.58
-  },
   "Aga Aga Sunbai! Kay Mhantay Sasubai?": {
     "shows": 23,
     "gross": 83923.0,
@@ -207,28 +273,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 12.49
-  },
-  "Anaganaga Oka Raju": {
-    "shows": 24,
-    "gross": 72516.0,
-    "sold": 415,
-    "totalSeats": 6178,
-    "venues": 24,
-    "cities": 8,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.72
-  },
-  "Orange": {
-    "shows": 25,
-    "gross": 130130.0,
-    "sold": 885,
-    "totalSeats": 9659,
-    "venues": 25,
-    "cities": 3,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 9.16
   },
   "The Raja Saab": {
     "shows": 1,
@@ -262,17 +306,6 @@
     "fastfilling": 0,
     "housefull": 1,
     "occupancy": 11.52
-  },
-  "Euphoria": {
-    "shows": 31,
-    "gross": 123448.0,
-    "sold": 750,
-    "totalSeats": 10935,
-    "venues": 31,
-    "cities": 3,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.86
   },
   "Honey": {
     "shows": 8,
@@ -383,17 +416,6 @@
     "fastfilling": 1,
     "housefull": 0,
     "occupancy": 16.51
-  },
-  "3 ": {
-    "shows": 15,
-    "gross": 111076.0,
-    "sold": 681,
-    "totalSeats": 5100,
-    "venues": 15,
-    "cities": 3,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 13.35
   },
   "Avatar: Fire and Ash": {
     "shows": 15,
@@ -526,17 +548,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 3.23
-  },
-  "Erracheera": {
-    "shows": 3,
-    "gross": 100.0,
-    "sold": 1,
-    "totalSeats": 1571,
-    "venues": 3,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.06
   },
   "Khalnayak (1993)": {
     "shows": 1,
@@ -768,17 +779,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 2.07
-  },
-  "Krantijyoti Vidyalay Marathi Madhyam": {
-    "shows": 37,
-    "gross": 160612.0,
-    "sold": 901,
-    "totalSeats": 8437,
-    "venues": 33,
-    "cities": 5,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 10.68
   },
   "Operation London Cafe": {
     "shows": 3,
