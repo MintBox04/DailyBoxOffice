@@ -1,4 +1,81 @@
 {
+  "With Love": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 738,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Maayabimbum": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 738,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Mana Shankara Vara Prasad Garu": {
+    "shows": 1,
+    "gross": 1900.0,
+    "sold": 19,
+    "totalSeats": 270,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.04
+  },
+  "Aga Aga Sunbai! Kay Mhantay Sasubai?": {
+    "shows": 2,
+    "gross": 1500.0,
+    "sold": 10,
+    "totalSeats": 239,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.18
+  },
+  "Mardaani 3": {
+    "shows": 2,
+    "gross": 6240.0,
+    "sold": 39,
+    "totalSeats": 182,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 21.43
+  },
+  "The Return of the Army Man": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 103,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Ranapati Shivray - Swari Agra": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 103,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
   "Bhartha Mahasayulaku Wignyapthi": {
     "shows": 1,
     "gross": 0.0,
