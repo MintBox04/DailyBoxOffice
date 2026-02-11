@@ -1,4 +1,15 @@
 {
+  "Anaganaga Oka Raju": {
+    "shows": 16,
+    "gross": 57624.0,
+    "sold": 411,
+    "totalSeats": 6624,
+    "venues": 8,
+    "cities": 7,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 6.2
+  },
   "Border 2": {
     "shows": 589,
     "gross": 1317218.0,
@@ -537,17 +548,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 4.96
-  },
-  "Anaganaga Oka Raju": {
-    "shows": 15,
-    "gross": 57624.0,
-    "sold": 411,
-    "totalSeats": 6104,
-    "venues": 8,
-    "cities": 7,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 6.73
   },
   "Rubaab": {
     "shows": 11,

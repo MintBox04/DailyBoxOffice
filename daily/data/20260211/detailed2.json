@@ -1,5 +1,25 @@
 [
   {
+    "movie": "Anaganaga Oka Raju",
+    "venue": "ASR A/C 4K Laser Dolby Surround 7.1: Madanapalle",
+    "address": "Rama Gopal Naidu Colony, Near State Bank of India, Madanapalle, Andhra Pradesh 517325, India",
+    "language": "Telugu",
+    "dimension": "2D",
+    "chain": "Naveen Reddy Cinemas",
+    "time": "09:15 PM",
+    "audi": "4K LASER ",
+    "session_id": "8039",
+    "totalSeats": 520,
+    "available": 520,
+    "sold": 0,
+    "gross": 0.0,
+    "minutes_left": 116.8,
+    "city": "Madanapalle",
+    "state": "Andhra Pradesh",
+    "date": "20260211",
+    "source": "BMS"
+  },
+  {
     "movie": "Border 2",
     "venue": "SSR Globe Cinemas: New Market, Kolkata",
     "address": "Globe Mall, 7e, Lindsay Street, Dharmatala, Taltala, Kolkata, West Bengal 700087, India",
