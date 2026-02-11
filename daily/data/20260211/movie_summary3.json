@@ -1,4 +1,48 @@
 {
+  "Vadh 2": {
+    "shows": 79,
+    "gross": 199923.0,
+    "sold": 1016,
+    "totalSeats": 16502,
+    "venues": 49,
+    "cities": 22,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 6.16
+  },
+  "Border 2": {
+    "shows": 409,
+    "gross": 1354305.0,
+    "sold": 6460,
+    "totalSeats": 95941,
+    "venues": 152,
+    "cities": 77,
+    "fastfilling": 0,
+    "housefull": 2,
+    "occupancy": 6.73
+  },
+  "Mardaani 3": {
+    "shows": 169,
+    "gross": 482543.0,
+    "sold": 2256,
+    "totalSeats": 33384,
+    "venues": 89,
+    "cities": 45,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.76
+  },
+  "Dhurandhar": {
+    "shows": 15,
+    "gross": 28047.0,
+    "sold": 139,
+    "totalSeats": 2664,
+    "venues": 15,
+    "cities": 7,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.22
+  },
   "Rakkasapuradol": {
     "shows": 45,
     "gross": 314770.0,
@@ -153,17 +197,6 @@
     "housefull": 0,
     "occupancy": 5.13
   },
-  "Border 2": {
-    "shows": 404,
-    "gross": 1322685.0,
-    "sold": 6290,
-    "totalSeats": 94749,
-    "venues": 152,
-    "cities": 77,
-    "fastfilling": 0,
-    "housefull": 2,
-    "occupancy": 6.64
-  },
   "Mangal Shootra": {
     "shows": 6,
     "gross": 0.0,
@@ -185,28 +218,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 7.97
-  },
-  "Mardaani 3": {
-    "shows": 169,
-    "gross": 476523.0,
-    "sold": 2231,
-    "totalSeats": 33374,
-    "venues": 89,
-    "cities": 45,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.68
-  },
-  "Vadh 2": {
-    "shows": 77,
-    "gross": 195383.0,
-    "sold": 992,
-    "totalSeats": 16070,
-    "venues": 48,
-    "cities": 21,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 6.17
   },
   "Landlord": {
     "shows": 13,
@@ -592,17 +603,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
-  },
-  "Dhurandhar": {
-    "shows": 15,
-    "gross": 29127.0,
-    "sold": 143,
-    "totalSeats": 2664,
-    "venues": 15,
-    "cities": 7,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.37
   },
   "Shivaleela": {
     "shows": 1,
