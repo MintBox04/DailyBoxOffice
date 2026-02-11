@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "movie": "Krantijyoti Vidyalay Marathi Madhyam",
+    "venue": "Connplex Cinemas: Ahilyanagar",
+    "address": "3rd Floor, Kohinoor Mall, Premdan Chowk, Opposite Big Bazar, Ahilyanagar (Ahmednagar), Maharashtra 414003, India",
+    "language": "Marathi",
+    "dimension": "2D",
+    "chain": "Connplex Cinemas Ltd",
+    "time": "08:00 AM",
+    "audi": "",
+    "session_id": "9360",
+    "totalSeats": 109,
+    "available": 109,
+    "sold": 0,
+    "gross": 0.0,
+    "minutes_left": 161.7,
+    "city": "Ahilyanagar (Ahmednagar)",
+    "state": "Maharashtra",
+    "date": "20260212",
+    "source": "BMS"
+  },
+  {
+    "movie": "Aga Aga Sunbai! Kay Mhantay Sasubai?",
+    "venue": "Connplex Cinemas: Ahilyanagar",
+    "address": "3rd Floor, Kohinoor Mall, Premdan Chowk, Opposite Big Bazar, Ahilyanagar (Ahmednagar), Maharashtra 414003, India",
+    "language": "Marathi",
+    "dimension": "2D",
+    "chain": "Connplex Cinemas Ltd",
+    "time": "08:15 AM",
+    "audi": "RECLINER SEATS",
+    "session_id": "9370",
+    "totalSeats": 48,
+    "available": 48,
+    "sold": 0,
+    "gross": 0.0,
+    "minutes_left": 176.7,
+    "city": "Ahilyanagar (Ahmednagar)",
+    "state": "Maharashtra",
+    "date": "20260212",
+    "source": "BMS"
+  }
+]
