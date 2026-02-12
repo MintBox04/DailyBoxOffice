@@ -1,37 +1,4 @@
 {
-  "Border 2": {
-    "shows": 1034,
-    "gross": 2189055.0,
-    "sold": 11258,
-    "totalSeats": 221779,
-    "venues": 230,
-    "cities": 68,
-    "fastfilling": 2,
-    "housefull": 3,
-    "occupancy": 5.08
-  },
-  "Mardaani 3": {
-    "shows": 578,
-    "gross": 1445054.0,
-    "sold": 7050,
-    "totalSeats": 107368,
-    "venues": 152,
-    "cities": 39,
-    "fastfilling": 3,
-    "housefull": 0,
-    "occupancy": 6.57
-  },
-  "Vadh 2": {
-    "shows": 173,
-    "gross": 312788.0,
-    "sold": 1634,
-    "totalSeats": 29750,
-    "venues": 79,
-    "cities": 25,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 5.49
-  },
   "Sher Dil": {
     "shows": 4,
     "gross": 0.0,
@@ -42,6 +9,61 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
+  },
+  "Bhabiji Ghar Par Hain!": {
+    "shows": 115,
+    "gross": 184052.0,
+    "sold": 903,
+    "totalSeats": 17538,
+    "venues": 69,
+    "cities": 27,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.15
+  },
+  "Border 2": {
+    "shows": 1034,
+    "gross": 2173961.0,
+    "sold": 11201,
+    "totalSeats": 221724,
+    "venues": 230,
+    "cities": 68,
+    "fastfilling": 2,
+    "housefull": 3,
+    "occupancy": 5.05
+  },
+  "Lagan Laagii Re": {
+    "shows": 140,
+    "gross": 201806.0,
+    "sold": 1147,
+    "totalSeats": 21032,
+    "venues": 43,
+    "cities": 8,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.45
+  },
+  "Mardaani 3": {
+    "shows": 578,
+    "gross": 1450451.0,
+    "sold": 7047,
+    "totalSeats": 107347,
+    "venues": 152,
+    "cities": 39,
+    "fastfilling": 3,
+    "housefull": 0,
+    "occupancy": 6.56
+  },
+  "Vadh 2": {
+    "shows": 173,
+    "gross": 307608.0,
+    "sold": 1610,
+    "totalSeats": 29750,
+    "venues": 79,
+    "cities": 25,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 5.41
   },
   "Euphoria": {
     "shows": 38,
@@ -54,6 +76,72 @@
     "housefull": 0,
     "occupancy": 14.02
   },
+  "Karikaada": {
+    "shows": 32,
+    "gross": 280350.0,
+    "sold": 1363,
+    "totalSeats": 8443,
+    "venues": 26,
+    "cities": 3,
+    "fastfilling": 5,
+    "housefull": 0,
+    "occupancy": 16.14
+  },
+  "Gharga": {
+    "shows": 16,
+    "gross": 19070.0,
+    "sold": 111,
+    "totalSeats": 5294,
+    "venues": 14,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 2.1
+  },
+  "Dhurandhar": {
+    "shows": 48,
+    "gross": 119183.0,
+    "sold": 619,
+    "totalSeats": 8188,
+    "venues": 27,
+    "cities": 11,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.56
+  },
+  "Marty Supreme": {
+    "shows": 24,
+    "gross": 117380.0,
+    "sold": 383,
+    "totalSeats": 3265,
+    "venues": 12,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 11.73
+  },
+  "Bebe Main Badmash Banuga?": {
+    "shows": 93,
+    "gross": 178122.0,
+    "sold": 825,
+    "totalSeats": 20855,
+    "venues": 25,
+    "cities": 9,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 3.96
+  },
+  "Maayabimbum": {
+    "shows": 5,
+    "gross": 600.0,
+    "sold": 3,
+    "totalSeats": 301,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.0
+  },
   "With Love": {
     "shows": 149,
     "gross": 654418.3,
@@ -64,28 +152,6 @@
     "fastfilling": 3,
     "housefull": 0,
     "occupancy": 7.59
-  },
-  "Bhabiji Ghar Par Hain!": {
-    "shows": 115,
-    "gross": 184072.0,
-    "sold": 899,
-    "totalSeats": 17538,
-    "venues": 69,
-    "cities": 27,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.13
-  },
-  "Lagan Laagii Re": {
-    "shows": 140,
-    "gross": 202202.0,
-    "sold": 1151,
-    "totalSeats": 21032,
-    "venues": 43,
-    "cities": 8,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.47
   },
   "Bicharo Bachelor": {
     "shows": 7,
@@ -142,17 +208,6 @@
     "housefull": 1,
     "occupancy": 17.39
   },
-  "Karikaada": {
-    "shows": 32,
-    "gross": 280350.0,
-    "sold": 1363,
-    "totalSeats": 8443,
-    "venues": 26,
-    "cities": 3,
-    "fastfilling": 5,
-    "housefull": 0,
-    "occupancy": 16.14
-  },
   "Rubaab": {
     "shows": 13,
     "gross": 4110.0,
@@ -163,17 +218,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 1.14
-  },
-  "Bebe Main Badmash Banuga?": {
-    "shows": 93,
-    "gross": 174582.0,
-    "sold": 814,
-    "totalSeats": 20855,
-    "venues": 25,
-    "cities": 9,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 3.9
   },
   "Landlord": {
     "shows": 38,
@@ -263,17 +307,6 @@
     "housefull": 0,
     "occupancy": 10.63
   },
-  "Gharga": {
-    "shows": 16,
-    "gross": 19070.0,
-    "sold": 111,
-    "totalSeats": 5294,
-    "venues": 14,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 2.1
-  },
   "Anaganaga Oka Raju": {
     "shows": 28,
     "gross": 100947.0,
@@ -284,28 +317,6 @@
     "fastfilling": 3,
     "housefull": 0,
     "occupancy": 7.99
-  },
-  "Dhurandhar": {
-    "shows": 48,
-    "gross": 121483.0,
-    "sold": 629,
-    "totalSeats": 8188,
-    "venues": 27,
-    "cities": 11,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.68
-  },
-  "Marty Supreme": {
-    "shows": 24,
-    "gross": 119530.0,
-    "sold": 396,
-    "totalSeats": 3265,
-    "venues": 12,
-    "cities": 3,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 12.13
   },
   "Lagnacha Shot": {
     "shows": 7,
@@ -339,17 +350,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 9.35
-  },
-  "Maayabimbum": {
-    "shows": 5,
-    "gross": 600.0,
-    "sold": 3,
-    "totalSeats": 301,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 1.0
   },
   "Valathu Vasathe Kallan": {
     "shows": 11,
