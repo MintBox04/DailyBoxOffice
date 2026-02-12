@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "movie": "Mardaani 3",
+    "venue": "Maxus Cinemas: Bhayander",
+    "address": "Maxus Mall, 3rd Floor, 150 Feet Road, Near Railway Flyover, Opposite Salasar Bridge Bhoomi, Mumbai, Maharashtra 401101, India",
+    "language": "Hindi",
+    "dimension": "2D",
+    "chain": "Maxus Cinemas",
+    "time": "07:15 AM",
+    "audi": "MAXUS PLUS",
+    "session_id": "211664",
+    "totalSeats": 384,
+    "available": 384,
+    "sold": 0,
+    "gross": 0.0,
+    "minutes_left": 185.4,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "date": "20260213",
+    "source": "BMS"
+  },
+  {
+    "movie": "120 Bahadur",
+    "venue": "Mukta A2 Cinemas: Triveni Grande, Kalyan (West)",
+    "address": "Triveni Grande, 4th Floor, D.B Chowk, Adharwadi Jail Road, Kalyan West, Thane, Near Don Bosco School, Kalyan, Maharashtra 421301, India",
+    "language": "Hindi",
+    "dimension": "2D",
+    "chain": "Mukta A2 Cinemas",
+    "time": "07:00 AM",
+    "audi": "",
+    "session_id": "4233",
+    "totalSeats": 137,
+    "available": 137,
+    "sold": 0,
+    "gross": 0.0,
+    "minutes_left": 169.6,
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "date": "20260213",
+    "source": "BMS"
+  }
+]
