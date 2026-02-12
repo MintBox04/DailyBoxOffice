@@ -1,37 +1,4 @@
 {
-  "Border 2": {
-    "shows": 957,
-    "gross": 2331156.0,
-    "sold": 12415,
-    "totalSeats": 186823,
-    "venues": 218,
-    "cities": 94,
-    "fastfilling": 4,
-    "housefull": 5,
-    "occupancy": 6.65
-  },
-  "Mardaani 3": {
-    "shows": 544,
-    "gross": 1551575.0,
-    "sold": 7732,
-    "totalSeats": 94974,
-    "venues": 136,
-    "cities": 57,
-    "fastfilling": 4,
-    "housefull": 1,
-    "occupancy": 8.14
-  },
-  "Vadh 2": {
-    "shows": 165,
-    "gross": 384046.0,
-    "sold": 1981,
-    "totalSeats": 25730,
-    "venues": 67,
-    "cities": 27,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.7
-  },
   "Euphoria": {
     "shows": 39,
     "gross": 241953.0,
@@ -53,6 +20,138 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 2.58
+  },
+  "Mardaani 3": {
+    "shows": 544,
+    "gross": 1555392.0,
+    "sold": 7763,
+    "totalSeats": 94956,
+    "venues": 136,
+    "cities": 57,
+    "fastfilling": 4,
+    "housefull": 1,
+    "occupancy": 8.18
+  },
+  "Ranapati Shivray - Swari Agra": {
+    "shows": 22,
+    "gross": 32936.0,
+    "sold": 215,
+    "totalSeats": 4636,
+    "venues": 14,
+    "cities": 9,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.64
+  },
+  "Anaganaga Oka Raju": {
+    "shows": 40,
+    "gross": 288510.0,
+    "sold": 2438,
+    "totalSeats": 15043,
+    "venues": 18,
+    "cities": 8,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 16.21
+  },
+  "Lagan Laagii Re": {
+    "shows": 231,
+    "gross": 535412.0,
+    "sold": 2915,
+    "totalSeats": 32099,
+    "venues": 66,
+    "cities": 9,
+    "fastfilling": 5,
+    "housefull": 0,
+    "occupancy": 9.08
+  },
+  "Vadh 2": {
+    "shows": 165,
+    "gross": 380686.0,
+    "sold": 1971,
+    "totalSeats": 25730,
+    "venues": 67,
+    "cities": 27,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.66
+  },
+  "Border 2": {
+    "shows": 957,
+    "gross": 2332983.0,
+    "sold": 12431,
+    "totalSeats": 186823,
+    "venues": 218,
+    "cities": 94,
+    "fastfilling": 4,
+    "housefull": 5,
+    "occupancy": 6.65
+  },
+  "Bhabiji Ghar Par Hain!": {
+    "shows": 140,
+    "gross": 224540.0,
+    "sold": 1259,
+    "totalSeats": 17847,
+    "venues": 69,
+    "cities": 25,
+    "fastfilling": 1,
+    "housefull": 1,
+    "occupancy": 7.05
+  },
+  "Karikaada": {
+    "shows": 14,
+    "gross": 40010.0,
+    "sold": 245,
+    "totalSeats": 3350,
+    "venues": 6,
+    "cities": 6,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 7.31
+  },
+  "Mana Shankara Vara Prasad Garu": {
+    "shows": 101,
+    "gross": 569324.0,
+    "sold": 5055,
+    "totalSeats": 40097,
+    "venues": 30,
+    "cities": 19,
+    "fastfilling": 9,
+    "housefull": 0,
+    "occupancy": 12.61
+  },
+  "Sumathi Sathakam": {
+    "shows": 18,
+    "gross": 62420.0,
+    "sold": 663,
+    "totalSeats": 6718,
+    "venues": 7,
+    "cities": 6,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.87
+  },
+  "Bagavathi": {
+    "shows": 3,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 300,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Prakambanam": {
+    "shows": 9,
+    "gross": 9100.0,
+    "sold": 58,
+    "totalSeats": 2469,
+    "venues": 4,
+    "cities": 4,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 2.35
   },
   "Scarlet": {
     "shows": 11,
@@ -120,28 +219,6 @@
     "housefull": 1,
     "occupancy": 27.18
   },
-  "Ranapati Shivray - Swari Agra": {
-    "shows": 22,
-    "gross": 31646.0,
-    "sold": 204,
-    "totalSeats": 4636,
-    "venues": 14,
-    "cities": 9,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.4
-  },
-  "Anaganaga Oka Raju": {
-    "shows": 40,
-    "gross": 288510.0,
-    "sold": 2438,
-    "totalSeats": 15043,
-    "venues": 18,
-    "cities": 8,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 16.21
-  },
   "Chatha Pacha: The Ring of Rowdies": {
     "shows": 14,
     "gross": 19880.0,
@@ -175,17 +252,6 @@
     "housefull": 0,
     "occupancy": 3.45
   },
-  "Karikaada": {
-    "shows": 14,
-    "gross": 40010.0,
-    "sold": 245,
-    "totalSeats": 3350,
-    "venues": 6,
-    "cities": 6,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 7.31
-  },
   "Wuthering Heights": {
     "shows": 2,
     "gross": 45258.0,
@@ -197,17 +263,6 @@
     "housefull": 0,
     "occupancy": 25.49
   },
-  "Lagan Laagii Re": {
-    "shows": 231,
-    "gross": 538224.0,
-    "sold": 2918,
-    "totalSeats": 32114,
-    "venues": 66,
-    "cities": 9,
-    "fastfilling": 5,
-    "housefull": 0,
-    "occupancy": 9.09
-  },
   "Marty Supreme": {
     "shows": 8,
     "gross": 28974.0,
@@ -218,17 +273,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 9.39
-  },
-  "Bhabiji Ghar Par Hain!": {
-    "shows": 140,
-    "gross": 224540.0,
-    "sold": 1259,
-    "totalSeats": 17847,
-    "venues": 69,
-    "cities": 25,
-    "fastfilling": 1,
-    "housefull": 1,
-    "occupancy": 7.05
   },
   "Bicharo Bachelor": {
     "shows": 12,
@@ -295,50 +339,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 7.68
-  },
-  "Mana Shankara Vara Prasad Garu": {
-    "shows": 101,
-    "gross": 569324.0,
-    "sold": 5055,
-    "totalSeats": 40097,
-    "venues": 30,
-    "cities": 19,
-    "fastfilling": 9,
-    "housefull": 0,
-    "occupancy": 12.61
-  },
-  "Sumathi Sathakam": {
-    "shows": 18,
-    "gross": 62420.0,
-    "sold": 663,
-    "totalSeats": 6718,
-    "venues": 7,
-    "cities": 6,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 9.87
-  },
-  "Bagavathi": {
-    "shows": 3,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 300,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
-  },
-  "Prakambanam": {
-    "shows": 9,
-    "gross": 9100.0,
-    "sold": 58,
-    "totalSeats": 2469,
-    "venues": 4,
-    "cities": 4,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 2.35
   },
   "Silambattam": {
     "shows": 24,
