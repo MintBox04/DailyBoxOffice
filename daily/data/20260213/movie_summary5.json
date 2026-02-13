@@ -1,4 +1,59 @@
 {
+  "O' Romeo": {
+    "shows": 1115,
+    "gross": 12224309.81,
+    "sold": 35876,
+    "totalSeats": 246512,
+    "venues": 255,
+    "cities": 86,
+    "fastfilling": 76,
+    "housefull": 4,
+    "occupancy": 14.55
+  },
+  "Tu Yaa Main": {
+    "shows": 258,
+    "gross": 1273424.0,
+    "sold": 3175,
+    "totalSeats": 40161,
+    "venues": 113,
+    "cities": 20,
+    "fastfilling": 4,
+    "housefull": 0,
+    "occupancy": 7.91
+  },
+  "Border 2": {
+    "shows": 198,
+    "gross": 1159381.37,
+    "sold": 3687,
+    "totalSeats": 32063,
+    "venues": 135,
+    "cities": 41,
+    "fastfilling": 3,
+    "housefull": 0,
+    "occupancy": 11.5
+  },
+  "Mardaani 3": {
+    "shows": 124,
+    "gross": 764020.0,
+    "sold": 2123,
+    "totalSeats": 19068,
+    "venues": 91,
+    "cities": 26,
+    "fastfilling": 4,
+    "housefull": 0,
+    "occupancy": 11.13
+  },
+  "Crime 101": {
+    "shows": 133,
+    "gross": 727841.0,
+    "sold": 1663,
+    "totalSeats": 20504,
+    "venues": 77,
+    "cities": 21,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 8.11
+  },
   "Funky": {
     "shows": 113,
     "gross": 1002673.0,
@@ -9,28 +64,6 @@
     "fastfilling": 3,
     "housefull": 0,
     "occupancy": 15.53
-  },
-  "O' Romeo": {
-    "shows": 1113,
-    "gross": 12180519.81,
-    "sold": 35768,
-    "totalSeats": 245937,
-    "venues": 255,
-    "cities": 86,
-    "fastfilling": 76,
-    "housefull": 4,
-    "occupancy": 14.54
-  },
-  "Crime 101": {
-    "shows": 132,
-    "gross": 717441.0,
-    "sold": 1643,
-    "totalSeats": 20267,
-    "venues": 77,
-    "cities": 21,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 8.11
   },
   "Mana Shankara Vara Prasad Garu": {
     "shows": 13,
@@ -64,17 +97,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 2.78
-  },
-  "Tu Yaa Main": {
-    "shows": 257,
-    "gross": 1253414.0,
-    "sold": 3122,
-    "totalSeats": 39983,
-    "venues": 113,
-    "cities": 20,
-    "fastfilling": 4,
-    "housefull": 0,
-    "occupancy": 7.81
   },
   "DSP Dev 2": {
     "shows": 41,
@@ -119,28 +141,6 @@
     "fastfilling": 1,
     "housefull": 0,
     "occupancy": 18.52
-  },
-  "Border 2": {
-    "shows": 198,
-    "gross": 1157841.37,
-    "sold": 3683,
-    "totalSeats": 32063,
-    "venues": 135,
-    "cities": 41,
-    "fastfilling": 3,
-    "housefull": 0,
-    "occupancy": 11.49
-  },
-  "Mardaani 3": {
-    "shows": 123,
-    "gross": 757190.0,
-    "sold": 2104,
-    "totalSeats": 18855,
-    "venues": 90,
-    "cities": 26,
-    "fastfilling": 4,
-    "housefull": 0,
-    "occupancy": 11.16
   },
   "Nilave": {
     "shows": 7,
