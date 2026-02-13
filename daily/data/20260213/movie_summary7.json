@@ -1,14 +1,465 @@
 {
   "O' Romeo": {
-    "shows": 275,
-    "gross": 696554.0,
-    "sold": 3513,
-    "totalSeats": 49707,
-    "venues": 135,
-    "cities": 73,
-    "fastfilling": 0,
+    "shows": 335,
+    "gross": 1103220.0,
+    "sold": 5086,
+    "totalSeats": 62953,
+    "venues": 159,
+    "cities": 81,
+    "fastfilling": 2,
     "housefull": 1,
-    "occupancy": 7.07
+    "occupancy": 8.08
+  },
+  "DSP Dev 2": {
+    "shows": 8,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 2249,
+    "venues": 6,
+    "cities": 5,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Ee Thaniniram": {
+    "shows": 3,
+    "gross": 41464.2,
+    "sold": 314,
+    "totalSeats": 701,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 44.79
+  },
+  "Prakambanam": {
+    "shows": 14,
+    "gross": 33635.0,
+    "sold": 201,
+    "totalSeats": 2538,
+    "venues": 10,
+    "cities": 9,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.92
+  },
+  "Spa": {
+    "shows": 9,
+    "gross": 9870.0,
+    "sold": 62,
+    "totalSeats": 2069,
+    "venues": 7,
+    "cities": 6,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 3.0
+  },
+  "Landlord": {
+    "shows": 1,
+    "gross": 340.0,
+    "sold": 2,
+    "totalSeats": 127,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.57
+  },
+  "Rakkasapuradol": {
+    "shows": 2,
+    "gross": 2040.0,
+    "sold": 12,
+    "totalSeats": 453,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 2.65
+  },
+  "Crime 101": {
+    "shows": 25,
+    "gross": 41986.0,
+    "sold": 231,
+    "totalSeats": 4365,
+    "venues": 23,
+    "cities": 15,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.29
+  },
+  "Sri Jagannatha Dasaru: Part 2": {
+    "shows": 1,
+    "gross": 2690.0,
+    "sold": 13,
+    "totalSeats": 146,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.9
+  },
+  "Mon Maaney Na": {
+    "shows": 2,
+    "gross": 700.0,
+    "sold": 2,
+    "totalSeats": 402,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.5
+  },
+  "Avatar: Fire and Ash": {
+    "shows": 3,
+    "gross": 26860.0,
+    "sold": 56,
+    "totalSeats": 218,
+    "venues": 3,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 25.69
+  },
+  "Wuthering Heights": {
+    "shows": 15,
+    "gross": 49650.0,
+    "sold": 181,
+    "totalSeats": 2212,
+    "venues": 11,
+    "cities": 7,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.18
+  },
+  "Aga Aga Sunbai! Kay Mhantay Sasubai?": {
+    "shows": 2,
+    "gross": 9550.0,
+    "sold": 52,
+    "totalSeats": 559,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.3
+  },
+  "Border 2": {
+    "shows": 55,
+    "gross": 131588.0,
+    "sold": 638,
+    "totalSeats": 8232,
+    "venues": 47,
+    "cities": 28,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.75
+  },
+  "Mardaani 3": {
+    "shows": 39,
+    "gross": 100543.0,
+    "sold": 399,
+    "totalSeats": 5161,
+    "venues": 36,
+    "cities": 16,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 7.73
+  },
+  "Krantijyoti Vidyalay Marathi Madhyam": {
+    "shows": 2,
+    "gross": 10040.0,
+    "sold": 36,
+    "totalSeats": 262,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 13.74
+  },
+  "Anaganaga Oka Raju": {
+    "shows": 1,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 619,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Anomie: The Equation of Death": {
+    "shows": 3,
+    "gross": 6650.0,
+    "sold": 34,
+    "totalSeats": 494,
+    "venues": 3,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.88
+  },
+  "Ashakal Aayiram": {
+    "shows": 8,
+    "gross": 6010.0,
+    "sold": 32,
+    "totalSeats": 1838,
+    "venues": 4,
+    "cities": 4,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.74
+  },
+  "Kaa -The Forest": {
+    "shows": 7,
+    "gross": 8250.0,
+    "sold": 75,
+    "totalSeats": 2784,
+    "venues": 5,
+    "cities": 4,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 2.69
+  },
+  "My Lord": {
+    "shows": 28,
+    "gross": 91610.0,
+    "sold": 663,
+    "totalSeats": 12427,
+    "venues": 20,
+    "cities": 11,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.34
+  },
+  "Pookie": {
+    "shows": 12,
+    "gross": 24030.0,
+    "sold": 200,
+    "totalSeats": 3122,
+    "venues": 10,
+    "cities": 7,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.41
+  },
+  "Tu Yaa Main": {
+    "shows": 38,
+    "gross": 74790.0,
+    "sold": 351,
+    "totalSeats": 6374,
+    "venues": 30,
+    "cities": 12,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.51
+  },
+  "Lagan Laagii Re": {
+    "shows": 17,
+    "gross": 28400.0,
+    "sold": 125,
+    "totalSeats": 1567,
+    "venues": 17,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.98
+  },
+  "Funky": {
+    "shows": 41,
+    "gross": 342127.0,
+    "sold": 2839,
+    "totalSeats": 17049,
+    "venues": 29,
+    "cities": 20,
+    "fastfilling": 3,
+    "housefull": 0,
+    "occupancy": 16.65
+  },
+  "With Love": {
+    "shows": 19,
+    "gross": 88699.15,
+    "sold": 589,
+    "totalSeats": 6484,
+    "venues": 15,
+    "cities": 11,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.08
+  },
+  "Uyirullavarai Usha": {
+    "shows": 5,
+    "gross": 10740.0,
+    "sold": 104,
+    "totalSeats": 1332,
+    "venues": 5,
+    "cities": 5,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.81
+  },
+  "Amruthaanjan": {
+    "shows": 2,
+    "gross": 3100.0,
+    "sold": 31,
+    "totalSeats": 728,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.26
+  },
+  "Koodothram": {
+    "shows": 5,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 929,
+    "venues": 5,
+    "cities": 4,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Pennum Porattum": {
+    "shows": 4,
+    "gross": 7780.0,
+    "sold": 42,
+    "totalSeats": 683,
+    "venues": 3,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.15
+  },
+  "Master Mind (2026)": {
+    "shows": 10,
+    "gross": 4840.0,
+    "sold": 23,
+    "totalSeats": 1174,
+    "venues": 9,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.96
+  },
+  "Mounam Pesiyadhe": {
+    "shows": 3,
+    "gross": 4709.4,
+    "sold": 48,
+    "totalSeats": 943,
+    "venues": 3,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.09
+  },
+  "Orange": {
+    "shows": 2,
+    "gross": 12800.0,
+    "sold": 128,
+    "totalSeats": 668,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 19.16
+  },
+  "Dilwale Dulhania Le Jayenge": {
+    "shows": 1,
+    "gross": 2750.0,
+    "sold": 13,
+    "totalSeats": 131,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.92
+  },
+  "Laalo - Krishna Sada Sahaayate": {
+    "shows": 1,
+    "gross": 500.0,
+    "sold": 2,
+    "totalSeats": 123,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.63
+  },
+  "Mana Shankara Vara Prasad Garu": {
+    "shows": 10,
+    "gross": 58905.0,
+    "sold": 505,
+    "totalSeats": 5319,
+    "venues": 8,
+    "cities": 6,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 9.49
+  },
+  "Mylanji": {
+    "shows": 3,
+    "gross": 10990.0,
+    "sold": 85,
+    "totalSeats": 1176,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.23
+  },
+  "Sweety Naughty Crazy": {
+    "shows": 7,
+    "gross": 15350.0,
+    "sold": 140,
+    "totalSeats": 2026,
+    "venues": 6,
+    "cities": 5,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.91
+  },
+  "AataChakki": {
+    "shows": 6,
+    "gross": 1920.0,
+    "sold": 12,
+    "totalSeats": 1562,
+    "venues": 4,
+    "cities": 4,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.77
+  },
+  "Ek Deewane Ki Deewaniyat": {
+    "shows": 1,
+    "gross": 4000.0,
+    "sold": 24,
+    "totalSeats": 254,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.45
+  },
+  "Punha Ekda Sade Made Teen": {
+    "shows": 2,
+    "gross": 2860.0,
+    "sold": 13,
+    "totalSeats": 228,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.7
+  },
+  "Veer Zaara": {
+    "shows": 1,
+    "gross": 2200.0,
+    "sold": 12,
+    "totalSeats": 248,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.84
   },
   "Bara Badhu": {
     "shows": 2,
@@ -20,39 +471,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 3.34
-  },
-  "Funky": {
-    "shows": 39,
-    "gross": 313937.0,
-    "sold": 2570,
-    "totalSeats": 16034,
-    "venues": 27,
-    "cities": 18,
-    "fastfilling": 3,
-    "housefull": 0,
-    "occupancy": 16.03
-  },
-  "Border 2": {
-    "shows": 43,
-    "gross": 88928.0,
-    "sold": 483,
-    "totalSeats": 6617,
-    "venues": 37,
-    "cities": 23,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.3
-  },
-  "Tu Yaa Main": {
-    "shows": 31,
-    "gross": 53720.0,
-    "sold": 266,
-    "totalSeats": 4985,
-    "venues": 25,
-    "cities": 12,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.34
   },
   "Yeh Dil Aashiqanaa": {
     "shows": 6,
@@ -76,50 +494,6 @@
     "housefull": 0,
     "occupancy": 4.89
   },
-  "Mardaani 3": {
-    "shows": 33,
-    "gross": 50693.0,
-    "sold": 278,
-    "totalSeats": 4500,
-    "venues": 30,
-    "cities": 15,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.18
-  },
-  "Lagan Laagii Re": {
-    "shows": 14,
-    "gross": 9720.0,
-    "sold": 53,
-    "totalSeats": 1189,
-    "venues": 14,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.46
-  },
-  "Avatar: Fire and Ash": {
-    "shows": 3,
-    "gross": 26400.0,
-    "sold": 54,
-    "totalSeats": 218,
-    "venues": 3,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 24.77
-  },
-  "Kaa -The Forest": {
-    "shows": 5,
-    "gross": 6700.0,
-    "sold": 64,
-    "totalSeats": 1799,
-    "venues": 4,
-    "cities": 4,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 3.56
-  },
   "Bebe Main Badmash Banuga?": {
     "shows": 1,
     "gross": 0.0,
@@ -131,193 +505,6 @@
     "housefull": 0,
     "occupancy": 0.0
   },
-  "DSP Dev 2": {
-    "shows": 7,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 2215,
-    "venues": 5,
-    "cities": 5,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
-  },
-  "With Love": {
-    "shows": 16,
-    "gross": 67589.0,
-    "sold": 428,
-    "totalSeats": 5269,
-    "venues": 12,
-    "cities": 10,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 8.12
-  },
-  "Pookie": {
-    "shows": 11,
-    "gross": 21350.0,
-    "sold": 183,
-    "totalSeats": 2929,
-    "venues": 10,
-    "cities": 7,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.25
-  },
-  "My Lord": {
-    "shows": 21,
-    "gross": 72340.0,
-    "sold": 510,
-    "totalSeats": 9497,
-    "venues": 18,
-    "cities": 9,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.37
-  },
-  "Uyirullavarai Usha": {
-    "shows": 4,
-    "gross": 10500.0,
-    "sold": 102,
-    "totalSeats": 620,
-    "venues": 4,
-    "cities": 4,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 16.45
-  },
-  "Mon Maaney Na": {
-    "shows": 1,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 120,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
-  },
-  "Mana Shankara Vara Prasad Garu": {
-    "shows": 7,
-    "gross": 45145.0,
-    "sold": 416,
-    "totalSeats": 3980,
-    "venues": 6,
-    "cities": 5,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 10.45
-  },
-  "Master Mind (2026)": {
-    "shows": 8,
-    "gross": 2300.0,
-    "sold": 11,
-    "totalSeats": 860,
-    "venues": 7,
-    "cities": 3,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 1.28
-  },
-  "Crime 101": {
-    "shows": 19,
-    "gross": 30136.0,
-    "sold": 169,
-    "totalSeats": 3457,
-    "venues": 17,
-    "cities": 13,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.89
-  },
-  "Sweety Naughty Crazy": {
-    "shows": 6,
-    "gross": 15350.0,
-    "sold": 140,
-    "totalSeats": 1671,
-    "venues": 6,
-    "cities": 5,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 8.38
-  },
-  "Koodothram": {
-    "shows": 4,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 783,
-    "venues": 4,
-    "cities": 4,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
-  },
-  "Spa": {
-    "shows": 6,
-    "gross": 3330.0,
-    "sold": 21,
-    "totalSeats": 1652,
-    "venues": 6,
-    "cities": 5,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 1.27
-  },
-  "Wuthering Heights": {
-    "shows": 11,
-    "gross": 17590.0,
-    "sold": 82,
-    "totalSeats": 1495,
-    "venues": 9,
-    "cities": 6,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.48
-  },
-  "Prakambanam": {
-    "shows": 9,
-    "gross": 13865.0,
-    "sold": 82,
-    "totalSeats": 1661,
-    "venues": 9,
-    "cities": 9,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.94
-  },
-  "Landlord": {
-    "shows": 1,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 127,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
-  },
-  "Rakkasapuradol": {
-    "shows": 2,
-    "gross": 1700.0,
-    "sold": 10,
-    "totalSeats": 453,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 2.21
-  },
-  "Sri Jagannatha Dasaru: Part 2": {
-    "shows": 1,
-    "gross": 2350.0,
-    "sold": 11,
-    "totalSeats": 146,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.53
-  },
   "Seetha Payanam": {
     "shows": 2,
     "gross": 0.0,
@@ -325,17 +512,6 @@
     "totalSeats": 340,
     "venues": 1,
     "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
-  },
-  "AataChakki": {
-    "shows": 4,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 842,
-    "venues": 3,
-    "cities": 3,
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
@@ -350,17 +526,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 2.34
-  },
-  "Ashakal Aayiram": {
-    "shows": 6,
-    "gross": 3320.0,
-    "sold": 19,
-    "totalSeats": 1339,
-    "venues": 4,
-    "cities": 4,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 1.42
   },
   "Vinnaithaandi Varuvaayaa": {
     "shows": 1,
@@ -391,17 +556,6 @@
     "totalSeats": 944,
     "venues": 2,
     "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
-  },
-  "Punha Ekda Sade Made Teen": {
-    "shows": 1,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 91,
-    "venues": 1,
-    "cities": 1,
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
@@ -450,28 +604,6 @@
     "housefull": 0,
     "occupancy": 0.0
   },
-  "Krantijyoti Vidyalay Marathi Madhyam": {
-    "shows": 1,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 75,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
-  },
-  "Pennum Porattum": {
-    "shows": 3,
-    "gross": 6520.0,
-    "sold": 35,
-    "totalSeats": 547,
-    "venues": 3,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.4
-  },
   "AT: Welcome to the Dark Side": {
     "shows": 1,
     "gross": 2340.0,
@@ -483,17 +615,6 @@
     "housefull": 0,
     "occupancy": 9.92
   },
-  "Anomie: The Equation of Death": {
-    "shows": 2,
-    "gross": 5450.0,
-    "sold": 28,
-    "totalSeats": 387,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.24
-  },
   "Minnale": {
     "shows": 1,
     "gross": 0.0,
@@ -504,28 +625,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
-  },
-  "Mylanji": {
-    "shows": 2,
-    "gross": 10990.0,
-    "sold": 85,
-    "totalSeats": 821,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 10.35
-  },
-  "Mounam Pesiyadhe": {
-    "shows": 1,
-    "gross": 650.0,
-    "sold": 5,
-    "totalSeats": 117,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.27
   },
   "Saiyaara": {
     "shows": 1,
@@ -549,17 +648,6 @@
     "housefull": 0,
     "occupancy": 5.19
   },
-  "Orange": {
-    "shows": 1,
-    "gross": 6400.0,
-    "sold": 64,
-    "totalSeats": 334,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 19.16
-  },
   "100 Days Love Story": {
     "shows": 1,
     "gross": 1770.0,
@@ -570,17 +658,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 6.21
-  },
-  "Ee Thaniniram": {
-    "shows": 2,
-    "gross": 38314.2,
-    "sold": 293,
-    "totalSeats": 497,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 58.95
   },
   "1+1 Offer": {
     "shows": 1,
@@ -603,17 +680,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 17.39
-  },
-  "Aga Aga Sunbai! Kay Mhantay Sasubai?": {
-    "shows": 1,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 372,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
   },
   "Euphoria": {
     "shows": 1,
