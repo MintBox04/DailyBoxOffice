@@ -1,14 +1,124 @@
 {
+  "O' Romeo": {
+    "shows": 403,
+    "gross": 1717971.99,
+    "sold": 7371,
+    "totalSeats": 100065,
+    "venues": 166,
+    "cities": 84,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 7.37
+  },
+  "Border 2": {
+    "shows": 60,
+    "gross": 173275.0,
+    "sold": 779,
+    "totalSeats": 10147,
+    "venues": 50,
+    "cities": 31,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.68
+  },
+  "Mardaani 3": {
+    "shows": 32,
+    "gross": 100760.0,
+    "sold": 396,
+    "totalSeats": 5693,
+    "venues": 28,
+    "cities": 18,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.96
+  },
+  "Pookie": {
+    "shows": 22,
+    "gross": 64667.75,
+    "sold": 477,
+    "totalSeats": 6843,
+    "venues": 18,
+    "cities": 14,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.97
+  },
+  "Crime 101": {
+    "shows": 28,
+    "gross": 71393.92,
+    "sold": 274,
+    "totalSeats": 5560,
+    "venues": 23,
+    "cities": 16,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.93
+  },
+  "Tu Yaa Main": {
+    "shows": 61,
+    "gross": 134730.0,
+    "sold": 581,
+    "totalSeats": 12438,
+    "venues": 40,
+    "cities": 17,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.67
+  },
+  "My Lord": {
+    "shows": 40,
+    "gross": 216405.6,
+    "sold": 1505,
+    "totalSeats": 16035,
+    "venues": 28,
+    "cities": 17,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 9.39
+  },
+  "Prakambanam": {
+    "shows": 27,
+    "gross": 63246.9,
+    "sold": 375,
+    "totalSeats": 5906,
+    "venues": 20,
+    "cities": 11,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.35
+  },
   "Ashakal Aayiram": {
-    "shows": 26,
-    "gross": 63537.6,
-    "sold": 394,
-    "totalSeats": 6522,
-    "venues": 19,
+    "shows": 27,
+    "gross": 67707.6,
+    "sold": 421,
+    "totalSeats": 6712,
+    "venues": 20,
     "cities": 9,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 6.04
+    "occupancy": 6.27
+  },
+  "Pennum Porattum": {
+    "shows": 15,
+    "gross": 14047.4,
+    "sold": 89,
+    "totalSeats": 3096,
+    "venues": 10,
+    "cities": 5,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 2.87
+  },
+  "Funky": {
+    "shows": 65,
+    "gross": 517033.13,
+    "sold": 4119,
+    "totalSeats": 27854,
+    "venues": 42,
+    "cities": 34,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 14.79
   },
   "Spa": {
     "shows": 15,
@@ -20,17 +130,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 2.03
-  },
-  "Prakambanam": {
-    "shows": 25,
-    "gross": 56946.9,
-    "sold": 333,
-    "totalSeats": 5506,
-    "venues": 19,
-    "cities": 10,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.05
   },
   "Landlord": {
     "shows": 11,
@@ -65,83 +164,6 @@
     "housefull": 0,
     "occupancy": 5.62
   },
-  "O' Romeo": {
-    "shows": 391,
-    "gross": 1632311.99,
-    "sold": 7050,
-    "totalSeats": 96661,
-    "venues": 163,
-    "cities": 83,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 7.29
-  },
-  "Tu Yaa Main": {
-    "shows": 60,
-    "gross": 134730.0,
-    "sold": 581,
-    "totalSeats": 12246,
-    "venues": 39,
-    "cities": 17,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.74
-  },
-  "Crime 101": {
-    "shows": 27,
-    "gross": 68893.92,
-    "sold": 264,
-    "totalSeats": 5359,
-    "venues": 22,
-    "cities": 16,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.93
-  },
-  "Mardaani 3": {
-    "shows": 30,
-    "gross": 89260.0,
-    "sold": 351,
-    "totalSeats": 5508,
-    "venues": 26,
-    "cities": 17,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.37
-  },
-  "My Lord": {
-    "shows": 38,
-    "gross": 208995.6,
-    "sold": 1448,
-    "totalSeats": 15210,
-    "venues": 27,
-    "cities": 16,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 9.52
-  },
-  "Funky": {
-    "shows": 64,
-    "gross": 511033.13,
-    "sold": 4069,
-    "totalSeats": 27301,
-    "venues": 42,
-    "cities": 34,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 14.9
-  },
-  "Border 2": {
-    "shows": 57,
-    "gross": 163735.0,
-    "sold": 740,
-    "totalSeats": 9845,
-    "venues": 48,
-    "cities": 31,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.52
-  },
   "Koodothram": {
     "shows": 15,
     "gross": 12197.2,
@@ -163,17 +185,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 19.61
-  },
-  "Pookie": {
-    "shows": 20,
-    "gross": 57117.75,
-    "sold": 409,
-    "totalSeats": 6220,
-    "venues": 17,
-    "cities": 14,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.58
   },
   "Mounam Pesiyadhe": {
     "shows": 5,
@@ -361,17 +372,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 2.14
-  },
-  "Pennum Porattum": {
-    "shows": 14,
-    "gross": 12247.4,
-    "sold": 77,
-    "totalSeats": 2993,
-    "venues": 9,
-    "cities": 5,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 2.57
   },
   "Aashaan": {
     "shows": 4,
