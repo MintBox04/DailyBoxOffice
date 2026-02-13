@@ -1,18 +1,40 @@
 {
+  "Mardaani 3": {
+    "shows": 124,
+    "gross": 766520.0,
+    "sold": 2130,
+    "totalSeats": 19068,
+    "venues": 91,
+    "cities": 26,
+    "fastfilling": 4,
+    "housefull": 0,
+    "occupancy": 11.17
+  },
+  "Wuthering Heights": {
+    "shows": 92,
+    "gross": 1012796.0,
+    "sold": 2016,
+    "totalSeats": 14112,
+    "venues": 47,
+    "cities": 9,
+    "fastfilling": 3,
+    "housefull": 0,
+    "occupancy": 14.29
+  },
   "O' Romeo": {
-    "shows": 1115,
-    "gross": 12224309.81,
-    "sold": 35876,
-    "totalSeats": 246512,
-    "venues": 255,
+    "shows": 1116,
+    "gross": 12247719.81,
+    "sold": 35971,
+    "totalSeats": 246839,
+    "venues": 256,
     "cities": 86,
-    "fastfilling": 76,
+    "fastfilling": 77,
     "housefull": 4,
-    "occupancy": 14.55
+    "occupancy": 14.57
   },
   "Tu Yaa Main": {
     "shows": 258,
-    "gross": 1273424.0,
+    "gross": 1273384.0,
     "sold": 3175,
     "totalSeats": 40161,
     "venues": 113,
@@ -20,6 +42,17 @@
     "fastfilling": 4,
     "housefull": 0,
     "occupancy": 7.91
+  },
+  "Amaravathiki Aahvanam": {
+    "shows": 8,
+    "gross": 57930.0,
+    "sold": 352,
+    "totalSeats": 2354,
+    "venues": 7,
+    "cities": 7,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 14.95
   },
   "Border 2": {
     "shows": 198,
@@ -31,17 +64,6 @@
     "fastfilling": 3,
     "housefull": 0,
     "occupancy": 11.5
-  },
-  "Mardaani 3": {
-    "shows": 124,
-    "gross": 764020.0,
-    "sold": 2123,
-    "totalSeats": 19068,
-    "venues": 91,
-    "cities": 26,
-    "fastfilling": 4,
-    "housefull": 0,
-    "occupancy": 11.13
   },
   "Crime 101": {
     "shows": 133,
@@ -119,17 +141,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 11.33
-  },
-  "Wuthering Heights": {
-    "shows": 92,
-    "gross": 1012196.0,
-    "sold": 2014,
-    "totalSeats": 14112,
-    "venues": 47,
-    "cities": 9,
-    "fastfilling": 3,
-    "housefull": 0,
-    "occupancy": 14.27
   },
   "Marty Supreme": {
     "shows": 13,
@@ -284,17 +295,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 4.89
-  },
-  "Amaravathiki Aahvanam": {
-    "shows": 8,
-    "gross": 57930.0,
-    "sold": 352,
-    "totalSeats": 2354,
-    "venues": 7,
-    "cities": 7,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 14.95
   },
   "Chatha Pacha: The Ring of Rowdies": {
     "shows": 6,
