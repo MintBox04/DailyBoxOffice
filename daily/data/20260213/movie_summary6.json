@@ -1,9 +1,86 @@
 {
+  "With Love": {
+    "shows": 79,
+    "gross": 878202.47,
+    "sold": 6116,
+    "totalSeats": 29378,
+    "venues": 42,
+    "cities": 10,
+    "fastfilling": 6,
+    "housefull": 0,
+    "occupancy": 20.82
+  },
+  "My Lord": {
+    "shows": 73,
+    "gross": 270770.71,
+    "sold": 2331,
+    "totalSeats": 25452,
+    "venues": 51,
+    "cities": 7,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.16
+  },
+  "DSP Dev 2": {
+    "shows": 28,
+    "gross": 41460.0,
+    "sold": 199,
+    "totalSeats": 4230,
+    "venues": 15,
+    "cities": 10,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.7
+  },
+  "Honey": {
+    "shows": 4,
+    "gross": 210.0,
+    "sold": 2,
+    "totalSeats": 1200,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.17
+  },
+  "Orange": {
+    "shows": 7,
+    "gross": 210.0,
+    "sold": 2,
+    "totalSeats": 2854,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.07
+  },
+  "Sky (2026)": {
+    "shows": 2,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 788,
+    "venues": 1,
+    "cities": 1,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "Border 2": {
+    "shows": 54,
+    "gross": 154740.0,
+    "sold": 868,
+    "totalSeats": 8202,
+    "venues": 49,
+    "cities": 31,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 10.58
+  },
   "O' Romeo": {
-    "shows": 367,
-    "gross": 1471243.77,
-    "sold": 7633,
-    "totalSeats": 82247,
+    "shows": 368,
+    "gross": 1476063.77,
+    "sold": 7648,
+    "totalSeats": 82391,
     "venues": 158,
     "cities": 77,
     "fastfilling": 3,
@@ -43,17 +120,6 @@
     "housefull": 0,
     "occupancy": 23.42
   },
-  "With Love": {
-    "shows": 78,
-    "gross": 877552.47,
-    "sold": 6111,
-    "totalSeats": 28834,
-    "venues": 42,
-    "cities": 10,
-    "fastfilling": 6,
-    "housefull": 0,
-    "occupancy": 21.19
-  },
   "Funky": {
     "shows": 44,
     "gross": 280371.34,
@@ -87,17 +153,6 @@
     "housefull": 0,
     "occupancy": 7.49
   },
-  "My Lord": {
-    "shows": 72,
-    "gross": 270770.71,
-    "sold": 2331,
-    "totalSeats": 25032,
-    "venues": 51,
-    "cities": 7,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 9.31
-  },
   "Mounam Pesiyadhe": {
     "shows": 14,
     "gross": 92556.0,
@@ -130,28 +185,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 5.32
-  },
-  "Border 2": {
-    "shows": 53,
-    "gross": 148420.0,
-    "sold": 846,
-    "totalSeats": 8069,
-    "venues": 48,
-    "cities": 30,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 10.48
-  },
-  "DSP Dev 2": {
-    "shows": 27,
-    "gross": 41460.0,
-    "sold": 199,
-    "totalSeats": 4088,
-    "venues": 14,
-    "cities": 9,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.87
   },
   "Sunny Di Honey": {
     "shows": 4,
@@ -361,39 +394,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 2.97
-  },
-  "Honey": {
-    "shows": 3,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 900,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
-  },
-  "Orange": {
-    "shows": 6,
-    "gross": 210.0,
-    "sold": 2,
-    "totalSeats": 2439,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.08
-  },
-  "Sky (2026)": {
-    "shows": 1,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 394,
-    "venues": 1,
-    "cities": 1,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
   },
   "Spa": {
     "shows": 5,
