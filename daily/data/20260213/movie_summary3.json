@@ -1,14 +1,36 @@
 {
+  "Border 2": {
+    "shows": 84,
+    "gross": 316825.0,
+    "sold": 1393,
+    "totalSeats": 14189,
+    "venues": 62,
+    "cities": 35,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 9.82
+  },
   "O' Romeo": {
     "shows": 550,
-    "gross": 3299071.42,
-    "sold": 13073,
+    "gross": 3307471.42,
+    "sold": 13108,
     "totalSeats": 135235,
     "venues": 181,
     "cities": 88,
     "fastfilling": 7,
     "housefull": 0,
-    "occupancy": 9.67
+    "occupancy": 9.69
+  },
+  "Tu Yaa Main": {
+    "shows": 87,
+    "gross": 239470.05,
+    "sold": 965,
+    "totalSeats": 16819,
+    "venues": 48,
+    "cities": 21,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.74
   },
   "Funky": {
     "shows": 84,
@@ -98,17 +120,6 @@
     "housefull": 0,
     "occupancy": 7.36
   },
-  "Tu Yaa Main": {
-    "shows": 87,
-    "gross": 240910.05,
-    "sold": 971,
-    "totalSeats": 16819,
-    "venues": 48,
-    "cities": 21,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.77
-  },
   "DSP Dev 2": {
     "shows": 59,
     "gross": 240765.0,
@@ -119,17 +130,6 @@
     "fastfilling": 0,
     "housefull": 1,
     "occupancy": 8.07
-  },
-  "Border 2": {
-    "shows": 84,
-    "gross": 315825.0,
-    "sold": 1389,
-    "totalSeats": 14189,
-    "venues": 62,
-    "cities": 35,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 9.79
   },
   "Kattemar": {
     "shows": 5,
