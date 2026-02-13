@@ -1,14 +1,135 @@
 {
+  "Anomie: The Equation of Death": {
+    "shows": 7,
+    "gross": 54773.0,
+    "sold": 378,
+    "totalSeats": 1502,
+    "venues": 5,
+    "cities": 4,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 25.17
+  },
+  "Ashakal Aayiram": {
+    "shows": 15,
+    "gross": 34430.0,
+    "sold": 192,
+    "totalSeats": 3348,
+    "venues": 7,
+    "cities": 7,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.73
+  },
+  "Pennum Porattum": {
+    "shows": 9,
+    "gross": 40954.8,
+    "sold": 272,
+    "totalSeats": 1615,
+    "venues": 5,
+    "cities": 4,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 16.84
+  },
+  "Prakambanam": {
+    "shows": 20,
+    "gross": 49475.0,
+    "sold": 304,
+    "totalSeats": 3851,
+    "venues": 12,
+    "cities": 11,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.89
+  },
+  "Mardaani 3": {
+    "shows": 60,
+    "gross": 168410.0,
+    "sold": 753,
+    "totalSeats": 9058,
+    "venues": 47,
+    "cities": 19,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 8.31
+  },
   "O' Romeo": {
-    "shows": 483,
-    "gross": 1853388.2,
-    "sold": 8336,
-    "totalSeats": 93706,
-    "venues": 192,
-    "cities": 92,
+    "shows": 490,
+    "gross": 1884328.2,
+    "sold": 8477,
+    "totalSeats": 95070,
+    "venues": 193,
+    "cities": 93,
     "fastfilling": 6,
     "housefull": 2,
-    "occupancy": 8.9
+    "occupancy": 8.92
+  },
+  "Border 2": {
+    "shows": 80,
+    "gross": 239451.0,
+    "sold": 1110,
+    "totalSeats": 12276,
+    "venues": 63,
+    "cities": 36,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.04
+  },
+  "Funky": {
+    "shows": 61,
+    "gross": 509729.0,
+    "sold": 4161,
+    "totalSeats": 24758,
+    "venues": 32,
+    "cities": 23,
+    "fastfilling": 5,
+    "housefull": 0,
+    "occupancy": 16.81
+  },
+  "Sweety Naughty Crazy": {
+    "shows": 9,
+    "gross": 31180.0,
+    "sold": 284,
+    "totalSeats": 2631,
+    "venues": 7,
+    "cities": 5,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 10.79
+  },
+  "With Love": {
+    "shows": 30,
+    "gross": 138628.7,
+    "sold": 919,
+    "totalSeats": 9989,
+    "venues": 18,
+    "cities": 12,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.2
+  },
+  "Punha Ekda Sade Made Teen": {
+    "shows": 6,
+    "gross": 2860.0,
+    "sold": 13,
+    "totalSeats": 761,
+    "venues": 5,
+    "cities": 5,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 1.71
+  },
+  "Spa": {
+    "shows": 12,
+    "gross": 52055.0,
+    "sold": 387,
+    "totalSeats": 2930,
+    "venues": 8,
+    "cities": 7,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 13.21
   },
   "Master Mind (2026)": {
     "shows": 14,
@@ -32,28 +153,6 @@
     "housefull": 0,
     "occupancy": 12.22
   },
-  "Border 2": {
-    "shows": 79,
-    "gross": 235611.0,
-    "sold": 1095,
-    "totalSeats": 12145,
-    "venues": 62,
-    "cities": 36,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 9.02
-  },
-  "Prakambanam": {
-    "shows": 18,
-    "gross": 36195.0,
-    "sold": 218,
-    "totalSeats": 3373,
-    "venues": 11,
-    "cities": 10,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.46
-  },
   "AataChakki": {
     "shows": 8,
     "gross": 3840.0,
@@ -64,17 +163,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 1.05
-  },
-  "Funky": {
-    "shows": 60,
-    "gross": 509729.0,
-    "sold": 4161,
-    "totalSeats": 24598,
-    "venues": 32,
-    "cities": 23,
-    "fastfilling": 5,
-    "housefull": 0,
-    "occupancy": 16.92
   },
   "Bara Badhu": {
     "shows": 4,
@@ -153,17 +241,6 @@
     "housefull": 0,
     "occupancy": 0.0
   },
-  "Mardaani 3": {
-    "shows": 59,
-    "gross": 166070.0,
-    "sold": 744,
-    "totalSeats": 8927,
-    "venues": 47,
-    "cities": 19,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 8.33
-  },
   "Krantijyoti Vidyalay Marathi Madhyam": {
     "shows": 3,
     "gross": 10040.0,
@@ -175,17 +252,6 @@
     "housefull": 0,
     "occupancy": 9.55
   },
-  "Punha Ekda Sade Made Teen": {
-    "shows": 5,
-    "gross": 2860.0,
-    "sold": 13,
-    "totalSeats": 696,
-    "venues": 5,
-    "cities": 5,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 1.87
-  },
   "DSP Dev 2": {
     "shows": 13,
     "gross": 0.0,
@@ -196,17 +262,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
-  },
-  "With Love": {
-    "shows": 29,
-    "gross": 135828.7,
-    "sold": 879,
-    "totalSeats": 9703,
-    "venues": 18,
-    "cities": 12,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 9.06
   },
   "Kaa -The Forest": {
     "shows": 10,
@@ -229,17 +284,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 10.93
-  },
-  "Pennum Porattum": {
-    "shows": 8,
-    "gross": 36394.8,
-    "sold": 248,
-    "totalSeats": 1454,
-    "venues": 5,
-    "cities": 4,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 17.06
   },
   "Thalaivar Thambi Thalaimaiyil": {
     "shows": 1,
@@ -273,28 +317,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 8.55
-  },
-  "Anomie: The Equation of Death": {
-    "shows": 6,
-    "gross": 49833.0,
-    "sold": 352,
-    "totalSeats": 1261,
-    "venues": 5,
-    "cities": 4,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 27.91
-  },
-  "Ashakal Aayiram": {
-    "shows": 14,
-    "gross": 20180.0,
-    "sold": 117,
-    "totalSeats": 3188,
-    "venues": 7,
-    "cities": 7,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 3.67
   },
   "Lagan Laagii Re": {
     "shows": 24,
@@ -373,17 +395,6 @@
     "housefull": 0,
     "occupancy": 0.0
   },
-  "Spa": {
-    "shows": 11,
-    "gross": 52055.0,
-    "sold": 387,
-    "totalSeats": 2676,
-    "venues": 8,
-    "cities": 7,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 14.46
-  },
   "Aga Aga Sunbai! Kay Mhantay Sasubai?": {
     "shows": 4,
     "gross": 21710.0,
@@ -416,17 +427,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 4.99
-  },
-  "Sweety Naughty Crazy": {
-    "shows": 8,
-    "gross": 28050.0,
-    "sold": 258,
-    "totalSeats": 2514,
-    "venues": 6,
-    "cities": 5,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 10.26
   },
   "Ramai": {
     "shows": 1,
