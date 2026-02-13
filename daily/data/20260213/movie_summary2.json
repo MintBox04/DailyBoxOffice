@@ -1,14 +1,58 @@
 {
   "O' Romeo": {
-    "shows": 669,
-    "gross": 2919573.0,
-    "sold": 13022,
-    "totalSeats": 145968,
+    "shows": 676,
+    "gross": 2943083.0,
+    "sold": 13142,
+    "totalSeats": 147916,
     "venues": 222,
     "cities": 76,
     "fastfilling": 9,
     "housefull": 3,
-    "occupancy": 8.92
+    "occupancy": 8.88
+  },
+  "Border 2": {
+    "shows": 110,
+    "gross": 321797.0,
+    "sold": 1353,
+    "totalSeats": 18177,
+    "venues": 90,
+    "cities": 34,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.44
+  },
+  "Crime 101": {
+    "shows": 61,
+    "gross": 185435.0,
+    "sold": 637,
+    "totalSeats": 10663,
+    "venues": 39,
+    "cities": 16,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.97
+  },
+  "Rakkasapuradol": {
+    "shows": 40,
+    "gross": 279420.0,
+    "sold": 1567,
+    "totalSeats": 14161,
+    "venues": 22,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 11.07
+  },
+  "Mardaani 3": {
+    "shows": 83,
+    "gross": 265292.0,
+    "sold": 1090,
+    "totalSeats": 14750,
+    "venues": 63,
+    "cities": 19,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 7.39
   },
   "Mon Maaney Na": {
     "shows": 12,
@@ -21,28 +65,6 @@
     "housefull": 0,
     "occupancy": 4.7
   },
-  "Mardaani 3": {
-    "shows": 83,
-    "gross": 262572.0,
-    "sold": 1074,
-    "totalSeats": 14750,
-    "venues": 63,
-    "cities": 19,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 7.28
-  },
-  "Border 2": {
-    "shows": 109,
-    "gross": 320397.0,
-    "sold": 1346,
-    "totalSeats": 18025,
-    "venues": 90,
-    "cities": 34,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.47
-  },
   "Yeh Dil Aashiqanaa": {
     "shows": 21,
     "gross": 18865.0,
@@ -53,17 +75,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 3.35
-  },
-  "Crime 101": {
-    "shows": 60,
-    "gross": 183465.0,
-    "sold": 628,
-    "totalSeats": 10353,
-    "venues": 39,
-    "cities": 16,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.07
   },
   "Funky": {
     "shows": 101,
@@ -339,17 +350,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 10.29
-  },
-  "Rakkasapuradol": {
-    "shows": 39,
-    "gross": 265080.0,
-    "sold": 1455,
-    "totalSeats": 13528,
-    "venues": 22,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 10.76
   },
   "Nilave": {
     "shows": 5,
