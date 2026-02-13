@@ -1,36 +1,58 @@
 {
-  "O' Romeo": {
-    "shows": 689,
-    "gross": 7232092.0,
-    "sold": 26196,
-    "totalSeats": 173374,
-    "venues": 231,
-    "cities": 61,
-    "fastfilling": 50,
+  "Mana Shankara Vara Prasad Garu": {
+    "shows": 21,
+    "gross": 69155.0,
+    "sold": 456,
+    "totalSeats": 9319,
+    "venues": 12,
+    "cities": 7,
+    "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 15.11
+    "occupancy": 4.89
   },
-  "Tu Yaa Main": {
-    "shows": 158,
-    "gross": 890491.0,
-    "sold": 2987,
-    "totalSeats": 30108,
-    "venues": 86,
-    "cities": 16,
-    "fastfilling": 1,
+  "O' Romeo": {
+    "shows": 693,
+    "gross": 7383172.0,
+    "sold": 26580,
+    "totalSeats": 174056,
+    "venues": 232,
+    "cities": 61,
+    "fastfilling": 52,
     "housefull": 0,
-    "occupancy": 9.92
+    "occupancy": 15.27
   },
   "Mardaani 3": {
-    "shows": 110,
-    "gross": 637310.0,
-    "sold": 2458,
-    "totalSeats": 22520,
+    "shows": 112,
+    "gross": 686060.0,
+    "sold": 2564,
+    "totalSeats": 22876,
     "venues": 80,
     "cities": 11,
     "fastfilling": 4,
     "housefull": 0,
-    "occupancy": 10.91
+    "occupancy": 11.21
+  },
+  "Tu Yaa Main": {
+    "shows": 159,
+    "gross": 919131.0,
+    "sold": 3052,
+    "totalSeats": 30344,
+    "venues": 86,
+    "cities": 16,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 10.06
+  },
+  "Punha Ekda Sade Made Teen": {
+    "shows": 51,
+    "gross": 144870.0,
+    "sold": 623,
+    "totalSeats": 10114,
+    "venues": 44,
+    "cities": 7,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.16
   },
   "Border 2": {
     "shows": 103,
@@ -53,17 +75,6 @@
     "fastfilling": 2,
     "housefull": 0,
     "occupancy": 8.05
-  },
-  "Mana Shankara Vara Prasad Garu": {
-    "shows": 21,
-    "gross": 70955.0,
-    "sold": 474,
-    "totalSeats": 9319,
-    "venues": 12,
-    "cities": 7,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.09
   },
   "Funky": {
     "shows": 254,
@@ -207,17 +218,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 6.37
-  },
-  "Punha Ekda Sade Made Teen": {
-    "shows": 51,
-    "gross": 150470.0,
-    "sold": 631,
-    "totalSeats": 10114,
-    "venues": 44,
-    "cities": 7,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.24
   },
   "Lagan Laagii Re": {
     "shows": 5,
