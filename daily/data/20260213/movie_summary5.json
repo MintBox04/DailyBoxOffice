@@ -1,4 +1,125 @@
 {
+  "Funky": {
+    "shows": 88,
+    "gross": 688039.0,
+    "sold": 3906,
+    "totalSeats": 28031,
+    "venues": 44,
+    "cities": 20,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 13.93
+  },
+  "Tu Yaa Main": {
+    "shows": 185,
+    "gross": 660560.0,
+    "sold": 1853,
+    "totalSeats": 29236,
+    "venues": 102,
+    "cities": 18,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 6.34
+  },
+  "O' Romeo": {
+    "shows": 833,
+    "gross": 6974742.29,
+    "sold": 21698,
+    "totalSeats": 185901,
+    "venues": 241,
+    "cities": 85,
+    "fastfilling": 26,
+    "housefull": 1,
+    "occupancy": 11.67
+  },
+  "Wuthering Heights": {
+    "shows": 66,
+    "gross": 629170.0,
+    "sold": 1310,
+    "totalSeats": 9962,
+    "venues": 43,
+    "cities": 8,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 13.15
+  },
+  "Crime 101": {
+    "shows": 97,
+    "gross": 426093.0,
+    "sold": 1090,
+    "totalSeats": 15421,
+    "venues": 66,
+    "cities": 18,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 7.07
+  },
+  "Border 2": {
+    "shows": 149,
+    "gross": 761051.37,
+    "sold": 2483,
+    "totalSeats": 23912,
+    "venues": 115,
+    "cities": 37,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 10.38
+  },
+  "Mardaani 3": {
+    "shows": 107,
+    "gross": 611325.0,
+    "sold": 1694,
+    "totalSeats": 16742,
+    "venues": 84,
+    "cities": 26,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 10.12
+  },
+  "Kariya": {
+    "shows": 11,
+    "gross": 121013.0,
+    "sold": 934,
+    "totalSeats": 5092,
+    "venues": 8,
+    "cities": 4,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 18.34
+  },
+  "Landlord": {
+    "shows": 10,
+    "gross": 28400.0,
+    "sold": 168,
+    "totalSeats": 4240,
+    "venues": 5,
+    "cities": 4,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 3.96
+  },
+  "Punha Ekda Sade Made Teen": {
+    "shows": 26,
+    "gross": 37675.0,
+    "sold": 206,
+    "totalSeats": 5560,
+    "venues": 22,
+    "cities": 11,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 3.71
+  },
+  "Mana Shankara Vara Prasad Garu": {
+    "shows": 10,
+    "gross": 128760.0,
+    "sold": 1033,
+    "totalSeats": 5066,
+    "venues": 5,
+    "cities": 5,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 20.39
+  },
   "Chatha Pacha: The Ring of Rowdies": {
     "shows": 5,
     "gross": 100983.0,
@@ -9,61 +130,6 @@
     "fastfilling": 2,
     "housefull": 0,
     "occupancy": 45.37
-  },
-  "Funky": {
-    "shows": 86,
-    "gross": 678039.0,
-    "sold": 3806,
-    "totalSeats": 26948,
-    "venues": 43,
-    "cities": 20,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 14.12
-  },
-  "Tu Yaa Main": {
-    "shows": 182,
-    "gross": 637410.0,
-    "sold": 1829,
-    "totalSeats": 28907,
-    "venues": 101,
-    "cities": 18,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.33
-  },
-  "Border 2": {
-    "shows": 146,
-    "gross": 739021.37,
-    "sold": 2399,
-    "totalSeats": 23253,
-    "venues": 114,
-    "cities": 36,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 10.32
-  },
-  "O' Romeo": {
-    "shows": 817,
-    "gross": 6783712.29,
-    "sold": 21098,
-    "totalSeats": 181703,
-    "venues": 240,
-    "cities": 84,
-    "fastfilling": 24,
-    "housefull": 1,
-    "occupancy": 11.61
-  },
-  "Punha Ekda Sade Made Teen": {
-    "shows": 25,
-    "gross": 35675.0,
-    "sold": 186,
-    "totalSeats": 5076,
-    "venues": 21,
-    "cities": 11,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 3.66
   },
   "Koodothram": {
     "shows": 6,
@@ -86,39 +152,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 5.26
-  },
-  "Mardaani 3": {
-    "shows": 106,
-    "gross": 607245.0,
-    "sold": 1676,
-    "totalSeats": 16506,
-    "venues": 83,
-    "cities": 26,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 10.15
-  },
-  "Crime 101": {
-    "shows": 96,
-    "gross": 419693.0,
-    "sold": 1083,
-    "totalSeats": 15391,
-    "venues": 66,
-    "cities": 18,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 7.04
-  },
-  "Wuthering Heights": {
-    "shows": 65,
-    "gross": 613870.0,
-    "sold": 1298,
-    "totalSeats": 9932,
-    "venues": 43,
-    "cities": 8,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 13.07
   },
   "Ek Deewane Ki Deewaniyat": {
     "shows": 3,
@@ -527,17 +560,6 @@
     "housefull": 0,
     "occupancy": 93.25
   },
-  "Mana Shankara Vara Prasad Garu": {
-    "shows": 10,
-    "gross": 195960.0,
-    "sold": 1604,
-    "totalSeats": 5066,
-    "venues": 5,
-    "cities": 5,
-    "fastfilling": 3,
-    "housefull": 0,
-    "occupancy": 31.66
-  },
   "1+1 Offer": {
     "shows": 1,
     "gross": 0.0,
@@ -592,17 +614,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 1.1
-  },
-  "Landlord": {
-    "shows": 9,
-    "gross": 28400.0,
-    "sold": 168,
-    "totalSeats": 4042,
-    "venues": 5,
-    "cities": 4,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.16
   },
   "Ranapati Shivray - Swari Agra": {
     "shows": 3,
@@ -845,17 +856,6 @@
     "fastfilling": 1,
     "housefull": 0,
     "occupancy": 64.62
-  },
-  "Kariya": {
-    "shows": 10,
-    "gross": 114613.0,
-    "sold": 870,
-    "totalSeats": 4298,
-    "venues": 7,
-    "cities": 3,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 20.24
   },
   "A Beautiful Breakup": {
     "shows": 1,
