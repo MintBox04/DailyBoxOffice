@@ -1,14 +1,25 @@
 {
+  "Tu Yaa Main": {
+    "shows": 69,
+    "gross": 174520.0,
+    "sold": 768,
+    "totalSeats": 12341,
+    "venues": 39,
+    "cities": 16,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 6.22
+  },
   "O' Romeo": {
-    "shows": 632,
-    "gross": 3069140.19,
-    "sold": 13226,
-    "totalSeats": 120660,
+    "shows": 633,
+    "gross": 3083660.19,
+    "sold": 13292,
+    "totalSeats": 120910,
     "venues": 215,
     "cities": 98,
     "fastfilling": 19,
     "housefull": 3,
-    "occupancy": 10.96
+    "occupancy": 10.99
   },
   "My Lord": {
     "shows": 60,
@@ -42,17 +53,6 @@
     "fastfilling": 1,
     "housefull": 0,
     "occupancy": 7.01
-  },
-  "Tu Yaa Main": {
-    "shows": 68,
-    "gross": 174520.0,
-    "sold": 768,
-    "totalSeats": 12161,
-    "venues": 39,
-    "cities": 16,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 6.32
   },
   "Crime 101": {
     "shows": 48,
