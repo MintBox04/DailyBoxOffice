@@ -1,25 +1,69 @@
 {
-  "O' Romeo": {
-    "shows": 473,
-    "gross": 1744988.24,
-    "sold": 8811,
-    "totalSeats": 110583,
-    "venues": 186,
-    "cities": 99,
-    "fastfilling": 5,
-    "housefull": 1,
-    "occupancy": 7.97
-  },
   "Mana Shankara Vara Prasad Garu": {
-    "shows": 9,
-    "gross": 16750.0,
-    "sold": 161,
-    "totalSeats": 3661,
+    "shows": 11,
+    "gross": 16950.0,
+    "sold": 163,
+    "totalSeats": 4261,
     "venues": 7,
     "cities": 7,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": 4.4
+    "occupancy": 3.83
+  },
+  "Nam Naadu": {
+    "shows": 4,
+    "gross": 0.0,
+    "sold": 0,
+    "totalSeats": 486,
+    "venues": 2,
+    "cities": 2,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 0.0
+  },
+  "O' Romeo": {
+    "shows": 483,
+    "gross": 1811593.24,
+    "sold": 9445,
+    "totalSeats": 113211,
+    "venues": 189,
+    "cities": 100,
+    "fastfilling": 6,
+    "housefull": 1,
+    "occupancy": 8.34
+  },
+  "With Love": {
+    "shows": 26,
+    "gross": 115270.0,
+    "sold": 802,
+    "totalSeats": 10464,
+    "venues": 15,
+    "cities": 9,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.66
+  },
+  "Funky": {
+    "shows": 32,
+    "gross": 236305.0,
+    "sold": 2080,
+    "totalSeats": 11242,
+    "venues": 20,
+    "cities": 20,
+    "fastfilling": 4,
+    "housefull": 0,
+    "occupancy": 18.5
+  },
+  "Mardaani 3": {
+    "shows": 51,
+    "gross": 224830.0,
+    "sold": 849,
+    "totalSeats": 9184,
+    "venues": 39,
+    "cities": 16,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 9.24
   },
   "Border 2": {
     "shows": 76,
@@ -54,17 +98,6 @@
     "housefull": 0,
     "occupancy": 5.68
   },
-  "Funky": {
-    "shows": 29,
-    "gross": 183505.0,
-    "sold": 1552,
-    "totalSeats": 10193,
-    "venues": 19,
-    "cities": 19,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 15.23
-  },
   "My Lord": {
     "shows": 14,
     "gross": 30640.0,
@@ -97,17 +130,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 4.93
-  },
-  "With Love": {
-    "shows": 24,
-    "gross": 102220.0,
-    "sold": 715,
-    "totalSeats": 9403,
-    "venues": 15,
-    "cities": 9,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.6
   },
   "Kaa -The Forest": {
     "shows": 1,
@@ -274,17 +296,6 @@
     "housefull": 0,
     "occupancy": 16.59
   },
-  "Mardaani 3": {
-    "shows": 50,
-    "gross": 224830.0,
-    "sold": 849,
-    "totalSeats": 9009,
-    "venues": 39,
-    "cities": 16,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 9.42
-  },
   "Temple Run": {
     "shows": 5,
     "gross": 0.0,
@@ -427,17 +438,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 13.04
-  },
-  "Nam Naadu": {
-    "shows": 3,
-    "gross": 0.0,
-    "sold": 0,
-    "totalSeats": 407,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 0.0
   },
   "Chaal Jeevi Laiye": {
     "shows": 1,
