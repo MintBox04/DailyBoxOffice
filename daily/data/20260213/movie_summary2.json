@@ -1,14 +1,58 @@
 {
   "O' Romeo": {
-    "shows": 845,
-    "gross": 5149438.0,
-    "sold": 20536,
-    "totalSeats": 183475,
+    "shows": 847,
+    "gross": 5200498.0,
+    "sold": 20703,
+    "totalSeats": 184008,
     "venues": 236,
     "cities": 78,
-    "fastfilling": 36,
+    "fastfilling": 37,
     "housefull": 3,
-    "occupancy": 11.19
+    "occupancy": 11.25
+  },
+  "Tu Yaa Main": {
+    "shows": 137,
+    "gross": 427400.0,
+    "sold": 1582,
+    "totalSeats": 23457,
+    "venues": 67,
+    "cities": 20,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 6.74
+  },
+  "Mardaani 3": {
+    "shows": 103,
+    "gross": 427202.0,
+    "sold": 1676,
+    "totalSeats": 17802,
+    "venues": 75,
+    "cities": 21,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 9.41
+  },
+  "Border 2": {
+    "shows": 145,
+    "gross": 491657.0,
+    "sold": 2072,
+    "totalSeats": 23447,
+    "venues": 103,
+    "cities": 35,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 8.84
+  },
+  "Wuthering Heights": {
+    "shows": 48,
+    "gross": 368088.0,
+    "sold": 1088,
+    "totalSeats": 8605,
+    "venues": 29,
+    "cities": 11,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 12.64
   },
   "DSP Dev 2": {
     "shows": 66,
@@ -43,28 +87,6 @@
     "housefull": 0,
     "occupancy": 13.42
   },
-  "Border 2": {
-    "shows": 144,
-    "gross": 485017.0,
-    "sold": 2055,
-    "totalSeats": 23319,
-    "venues": 103,
-    "cities": 35,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 8.81
-  },
-  "Tu Yaa Main": {
-    "shows": 137,
-    "gross": 422650.0,
-    "sold": 1563,
-    "totalSeats": 23457,
-    "venues": 67,
-    "cities": 20,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 6.66
-  },
   "With Love": {
     "shows": 46,
     "gross": 432964.5,
@@ -97,17 +119,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.71
-  },
-  "Mardaani 3": {
-    "shows": 102,
-    "gross": 420242.0,
-    "sold": 1652,
-    "totalSeats": 17634,
-    "venues": 74,
-    "cities": 21,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 9.37
   },
   "Crime 101": {
     "shows": 78,
@@ -163,17 +174,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 17.65
-  },
-  "Wuthering Heights": {
-    "shows": 47,
-    "gross": 368088.0,
-    "sold": 1088,
-    "totalSeats": 8474,
-    "venues": 29,
-    "cities": 11,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 12.84
   },
   "Vadh 2": {
     "shows": 5,
