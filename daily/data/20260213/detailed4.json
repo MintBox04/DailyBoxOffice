@@ -1,5 +1,25 @@
 [
   {
+    "movie": "O' Romeo",
+    "venue": "Maxus Cinemas: Borivali (W)",
+    "address": "Zoom Plaza Mall, 4th Floor,L.T. Road, Borivali (W), Opposite Gorai Depot, Mumbai, Maharashtra 400092, India",
+    "language": "Hindi",
+    "dimension": "2D",
+    "chain": "Maxus Cinemas",
+    "time": "08:15 AM",
+    "audi": "",
+    "session_id": "122663",
+    "totalSeats": 279,
+    "available": 279,
+    "sold": 0,
+    "gross": 0.0,
+    "minutes_left": 188.9,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "date": "20260213",
+    "source": "BMS"
+  },
+  {
     "movie": "Mardaani 3",
     "venue": "Maxus Cinemas: Bhayander",
     "address": "Maxus Mall, 3rd Floor, 150 Feet Road, Near Railway Flyover, Opposite Salasar Bridge Bhoomi, Mumbai, Maharashtra 401101, India",
