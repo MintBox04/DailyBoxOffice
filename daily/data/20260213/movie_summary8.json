@@ -1,4 +1,70 @@
 {
+  "O' Romeo": {
+    "shows": 527,
+    "gross": 2267485.19,
+    "sold": 8999,
+    "totalSeats": 113319,
+    "venues": 199,
+    "cities": 115,
+    "fastfilling": 6,
+    "housefull": 3,
+    "occupancy": 7.94
+  },
+  "My Lord": {
+    "shows": 49,
+    "gross": 127625.28,
+    "sold": 1010,
+    "totalSeats": 19204,
+    "venues": 27,
+    "cities": 11,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.26
+  },
+  "Funky": {
+    "shows": 70,
+    "gross": 605892.12,
+    "sold": 4459,
+    "totalSeats": 23156,
+    "venues": 38,
+    "cities": 33,
+    "fastfilling": 9,
+    "housefull": 0,
+    "occupancy": 19.26
+  },
+  "Wuthering Heights": {
+    "shows": 32,
+    "gross": 159287.58,
+    "sold": 502,
+    "totalSeats": 6221,
+    "venues": 20,
+    "cities": 13,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.07
+  },
+  "Tu Yaa Main": {
+    "shows": 81,
+    "gross": 206658.73,
+    "sold": 766,
+    "totalSeats": 16213,
+    "venues": 46,
+    "cities": 24,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.72
+  },
+  "Mardaani 3": {
+    "shows": 51,
+    "gross": 172122.0,
+    "sold": 660,
+    "totalSeats": 8698,
+    "venues": 39,
+    "cities": 24,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 7.59
+  },
   "Sky (2026)": {
     "shows": 5,
     "gross": 49614.0,
@@ -10,17 +76,6 @@
     "housefull": 0,
     "occupancy": 51.69
   },
-  "Mardaani 3": {
-    "shows": 50,
-    "gross": 168242.0,
-    "sold": 650,
-    "totalSeats": 8522,
-    "venues": 39,
-    "cities": 24,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.63
-  },
   "Border 2": {
     "shows": 94,
     "gross": 305041.0,
@@ -31,50 +86,6 @@
     "fastfilling": 2,
     "housefull": 0,
     "occupancy": 10.11
-  },
-  "O' Romeo": {
-    "shows": 520,
-    "gross": 2227255.19,
-    "sold": 8814,
-    "totalSeats": 112114,
-    "venues": 198,
-    "cities": 115,
-    "fastfilling": 6,
-    "housefull": 3,
-    "occupancy": 7.86
-  },
-  "Tu Yaa Main": {
-    "shows": 80,
-    "gross": 204838.73,
-    "sold": 759,
-    "totalSeats": 15998,
-    "venues": 46,
-    "cities": 24,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.74
-  },
-  "Funky": {
-    "shows": 69,
-    "gross": 604692.12,
-    "sold": 4451,
-    "totalSeats": 22827,
-    "venues": 38,
-    "cities": 33,
-    "fastfilling": 9,
-    "housefull": 0,
-    "occupancy": 19.5
-  },
-  "My Lord": {
-    "shows": 48,
-    "gross": 127625.28,
-    "sold": 1010,
-    "totalSeats": 18839,
-    "venues": 27,
-    "cities": 11,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.36
   },
   "Crime 101": {
     "shows": 38,
@@ -108,17 +119,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 10.15
-  },
-  "Wuthering Heights": {
-    "shows": 31,
-    "gross": 158847.58,
-    "sold": 500,
-    "totalSeats": 6107,
-    "venues": 20,
-    "cities": 13,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 8.19
   },
   "Amaravathiki Aahvanam": {
     "shows": 10,
