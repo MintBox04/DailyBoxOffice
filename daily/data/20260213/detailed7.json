@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "movie": "O' Romeo",
+    "venue": "PVR: City Center, Nashik",
+    "address": "Sambaji Chowk, Lawate Nagar, Banyan Square, Untwadi, Nashik, Maharashtra 422009, India",
+    "language": "Hindi",
+    "dimension": "2D",
+    "chain": "PVR",
+    "time": "08:00 AM",
+    "audi": "",
+    "session_id": "20323",
+    "totalSeats": 185,
+    "available": 164,
+    "sold": 21,
+    "gross": 5360.0,
+    "minutes_left": 177.7,
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "date": "20260213",
+    "source": "BMS"
+  }
+]
