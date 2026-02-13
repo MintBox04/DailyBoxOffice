@@ -1,25 +1,36 @@
 {
-  "Funky": {
-    "shows": 83,
-    "gross": 691638.13,
-    "sold": 5374,
-    "totalSeats": 36332,
-    "venues": 46,
-    "cities": 36,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 14.79
-  },
   "O' Romeo": {
-    "shows": 548,
-    "gross": 3282691.42,
-    "sold": 13013,
-    "totalSeats": 134872,
+    "shows": 550,
+    "gross": 3299071.42,
+    "sold": 13073,
+    "totalSeats": 135235,
     "venues": 181,
     "cities": 88,
     "fastfilling": 7,
     "housefull": 0,
-    "occupancy": 9.65
+    "occupancy": 9.67
+  },
+  "Funky": {
+    "shows": 84,
+    "gross": 699338.13,
+    "sold": 5409,
+    "totalSeats": 36472,
+    "venues": 47,
+    "cities": 37,
+    "fastfilling": 2,
+    "housefull": 0,
+    "occupancy": 14.83
+  },
+  "Couple Friendly": {
+    "shows": 3,
+    "gross": 5400.0,
+    "sold": 38,
+    "totalSeats": 684,
+    "venues": 3,
+    "cities": 3,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.56
   },
   "Landlord": {
     "shows": 13,
@@ -185,17 +196,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 7.89
-  },
-  "Couple Friendly": {
-    "shows": 2,
-    "gross": 4640.0,
-    "sold": 34,
-    "totalSeats": 432,
-    "venues": 2,
-    "cities": 2,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 7.87
   },
   "Mana Shankara Vara Prasad Garu": {
     "shows": 13,
