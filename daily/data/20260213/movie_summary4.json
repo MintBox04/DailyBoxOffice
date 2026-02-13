@@ -1,4 +1,37 @@
 {
+  "O' Romeo": {
+    "shows": 689,
+    "gross": 7232092.0,
+    "sold": 26196,
+    "totalSeats": 173374,
+    "venues": 231,
+    "cities": 61,
+    "fastfilling": 50,
+    "housefull": 0,
+    "occupancy": 15.11
+  },
+  "Tu Yaa Main": {
+    "shows": 158,
+    "gross": 890491.0,
+    "sold": 2987,
+    "totalSeats": 30108,
+    "venues": 86,
+    "cities": 16,
+    "fastfilling": 1,
+    "housefull": 0,
+    "occupancy": 9.92
+  },
+  "Mardaani 3": {
+    "shows": 110,
+    "gross": 637310.0,
+    "sold": 2458,
+    "totalSeats": 22520,
+    "venues": 80,
+    "cities": 11,
+    "fastfilling": 4,
+    "housefull": 0,
+    "occupancy": 10.91
+  },
   "Border 2": {
     "shows": 103,
     "gross": 464249.0,
@@ -10,27 +43,16 @@
     "housefull": 0,
     "occupancy": 11.0
   },
-  "O' Romeo": {
-    "shows": 689,
-    "gross": 7234672.0,
-    "sold": 26204,
-    "totalSeats": 173374,
-    "venues": 231,
-    "cities": 61,
-    "fastfilling": 50,
+  "Crime 101": {
+    "shows": 109,
+    "gross": 502017.0,
+    "sold": 1506,
+    "totalSeats": 18717,
+    "venues": 74,
+    "cities": 14,
+    "fastfilling": 2,
     "housefull": 0,
-    "occupancy": 15.11
-  },
-  "Tu Yaa Main": {
-    "shows": 158,
-    "gross": 889341.0,
-    "sold": 2982,
-    "totalSeats": 30108,
-    "venues": 86,
-    "cities": 16,
-    "fastfilling": 1,
-    "housefull": 0,
-    "occupancy": 9.9
+    "occupancy": 8.05
   },
   "Mana Shankara Vara Prasad Garu": {
     "shows": 21,
@@ -76,17 +98,6 @@
     "housefull": 0,
     "occupancy": 21.1
   },
-  "Crime 101": {
-    "shows": 109,
-    "gross": 502457.0,
-    "sold": 1507,
-    "totalSeats": 18717,
-    "venues": 74,
-    "cities": 14,
-    "fastfilling": 2,
-    "housefull": 0,
-    "occupancy": 8.05
-  },
   "Wuthering Heights": {
     "shows": 70,
     "gross": 653658.0,
@@ -97,17 +108,6 @@
     "fastfilling": 1,
     "housefull": 1,
     "occupancy": 12.63
-  },
-  "Mardaani 3": {
-    "shows": 110,
-    "gross": 636620.0,
-    "sold": 2455,
-    "totalSeats": 22520,
-    "venues": 80,
-    "cities": 11,
-    "fastfilling": 4,
-    "housefull": 0,
-    "occupancy": 10.9
   },
   "Dhurandhar": {
     "shows": 14,
