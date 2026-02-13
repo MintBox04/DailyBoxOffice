@@ -1,4 +1,37 @@
 {
+  "O' Romeo": {
+    "shows": 487,
+    "gross": 2624164.83,
+    "sold": 12919,
+    "totalSeats": 109282,
+    "venues": 177,
+    "cities": 82,
+    "fastfilling": 10,
+    "housefull": 1,
+    "occupancy": 11.82
+  },
+  "Tu Yaa Main": {
+    "shows": 49,
+    "gross": 169067.38,
+    "sold": 816,
+    "totalSeats": 9815,
+    "venues": 32,
+    "cities": 14,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 8.31
+  },
+  "Minnale": {
+    "shows": 24,
+    "gross": 237682.36,
+    "sold": 1907,
+    "totalSeats": 5578,
+    "venues": 17,
+    "cities": 2,
+    "fastfilling": 5,
+    "housefull": 0,
+    "occupancy": 34.19
+  },
   "With Love": {
     "shows": 120,
     "gross": 1896474.66,
@@ -43,17 +76,6 @@
     "housefull": 0,
     "occupancy": 15.85
   },
-  "Minnale": {
-    "shows": 23,
-    "gross": 235670.61,
-    "sold": 1890,
-    "totalSeats": 5420,
-    "venues": 16,
-    "cities": 2,
-    "fastfilling": 5,
-    "housefull": 0,
-    "occupancy": 34.87
-  },
   "Pookie": {
     "shows": 67,
     "gross": 323661.72,
@@ -75,17 +97,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 4.32
-  },
-  "O' Romeo": {
-    "shows": 486,
-    "gross": 2598874.83,
-    "sold": 12806,
-    "totalSeats": 109021,
-    "venues": 177,
-    "cities": 82,
-    "fastfilling": 10,
-    "housefull": 1,
-    "occupancy": 11.75
   },
   "Prakambanam": {
     "shows": 14,
@@ -229,17 +240,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 9.47
-  },
-  "Tu Yaa Main": {
-    "shows": 49,
-    "gross": 167687.38,
-    "sold": 810,
-    "totalSeats": 9815,
-    "venues": 32,
-    "cities": 14,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 8.25
   },
   "Vadh 2": {
     "shows": 5,
