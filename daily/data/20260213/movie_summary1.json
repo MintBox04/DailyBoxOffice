@@ -1,4 +1,37 @@
 {
+  "O' Romeo": {
+    "shows": 597,
+    "gross": 2902405.24,
+    "sold": 13432,
+    "totalSeats": 140241,
+    "venues": 205,
+    "cities": 106,
+    "fastfilling": 11,
+    "housefull": 2,
+    "occupancy": 9.58
+  },
+  "Crime 101": {
+    "shows": 43,
+    "gross": 123670.0,
+    "sold": 374,
+    "totalSeats": 7978,
+    "venues": 30,
+    "cities": 15,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 4.69
+  },
+  "Tu Yaa Main": {
+    "shows": 90,
+    "gross": 267520.0,
+    "sold": 1043,
+    "totalSeats": 17402,
+    "venues": 42,
+    "cities": 10,
+    "fastfilling": 0,
+    "housefull": 0,
+    "occupancy": 5.99
+  },
   "With Love": {
     "shows": 38,
     "gross": 210020.0,
@@ -32,17 +65,6 @@
     "housefull": 0,
     "occupancy": 5.36
   },
-  "O' Romeo": {
-    "shows": 595,
-    "gross": 2823655.24,
-    "sold": 13301,
-    "totalSeats": 140132,
-    "venues": 204,
-    "cities": 106,
-    "fastfilling": 10,
-    "housefull": 2,
-    "occupancy": 9.49
-  },
   "Mylanji": {
     "shows": 5,
     "gross": 0.0,
@@ -53,28 +75,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 0.0
-  },
-  "Tu Yaa Main": {
-    "shows": 90,
-    "gross": 267520.0,
-    "sold": 1043,
-    "totalSeats": 17402,
-    "venues": 42,
-    "cities": 10,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 5.99
-  },
-  "Crime 101": {
-    "shows": 43,
-    "gross": 122470.0,
-    "sold": 370,
-    "totalSeats": 7978,
-    "venues": 30,
-    "cities": 15,
-    "fastfilling": 0,
-    "housefull": 0,
-    "occupancy": 4.64
   },
   "My Lord": {
     "shows": 19,
