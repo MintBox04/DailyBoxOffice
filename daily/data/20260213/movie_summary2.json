@@ -1,4 +1,26 @@
 {
+  "O' Romeo": {
+    "shows": 845,
+    "gross": 5149438.0,
+    "sold": 20536,
+    "totalSeats": 183475,
+    "venues": 236,
+    "cities": 78,
+    "fastfilling": 36,
+    "housefull": 3,
+    "occupancy": 11.19
+  },
+  "DSP Dev 2": {
+    "shows": 66,
+    "gross": 243386.0,
+    "sold": 1019,
+    "totalSeats": 15219,
+    "venues": 24,
+    "cities": 9,
+    "fastfilling": 0,
+    "housefull": 1,
+    "occupancy": 6.7
+  },
   "Ashakal Aayiram": {
     "shows": 54,
     "gross": 225347.8,
@@ -20,17 +42,6 @@
     "fastfilling": 4,
     "housefull": 0,
     "occupancy": 13.42
-  },
-  "O' Romeo": {
-    "shows": 844,
-    "gross": 5145138.0,
-    "sold": 20519,
-    "totalSeats": 183209,
-    "venues": 235,
-    "cities": 78,
-    "fastfilling": 36,
-    "housefull": 3,
-    "occupancy": 11.2
   },
   "Border 2": {
     "shows": 144,
@@ -152,17 +163,6 @@
     "fastfilling": 0,
     "housefull": 0,
     "occupancy": 17.65
-  },
-  "DSP Dev 2": {
-    "shows": 65,
-    "gross": 243386.0,
-    "sold": 1019,
-    "totalSeats": 14942,
-    "venues": 23,
-    "cities": 9,
-    "fastfilling": 0,
-    "housefull": 1,
-    "occupancy": 6.82
   },
   "Wuthering Heights": {
     "shows": 47,
